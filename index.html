@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+  <title>QuantCards — 2 607 Flashcards d'Entretiens Quant & S&T (WSO)</title>
+  <meta name="description" content="L'application d'entraînement ultime pour les entretiens de Quant Trading, Quant Research et Sales & Trading. 2 607 questions mot-pour-mot extraites de Wall Street Oasis.">
+  <meta name="theme-color" content="#090d16">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📈</text></svg>">
+</head>
+<body>
+
+  <!-- Header -->
+  <header>
+    <div class="header-container">
+      <div class="logo-area" onclick="openDecksHub()">
+        <div class="logo-icon">
+          <svg viewBox="0 0 24 24"><path d="M3 13h2v-2H3v2zm0 4h2v-2H3v2zm0-8h2V7H3v2zm4 4h14v-2H7v2zm0 4h14v-2H7v2zM7 7v2h14V7H7z"/></svg>
+        </div>
+        <div>
+          <div class="logo-title">QUANTCARDS</div>
+          <div class="logo-subtitle">WSO Master Database</div>
+        </div>
+      </div>
+
+      <div class="nav-tabs">
+        <button class="nav-tab-btn active" id="tab-decks" onclick="switchTab('decks')">
+          <span>📦</span> Paquets (<span id="total-decks-badge">26</span>)
+        </button>
+        <button class="nav-tab-btn" id="tab-cards" onclick="switchTab('cards')">
+          <span>🃏</span> Cartes (<span id="total-cards-badge">2607</span>)
+        </button>
+        <button class="nav-tab-btn" id="tab-salaries" onclick="switchTab('salaries')">
+          <span>💰</span> Salaires (<span id="total-sal-badge">435</span>)
+        </button>
+        <button class="nav-tab-btn" id="tab-reviews" onclick="switchTab('reviews')">
+          <span>⚖️</span> Culture (<span id="total-rev-badge">279</span>)
+        </button>
+      </div>
+
+      <div class="stats-pill" id="score-stats" style="cursor:pointer;" onclick="openFavoritesDeck()">
+        <span>⭐</span> <span id="fav-count">0</span> favs • <span>✅</span> <span id="mastered-count">0</span>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Container -->
+  <main>
+
+    <!-- DECKS HUB VIEW (SÉLECTION DES PAQUETS PAR BOÎTE) -->
+    <section id="view-decks" class="decks-view">
+
+      <!-- Hero Banner -->
+      <div class="hero-banner">
+        <h1>Entraînement par Paquet d'Entreprise 🎯</h1>
+        <p>Sélectionnez une institution pour vous entraîner spécifiquement sur ses questions réelles, son style d'évaluation et ses pièges techniques.</p>
+        
+        <div class="hero-actions">
+          <button class="btn-primary-action" onclick="launchDeck('ALL')">
+            <span>🃏</span> Lancer le Grand Chelem (Toutes les 2 607 cartes)
+          </button>
+          <button class="btn-secondary-action" onclick="openFavoritesDeck()">
+            <span>⭐</span> Mes Cartes Favorites (<span id="banner-fav-count">0</span>)
+          </button>
+          <button class="btn-secondary-action" onclick="openReviewDeck()">
+            <span>❌</span> À Revoir (<span id="banner-review-count">0</span>)
+          </button>
+        </div>
+      </div>
+
+      <!-- Section 1 : Prop Trading & Market Making -->
+      <div>
+        <div class="section-title-row">
+          <div class="section-title">
+            <span>⚡</span> Prop Trading & Market Making d'Élite
+          </div>
+          <div class="section-count" id="count-prop-decks">14 Paquets</div>
+        </div>
+        <div class="deck-grid" id="grid-prop"></div>
+      </div>
+
+      <!-- Section 2 : Grandes Banques (S&T, Strats & Structuring) -->
+      <div>
+        <div class="section-title-row">
+          <div class="section-title">
+            <span>🏛️</span> Grandes Banques d'Investissement (S&T / Strats)
+          </div>
+          <div class="section-count" id="count-banks-decks">6 Paquets</div>
+        </div>
+        <div class="deck-grid" id="grid-banks"></div>
+      </div>
+
+      <!-- Section 3 : Quant Hedge Funds Systématiques -->
+      <div>
+        <div class="section-title-row">
+          <div class="section-title">
+            <span>📈</span> Quant Hedge Funds Systématiques & Pods
+          </div>
+          <div class="section-count" id="count-funds-decks">6 Paquets</div>
+        </div>
+        <div class="deck-grid" id="grid-funds"></div>
+      </div>
+
+    </section>
+
+    <!-- FLASHCARDS VIEW (DANS UN PAQUET) -->
+    <section id="view-cards" style="display:none;">
+
+      <!-- Deck Top Navigation Bar -->
+      <div class="deck-navigation-bar">
+        <button class="btn-back-decks" onclick="switchTab('decks')">
+          <svg width="16" height="16" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18"></path></svg>
+          Changer de paquet
+        </button>
+
+        <div class="current-deck-info">
+          <span id="active-deck-title">Jane Street</span>
+          <span class="deck-badge-count" id="active-deck-badge">339 cartes</span>
+        </div>
+
+        <button class="ctrl-btn ctrl-btn-flip" style="min-width:auto; padding:0.45rem 0.8rem; font-size:0.75rem;" id="shuffle-btn" title="Mélanger le paquet">
+          🔀 Mélanger
+        </button>
+      </div>
+
+      <!-- Filters & Search -->
+      <div class="filter-bar">
+        <div class="search-row">
+          <div class="search-box">
+            <svg class="search-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path></svg>
+            <input type="text" id="search-input" placeholder="Rechercher dans ce paquet (ex: dice, Bayes, Greeks, straddle)...">
+          </div>
+          <button class="ctrl-btn ctrl-btn-nav" id="fav-filter-btn" title="Afficher uniquement les favoris de ce paquet">
+            ⭐
+          </button>
+        </div>
+
+        <div class="filter-selects">
+          <select id="company-filter">
+            <option value="ALL">🏢 Toutes les institutions (26 boîtes)</option>
+          </select>
+
+          <select id="difficulty-filter">
+            <option value="ALL">🎯 Toutes les difficultés</option>
+            <option value="Very Difficult">🔴 Très difficile (Very Difficult)</option>
+            <option value="Difficult">🟠 Difficile (Difficult)</option>
+            <option value="Average">🟢 Intermédiaire (Average)</option>
+          </select>
+        </div>
+
+        <!-- Tag Chips Carousel -->
+        <div class="chips-container" id="tags-chips">
+          <button class="tag-chip active" data-tag="ALL">Tout</button>
+          <button class="tag-chip" data-tag="Probability & Statistics">🎲 Probabilités</button>
+          <button class="tag-chip" data-tag="Options & Derivatives">📈 Options & Greeks</button>
+          <button class="tag-chip" data-tag="Market Making & Games">🏛️ Market Making</button>
+          <button class="tag-chip" data-tag="Mental Math">⚡ Mental Math</button>
+          <button class="tag-chip" data-tag="Algorithms & Coding">💻 Code / Algo</button>
+          <button class="tag-chip" data-tag="Brainteasers & Logic">🧩 Brainteasers</button>
+          <button class="tag-chip" data-tag="Macro & Fixed Income">💵 Macro & Rates</button>
+          <button class="tag-chip" data-tag="Stochastic & Math">📐 Stochastique</button>
+        </div>
+      </div>
+
+      <!-- Progress Bar -->
+      <div class="progress-container">
+        <span id="card-index-indicator">Carte 1 sur 339</span>
+        <div class="progress-bar-bg">
+          <div class="progress-bar-fill" id="progress-fill"></div>
+        </div>
+        <span id="progress-pct">0%</span>
+      </div>
+
+      <!-- Flashcard 3D Scene -->
+      <div class="card-scene" id="card-scene">
+        <div class="flashcard" id="active-card">
+          
+          <!-- Card Front -->
+          <div class="card-face card-front">
+            <div>
+              <div class="card-header-row">
+                <div style="display:flex; gap:0.4rem; align-items:center; flex-wrap:wrap;">
+                  <span class="company-badge badge-default" id="card-company">Jane Street</span>
+                  <span id="card-tags" style="display:flex; gap:0.3rem;"></span>
+                </div>
+                <button class="fav-btn" id="card-fav-btn" title="Ajouter aux favoris">★</button>
+              </div>
+
+              <div class="card-meta">
+                <span id="card-role">Quantitative Trader</span>
+                <span>•</span>
+                <span id="card-city">London</span>
+                <span>•</span>
+                <span id="card-date">October 2024</span>
+                <span>•</span>
+                <span id="card-diff" style="color:#fbbf24;">Difficult</span>
+              </div>
+            </div>
+
+            <!-- Question -->
+            <div class="question-body" id="card-question">
+              Chargement des questions...
+            </div>
+
+            <!-- Footer -->
+            <div>
+              <div class="process-context" id="card-process-preview" style="display:none;"></div>
+              <div class="card-footer" style="margin-top:0.85rem;">
+                <span class="flip-hint">
+                  <svg width="14" height="14" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15"></path></svg>
+                  Toucher / Cliquer pour voir la réponse
+                </span>
+                <span style="font-size:0.7rem; color:var(--text-muted);">(Espace ou Clic)</span>
+              </div>
+            </div>
+          </div>
+
+          <!-- Card Back -->
+          <div class="card-face card-back">
+            <div>
+              <div class="card-header-row">
+                <span style="font-weight:700; font-size:0.85rem; color:#34d399; text-transform:uppercase; letter-spacing:0.04em;">
+                  💡 Réponse & Démarche du Candidat
+                </span>
+                <a href="#" target="_blank" class="stats-pill" id="card-source-link" style="text-decoration:none; color:#60a5fa; border-color:rgba(96, 165, 250, 0.3); background:rgba(96, 165, 250, 0.1);">
+                  Source WSO ↗
+                </a>
+              </div>
+            </div>
+
+            <!-- Answer -->
+            <div class="answer-body" id="card-answer">
+              Réponse
+            </div>
+
+            <!-- Context -->
+            <div>
+              <div class="process-context" id="card-process-full" style="display:none;"></div>
+              <div class="card-footer" style="margin-top:0.85rem;">
+                <span class="flip-hint" style="color:#94a3b8;">
+                  ↻ Cliquer pour retourner à la question
+                </span>
+                <span id="card-outcome" style="font-weight:600; color:#38bdf8;"></span>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+
+      <!-- Controls Row -->
+      <div class="controls-row">
+        <button class="ctrl-btn ctrl-btn-nav" id="prev-btn" title="Carte précédente (Flèche Gauche)">
+          ⬅️
+        </button>
+        <button class="ctrl-btn ctrl-btn-review" id="review-btn" title="Marquer à revoir">
+          ❌ À revoir
+        </button>
+        <button class="ctrl-btn ctrl-btn-flip" id="flip-btn">
+          🔄 Retourner
+        </button>
+        <button class="ctrl-btn ctrl-btn-mastered" id="mastered-btn" title="Marquer comme maîtrisé">
+          ✅ Je sais
+        </button>
+        <button class="ctrl-btn ctrl-btn-nav" id="next-btn" title="Carte suivante (Flèche Droite)">
+          ➡️
+        </button>
+      </div>
+
+    </section>
+
+    <!-- SALARIES VIEW -->
+    <section id="view-salaries" class="salaries-view">
+      <div class="filter-bar">
+        <div class="search-row">
+          <div class="search-box">
+            <svg class="search-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path></svg>
+            <input type="text" id="salary-search-input" placeholder="Filtrer par entreprise, rôle ou ville (ex: New York, Paris, London, Trader, Quant)...">
+          </div>
+        </div>
+      </div>
+
+      <div class="data-table-container">
+        <table>
+          <thead>
+            <tr>
+              <th>Entreprise</th>
+              <th>Année</th>
+              <th>Poste / Rôle</th>
+              <th>Desk / Division</th>
+              <th>Ville</th>
+              <th>Salaire de Base</th>
+              <th>Bonus Annuel</th>
+            </tr>
+          </thead>
+          <tbody id="salaries-table-body">
+            <tr><td colspan="7" style="text-align:center; padding:2rem;">Chargement des 435 salaires...</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- REVIEWS VIEW -->
+    <section id="view-reviews" class="reviews-view">
+      <div class="filter-bar">
+        <div class="search-row">
+          <div class="search-box">
+            <svg class="search-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path></svg>
+            <input type="text" id="review-search-input" placeholder="Filtrer les avis de culture par entreprise ou mot-clé...">
+          </div>
+        </div>
+      </div>
+
+      <div id="reviews-cards-container" style="display:flex; flex-direction:column; gap:1rem;">
+        Chargement des avis...
+      </div>
+    </section>
+
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
