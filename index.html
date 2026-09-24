@@ -16,33 +16,43 @@
   <!-- Header -->
   <header>
     <div class="header-container">
-      <div class="logo-area" onclick="openDecksHub()">
-        <div class="logo-icon">
-          <svg viewBox="0 0 24 24"><path d="M3 13h2v-2H3v2zm0 4h2v-2H3v2zm0-8h2V7H3v2zm4 4h14v-2H7v2zm0 4h14v-2H7v2zM7 7v2h14V7H7z"/></svg>
+      <div class="header-top-row">
+        <div class="logo-area" onclick="openDecksHub()">
+          <div class="logo-icon">
+            <svg viewBox="0 0 24 24"><path d="M3 13h2v-2H3v2zm0 4h2v-2H3v2zm0-8h2V7H3v2zm4 4h14v-2H7v2zm0 4h14v-2H7v2zM7 7v2h14V7H7z"/></svg>
+          </div>
+          <div>
+            <div class="logo-title">QUANTCARDS</div>
+            <div class="logo-subtitle">WSO Master Database</div>
+          </div>
         </div>
-        <div>
-          <div class="logo-title">QUANTCARDS</div>
-          <div class="logo-subtitle">WSO Master Database</div>
+
+        <div class="stats-pill" id="score-stats" style="cursor:pointer;" onclick="openFavoritesDeck()">
+          <span>⭐</span> <span id="fav-count">0</span> • <span>✅</span> <span id="mastered-count">0</span>
         </div>
       </div>
 
       <div class="nav-tabs">
         <button class="nav-tab-btn active" id="tab-decks" onclick="switchTab('decks')">
-          <span>📦</span> Paquets (<span id="total-decks-badge">26</span>)
+          <span class="tab-emoji">📦</span>
+          <span class="tab-label">Paquets</span>
+          <span class="tab-badge" id="total-decks-badge">26</span>
         </button>
         <button class="nav-tab-btn" id="tab-cards" onclick="switchTab('cards')">
-          <span>🃏</span> Cartes (<span id="total-cards-badge">2607</span>)
+          <span class="tab-emoji">🃏</span>
+          <span class="tab-label">Cartes</span>
+          <span class="tab-badge" id="total-cards-badge">2607</span>
         </button>
         <button class="nav-tab-btn" id="tab-salaries" onclick="switchTab('salaries')">
-          <span>💰</span> Salaires (<span id="total-sal-badge">435</span>)
+          <span class="tab-emoji">💰</span>
+          <span class="tab-label">Salaires</span>
+          <span class="tab-badge" id="total-sal-badge">435</span>
         </button>
         <button class="nav-tab-btn" id="tab-reviews" onclick="switchTab('reviews')">
-          <span>⚖️</span> Culture (<span id="total-rev-badge">279</span>)
+          <span class="tab-emoji">⚖️</span>
+          <span class="tab-label">Culture</span>
+          <span class="tab-badge" id="total-rev-badge">279</span>
         </button>
-      </div>
-
-      <div class="stats-pill" id="score-stats" style="cursor:pointer;" onclick="openFavoritesDeck()">
-        <span>⭐</span> <span id="fav-count">0</span> favs • <span>✅</span> <span id="mastered-count">0</span>
       </div>
     </div>
   </header>
@@ -112,8 +122,8 @@
       <!-- Deck Top Navigation Bar -->
       <div class="deck-navigation-bar">
         <button class="btn-back-decks" onclick="switchTab('decks')">
-          <svg width="16" height="16" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18"></path></svg>
-          Changer de paquet
+          <svg width="15" height="15" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M15 19l-7-7 7-7"></path></svg>
+          <span>Paquets</span>
         </button>
 
         <div class="current-deck-info">
@@ -121,8 +131,8 @@
           <span class="deck-badge-count" id="active-deck-badge">339 cartes</span>
         </div>
 
-        <button class="ctrl-btn ctrl-btn-flip" style="min-width:auto; padding:0.45rem 0.8rem; font-size:0.75rem;" id="shuffle-btn" title="Mélanger le paquet">
-          🔀 Mélanger
+        <button class="btn-shuffle-deck" id="shuffle-btn" title="Mélanger le paquet">
+          <span>🔀</span> <span class="shuffle-label">Mélanger</span>
         </button>
       </div>
 
