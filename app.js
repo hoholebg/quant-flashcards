@@ -776,18 +776,21 @@ function renderSalariesTable(filter = '') {
     const salaries = data.salaries || [];
     salaries.forEach(s => {
       totalCount++;
-      const textToSearch = `${comp} ${s.title} ${s.desk} ${s.location} ${s.year}`.toLowerCase();
+      const textToSearch = `${comp} ${s.title} ${s.desk} ${s.location} ${s.year} ${s.base} ${s.bonus} ${s.total || ''}`.toLowerCase();
       if (filter && !textToSearch.includes(filter)) return;
+
+      const badgeClass = BADGE_COLORS[comp] || 'badge-default';
 
       rows.push(`
         <tr>
-          <td><strong>${escapeHtml(comp)}</strong></td>
-          <td>${s.year}</td>
-          <td>${escapeHtml(s.title)}</td>
-          <td>${escapeHtml(s.desk)}</td>
-          <td>${escapeHtml(s.location)}</td>
+          <td><span class="company-badge ${badgeClass}" style="font-size:0.75rem; padding:0.2rem 0.5rem; white-space:nowrap;">${escapeHtml(comp)}</span></td>
+          <td style="color:#94a3b8; font-weight:600;">${s.year}</td>
+          <td><strong style="color:#f8fafc;">${escapeHtml(s.title)}</strong></td>
+          <td style="color:#cbd5e1; font-size:0.8rem;">${escapeHtml(s.desk)}</td>
+          <td><span style="background:rgba(59,130,246,0.15); color:#60a5fa; padding:0.15rem 0.45rem; border-radius:0.25rem; font-size:0.75rem; font-weight:600; white-space:nowrap;">${escapeHtml(s.location)}</span></td>
           <td><span class="badge-money">${s.base}</span></td>
           <td><span class="badge-money" style="color:#60a5fa; background:rgba(96,165,250,0.1);">${s.bonus}</span></td>
+          <td><span class="badge-money" style="color:#f59e0b; background:rgba(245,158,11,0.12); font-weight:700;">${s.total || s.base}</span></td>
         </tr>
       `);
     });
@@ -797,7 +800,7 @@ function renderSalariesTable(filter = '') {
   if (salBadge) salBadge.innerText = totalCount;
 
   if (rows.length === 0) {
-    tbody.innerHTML = `<tr><td colspan="7" style="text-align:center; padding:2rem; color:#94a3b8;">Aucun salaire trouvé pour "${escapeHtml(filter)}".</td></tr>`;
+    tbody.innerHTML = `<tr><td colspan="8" style="text-align:center; padding:2rem; color:#94a3b8;">Aucun salaire trouvé pour "${escapeHtml(filter)}".</td></tr>`;
   } else {
     tbody.innerHTML = rows.join('');
   }

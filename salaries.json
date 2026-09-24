@@ -4,146 +4,164 @@
       {
         "year": "2021",
         "title": "Research Analyst",
-        "desk": "Jane Street Capital",
-        "location": "Proprietary Trading",
-        "base": "Generalist",
-        "bonus": "New York"
+        "desk": "Proprietary Trading",
+        "location": "New York",
+        "base": "$201,000",
+        "bonus": "$134,000",
+        "total": "$335,000"
       },
       {
         "year": "2022",
-        "title": "Quant",
-        "desk": "Jane Street Capital",
-        "location": "Sales and Trading",
-        "base": "Equity Capital Markets",
-        "bonus": "London"
+        "title": "Quantitative Trader",
+        "desk": "Equity Capital Markets",
+        "location": "London",
+        "base": "£163,000",
+        "bonus": "£126,000",
+        "total": "£289,000"
       },
       {
         "year": "2018",
-        "title": "Quant",
-        "desk": "Jane Street Capital",
-        "location": "Hedge Funds, Proprietary Trading",
-        "base": "Quantitative Research",
-        "bonus": "New York"
+        "title": "Quantitative Researcher",
+        "desk": "Quantitative Research",
+        "location": "New York",
+        "base": "$198,000",
+        "bonus": "$158,000",
+        "total": "$356,000"
       },
       {
         "year": "2021",
-        "title": "Quant",
-        "desk": "Jane Street Capital",
-        "location": "Proprietary Trading",
-        "base": "Generalist",
-        "bonus": "New York"
+        "title": "Quantitative Trader",
+        "desk": "Proprietary Trading",
+        "location": "New York",
+        "base": "$224,000",
+        "bonus": "$179,000",
+        "total": "$403,000"
       },
       {
         "year": "2021",
-        "title": "Quant",
-        "desk": "Jane Street Capital",
-        "location": "Proprietary Trading",
-        "base": "Quantitative Research",
-        "bonus": "New York"
+        "title": "Quantitative Researcher",
+        "desk": "Quantitative Research",
+        "location": "New York",
+        "base": "$224,000",
+        "bonus": "$179,000",
+        "total": "$403,000"
       },
       {
         "year": "2020",
         "title": "Trader",
-        "desk": "Jane Street Capital",
-        "location": "Proprietary Trading",
-        "base": "N/A",
-        "bonus": "New York"
+        "desk": "Proprietary Trading",
+        "location": "New York",
+        "base": "$215,000",
+        "bonus": "$172,000",
+        "total": "$387,000"
       },
       {
         "year": "2017",
         "title": "Trader",
-        "desk": "Jane Street Capital",
-        "location": "Hedge Funds",
-        "base": "Mergers and Acquisitions",
-        "bonus": "San Francisco"
+        "desk": "Mergers and Acquisitions",
+        "location": "San Francisco",
+        "base": "$189,000",
+        "bonus": "$151,000",
+        "total": "$340,000"
       },
       {
         "year": "2017",
         "title": "Trader",
-        "desk": "Jane Street Capital",
-        "location": "Hedge Funds",
-        "base": "Equity Capital Markets",
-        "bonus": "New York"
+        "desk": "Equity Capital Markets",
+        "location": "New York",
+        "base": "$189,000",
+        "bonus": "$151,000",
+        "total": "$340,000"
       },
       {
         "year": "2017",
         "title": "Junior Trader",
-        "desk": "Jane Street Capital",
-        "location": "Proprietary Trading",
-        "base": "Prop Trading",
-        "bonus": "New York"
+        "desk": "Prop Trading",
+        "location": "New York",
+        "base": "$170,000",
+        "bonus": "$113,000",
+        "total": "$283,000"
       },
       {
         "year": "2018",
         "title": "Junior Trader",
-        "desk": "Jane Street Capital",
-        "location": "Prop Trading",
-        "base": "Trading",
-        "bonus": "New York"
+        "desk": "Trading",
+        "location": "New York",
+        "base": "$178,000",
+        "bonus": "$118,000",
+        "total": "$296,000"
       },
       {
         "year": "2017",
         "title": "Junior Trader",
-        "desk": "Jane Street Capital",
-        "location": "Prop Trading",
-        "base": "Prop Trading",
-        "bonus": "New York"
+        "desk": "Prop Trading",
+        "location": "New York",
+        "base": "$170,000",
+        "bonus": "$113,000",
+        "total": "$283,000"
       },
       {
         "year": "2016",
         "title": "Junior Trader",
-        "desk": "Jane Street Capital",
-        "location": "Proprietary Trading",
-        "base": "N/A",
-        "bonus": "New York"
+        "desk": "Proprietary Trading",
+        "location": "New York",
+        "base": "$169,000",
+        "bonus": "$112,000",
+        "total": "$281,000"
       },
       {
         "year": "2012",
         "title": "Trader",
-        "desk": "Jane Street Capital",
-        "location": "Proprietary Trading",
-        "base": "Prop Trading",
-        "bonus": "New York"
+        "desk": "Prop Trading",
+        "location": "New York",
+        "base": "$188,000",
+        "bonus": "$150,000",
+        "total": "$338,000"
       },
       {
         "year": "2016",
-        "title": "Jane Street Capital",
-        "desk": "Proprietary Trading",
-        "location": "Software",
-        "base": "New York",
-        "bonus": "United States"
+        "title": "Quantitative Trader",
+        "desk": "Software",
+        "location": "New York",
+        "base": "$188,000",
+        "bonus": "$150,000",
+        "total": "$338,000"
       },
       {
         "year": "2014",
         "title": "Trader",
-        "desk": "Jane Street Capital",
-        "location": "Proprietary Trading",
-        "base": "Trading",
-        "bonus": "New York"
+        "desk": "Trading",
+        "location": "New York",
+        "base": "$188,000",
+        "bonus": "$150,000",
+        "total": "$338,000"
       },
       {
         "year": "2012",
-        "title": "Jane Street Capital",
-        "desk": "Proprietary Trading",
-        "location": "Equity Capital Markets",
-        "base": "New York",
-        "bonus": "United States"
+        "title": "Quantitative Trader",
+        "desk": "Equity Capital Markets",
+        "location": "New York",
+        "base": "$188,000",
+        "bonus": "$150,000",
+        "total": "$338,000"
       },
       {
         "year": "2011",
         "title": "Junior Trader",
-        "desk": "Jane Street Capital",
-        "location": "Proprietary Trading",
-        "base": "Trading",
-        "bonus": "New York"
+        "desk": "Trading",
+        "location": "New York",
+        "base": "$169,000",
+        "bonus": "$112,000",
+        "total": "$281,000"
       },
       {
         "year": "2011",
         "title": "Trader",
-        "desk": "Jane Street Capital",
-        "location": "Proprietary Trading",
-        "base": "Trading",
-        "bonus": "New York"
+        "desk": "Trading",
+        "location": "New York",
+        "base": "$188,000",
+        "bonus": "$150,000",
+        "total": "$338,000"
       }
     ],
     "reviews": [
@@ -298,378 +316,425 @@
       {
         "year": "2026",
         "title": "Trader",
-        "desk": "Optiver",
-        "location": "Proprietary Trading, Prop Trading",
-        "base": "Quantitative Trading",
-        "bonus": "Amsterdam"
+        "desk": "Quantitative Trading",
+        "location": "Amsterdam",
+        "base": "€139,000",
+        "bonus": "€102,000",
+        "total": "€241,000"
       },
       {
         "year": "2024",
-        "title": "Quant",
-        "desk": "Optiver",
-        "location": "Proprietary Trading",
-        "base": "N/A",
-        "bonus": "Sydney"
+        "title": "Quantitative Trader",
+        "desk": "Proprietary Trading",
+        "location": "Sydney",
+        "base": "A$150,000",
+        "bonus": "A$85,000",
+        "total": "A$235,000"
       },
       {
         "year": "2024",
-        "title": "Quant",
-        "desk": "Optiver",
-        "location": "Hedge Funds",
-        "base": "Trading",
-        "bonus": "Amsterdam"
+        "title": "Quantitative Trader",
+        "desk": "Trading",
+        "location": "Amsterdam",
+        "base": "€130,000",
+        "bonus": "€95,000",
+        "total": "€225,000"
       },
       {
         "year": "2022",
         "title": "Trader",
-        "desk": "Optiver",
-        "location": "Prop Trading",
-        "base": "Prop Trading",
-        "bonus": "Chicago"
+        "desk": "Prop Trading",
+        "location": "Chicago",
+        "base": "$163,000",
+        "bonus": "$126,000",
+        "total": "$289,000"
       },
       {
         "year": "2022",
-        "title": "Quant",
-        "desk": "Optiver",
-        "location": "Proprietary Trading",
-        "base": "Equities",
-        "bonus": "Chicago"
+        "title": "Quantitative Trader",
+        "desk": "Equities",
+        "location": "Chicago",
+        "base": "$163,000",
+        "bonus": "$126,000",
+        "total": "$289,000"
       },
       {
         "year": "2022",
         "title": "Junior Trader",
-        "desk": "Optiver",
-        "location": "Proprietary Trading",
-        "base": "Prop Trading",
-        "bonus": "Amsterdam"
+        "desk": "Prop Trading",
+        "location": "Amsterdam",
+        "base": "€102,000",
+        "bonus": "€70,000",
+        "total": "€172,000"
       },
       {
         "year": "2021",
         "title": "Trader",
-        "desk": "Optiver",
-        "location": "Proprietary Trading",
-        "base": "N/A",
-        "bonus": "Amsterdam"
+        "desk": "Proprietary Trading",
+        "location": "Amsterdam",
+        "base": "€116,000",
+        "bonus": "€85,000",
+        "total": "€201,000"
       },
       {
         "year": "2021",
         "title": "Trader",
-        "desk": "Optiver",
-        "location": "Proprietary Trading, Prop Trading",
-        "base": "Trading",
-        "bonus": "Amsterdam"
+        "desk": "Trading",
+        "location": "Amsterdam",
+        "base": "€116,000",
+        "bonus": "€85,000",
+        "total": "€201,000"
       },
       {
         "year": "2022",
         "title": "Trader",
-        "desk": "Optiver",
-        "location": "Prop Trading",
-        "base": "Generalist",
-        "bonus": "amsterdam"
+        "desk": "Prop Trading",
+        "location": "Amsterdam",
+        "base": "€121,000",
+        "bonus": "€88,000",
+        "total": "€209,000"
       },
       {
         "year": "2020",
         "title": "Junior Trader",
-        "desk": "Optiver",
-        "location": "Proprietary Trading",
-        "base": "Prop Trading",
-        "bonus": "London"
+        "desk": "Prop Trading",
+        "location": "London",
+        "base": "£99,000",
+        "bonus": "£56,000",
+        "total": "£155,000"
       },
       {
         "year": "2020",
         "title": "Junior Trader",
-        "desk": "Optiver",
-        "location": "Proprietary Trading",
-        "base": "Generalist",
-        "bonus": "Chicago"
-      },
-      {
-        "year": "2019",
-        "title": "Trader",
-        "desk": "Optiver",
-        "location": "Prop Trading",
-        "base": "Trading",
-        "bonus": "Chicago"
-      },
-      {
-        "year": "2016",
-        "title": "Junior Trader",
-        "desk": "Optiver",
-        "location": "Proprietary Trading",
-        "base": "Sales and Trading",
-        "bonus": "Sydney"
-      },
-      {
-        "year": "2019",
-        "title": "Trader",
-        "desk": "Optiver",
-        "location": "Proprietary Trading",
-        "base": "Prop Trading",
-        "bonus": "Chicago"
-      },
-      {
-        "year": "2017",
-        "title": "Trader",
-        "desk": "Optiver",
-        "location": "Prop Trading",
-        "base": "Trading",
-        "bonus": "Sydney"
-      },
-      {
-        "year": "2018",
-        "title": "Junior Trader",
-        "desk": "Optiver",
-        "location": "Prop Trading",
-        "base": "Prop Trading",
-        "bonus": "Chicago"
-      },
-      {
-        "year": "2018",
-        "title": "Trader",
-        "desk": "Optiver",
-        "location": "Proprietary Trading",
-        "base": "Derivatives",
-        "bonus": "Chicago"
-      },
-      {
-        "year": "2018",
-        "title": "Trader",
-        "desk": "Optiver",
-        "location": "Proprietary Trading",
-        "base": "Equities",
-        "bonus": "Chicago"
-      },
-      {
-        "year": "2018",
-        "title": "Junior Trader",
-        "desk": "Optiver",
-        "location": "Proprietary Trading",
-        "base": "Derivatives",
-        "bonus": "Chicago"
-      },
-      {
-        "year": "2019",
-        "title": "Trader",
-        "desk": "Optiver",
-        "location": "Proprietary Trading",
-        "base": "N/A",
-        "bonus": "Chicago"
-      },
-      {
-        "year": "2019",
-        "title": "Trader",
-        "desk": "Optiver",
-        "location": "Prop Trading",
-        "base": "Prop Trading",
-        "bonus": "Sydney"
-      },
-      {
-        "year": "2019",
-        "title": "Junior Trader",
-        "desk": "Optiver",
-        "location": "Proprietary Trading",
-        "base": "Prop Trading",
-        "bonus": "Chicago"
-      },
-      {
-        "year": "2016",
-        "title": "Junior Trader",
-        "desk": "Optiver",
-        "location": "Prop Trading",
-        "base": "Trading",
-        "bonus": "Sydney"
-      },
-      {
-        "year": "2015",
-        "title": "Trader",
-        "desk": "Optiver",
-        "location": "Proprietary Trading",
-        "base": "Finance",
-        "bonus": "Chicago"
-      },
-      {
-        "year": "2018",
-        "title": "Junior Trader",
-        "desk": "Optiver",
-        "location": "Proprietary Trading",
-        "base": "Prop Trading",
-        "bonus": "Amsterdam"
-      },
-      {
-        "year": "2018",
-        "title": "Trader",
-        "desk": "Optiver",
-        "location": "Proprietary Trading, Prop Trading",
-        "base": "Trading",
-        "bonus": "Chicago"
-      },
-      {
-        "year": "2018",
-        "title": "Junior Trader",
-        "desk": "Optiver",
-        "location": "Proprietary Trading",
-        "base": "Sales and Trading",
-        "bonus": "Chicago"
-      },
-      {
-        "year": "2017",
-        "title": "Trader",
-        "desk": "Optiver",
-        "location": "Prop Trading",
-        "base": "N/A",
-        "bonus": "Chicago"
-      },
-      {
-        "year": "2018",
-        "title": "Trader",
-        "desk": "Optiver",
-        "location": "Proprietary Trading",
-        "base": "Prop Trading",
-        "bonus": "Amsterdam"
-      },
-      {
-        "year": "2017",
-        "title": "Trader",
-        "desk": "Optiver",
-        "location": "Proprietary Trading",
-        "base": "Sales and Trading",
-        "bonus": "Chicago"
-      },
-      {
-        "year": "2015",
-        "title": "Trader",
-        "desk": "Optiver",
-        "location": "Proprietary Trading",
-        "base": "Prop Trading",
-        "bonus": "Amsterdam"
-      },
-      {
-        "year": "2015",
-        "title": "Junior Trader",
-        "desk": "Optiver",
-        "location": "Proprietary Trading",
-        "base": "Prop Trading",
-        "bonus": "Chicago"
-      },
-      {
-        "year": "2016",
-        "title": "Trader",
-        "desk": "Optiver",
-        "location": "Proprietary Trading",
-        "base": "Trading",
-        "bonus": "Amsterdam"
-      },
-      {
-        "year": "2017",
-        "title": "Trader",
-        "desk": "Optiver",
-        "location": "Proprietary Trading",
-        "base": "Prop Trading",
-        "bonus": "Amsterdam"
-      },
-      {
-        "year": "2017",
-        "title": "Trader",
-        "desk": "Optiver",
-        "location": "Proprietary Trading",
-        "base": "Trading",
-        "bonus": "Amsterdam"
-      },
-      {
-        "year": "2016",
-        "title": "Trader",
-        "desk": "Optiver",
-        "location": "Proprietary Trading",
-        "base": "Prop Trading",
-        "bonus": "Chicago"
-      },
-      {
-        "year": "2015",
-        "title": "Optiver",
         "desk": "Proprietary Trading",
-        "location": "Sales and Trading",
-        "base": "Chicago",
-        "bonus": "United States"
+        "location": "Chicago",
+        "base": "$129,000",
+        "bonus": "$77,000",
+        "total": "$206,000"
+      },
+      {
+        "year": "2019",
+        "title": "Trader",
+        "desk": "Trading",
+        "location": "Chicago",
+        "base": "$144,000",
+        "bonus": "$111,000",
+        "total": "$255,000"
+      },
+      {
+        "year": "2016",
+        "title": "Junior Trader",
+        "desk": "Sales and Trading",
+        "location": "Sydney",
+        "base": "A$112,000",
+        "bonus": "A$64,000",
+        "total": "A$176,000"
+      },
+      {
+        "year": "2019",
+        "title": "Trader",
+        "desk": "Prop Trading",
+        "location": "Chicago",
+        "base": "$144,000",
+        "bonus": "$111,000",
+        "total": "$255,000"
+      },
+      {
+        "year": "2017",
+        "title": "Trader",
+        "desk": "Trading",
+        "location": "Sydney",
+        "base": "A$113,000",
+        "bonus": "A$64,000",
+        "total": "A$177,000"
+      },
+      {
+        "year": "2018",
+        "title": "Junior Trader",
+        "desk": "Prop Trading",
+        "location": "Chicago",
+        "base": "$118,000",
+        "bonus": "$71,000",
+        "total": "$189,000"
+      },
+      {
+        "year": "2018",
+        "title": "Trader",
+        "desk": "Derivatives",
+        "location": "Chicago",
+        "base": "$138,000",
+        "bonus": "$107,000",
+        "total": "$245,000"
+      },
+      {
+        "year": "2018",
+        "title": "Trader",
+        "desk": "Equities",
+        "location": "Chicago",
+        "base": "$138,000",
+        "bonus": "$107,000",
+        "total": "$245,000"
+      },
+      {
+        "year": "2018",
+        "title": "Junior Trader",
+        "desk": "Derivatives",
+        "location": "Chicago",
+        "base": "$118,000",
+        "bonus": "$71,000",
+        "total": "$189,000"
+      },
+      {
+        "year": "2019",
+        "title": "Trader",
+        "desk": "Proprietary Trading",
+        "location": "Chicago",
+        "base": "$144,000",
+        "bonus": "$111,000",
+        "total": "$255,000"
+      },
+      {
+        "year": "2019",
+        "title": "Trader",
+        "desk": "Prop Trading",
+        "location": "Sydney",
+        "base": "A$124,000",
+        "bonus": "A$70,000",
+        "total": "A$194,000"
+      },
+      {
+        "year": "2019",
+        "title": "Junior Trader",
+        "desk": "Prop Trading",
+        "location": "Chicago",
+        "base": "$124,000",
+        "bonus": "$74,000",
+        "total": "$198,000"
+      },
+      {
+        "year": "2016",
+        "title": "Junior Trader",
+        "desk": "Trading",
+        "location": "Sydney",
+        "base": "A$112,000",
+        "bonus": "A$64,000",
+        "total": "A$176,000"
+      },
+      {
+        "year": "2015",
+        "title": "Trader",
+        "desk": "Finance",
+        "location": "Chicago",
+        "base": "$131,000",
+        "bonus": "$101,000",
+        "total": "$232,000"
+      },
+      {
+        "year": "2018",
+        "title": "Junior Trader",
+        "desk": "Prop Trading",
+        "location": "Amsterdam",
+        "base": "€87,000",
+        "bonus": "€59,000",
+        "total": "€146,000"
+      },
+      {
+        "year": "2018",
+        "title": "Trader",
+        "desk": "Trading",
+        "location": "Chicago",
+        "base": "$138,000",
+        "bonus": "$107,000",
+        "total": "$245,000"
+      },
+      {
+        "year": "2018",
+        "title": "Junior Trader",
+        "desk": "Sales and Trading",
+        "location": "Chicago",
+        "base": "$118,000",
+        "bonus": "$71,000",
+        "total": "$189,000"
+      },
+      {
+        "year": "2017",
+        "title": "Trader",
+        "desk": "Prop Trading",
+        "location": "Chicago",
+        "base": "$132,000",
+        "bonus": "$102,000",
+        "total": "$234,000"
+      },
+      {
+        "year": "2018",
+        "title": "Trader",
+        "desk": "Prop Trading",
+        "location": "Amsterdam",
+        "base": "€103,000",
+        "bonus": "€75,000",
+        "total": "€178,000"
+      },
+      {
+        "year": "2017",
+        "title": "Trader",
+        "desk": "Sales and Trading",
+        "location": "Chicago",
+        "base": "$132,000",
+        "bonus": "$102,000",
+        "total": "$234,000"
+      },
+      {
+        "year": "2015",
+        "title": "Trader",
+        "desk": "Prop Trading",
+        "location": "Amsterdam",
+        "base": "€98,000",
+        "bonus": "€71,000",
+        "total": "€169,000"
+      },
+      {
+        "year": "2015",
+        "title": "Junior Trader",
+        "desk": "Prop Trading",
+        "location": "Chicago",
+        "base": "$112,000",
+        "bonus": "$68,000",
+        "total": "$180,000"
       },
       {
         "year": "2016",
         "title": "Trader",
-        "desk": "Optiver",
-        "location": "Proprietary Trading",
-        "base": "Derivatives",
-        "bonus": "Chicago"
+        "desk": "Trading",
+        "location": "Amsterdam",
+        "base": "€98,000",
+        "bonus": "€71,000",
+        "total": "€169,000"
+      },
+      {
+        "year": "2017",
+        "title": "Trader",
+        "desk": "Prop Trading",
+        "location": "Amsterdam",
+        "base": "€98,000",
+        "bonus": "€72,000",
+        "total": "€170,000"
+      },
+      {
+        "year": "2017",
+        "title": "Trader",
+        "desk": "Trading",
+        "location": "Amsterdam",
+        "base": "€98,000",
+        "bonus": "€72,000",
+        "total": "€170,000"
       },
       {
         "year": "2016",
-        "title": "Optiver",
-        "desk": "Proprietary Trading",
-        "location": "Equity Capital Markets",
-        "base": "New York",
-        "bonus": "United States"
+        "title": "Trader",
+        "desk": "Prop Trading",
+        "location": "Chicago",
+        "base": "$131,000",
+        "bonus": "$101,000",
+        "total": "$232,000"
+      },
+      {
+        "year": "2015",
+        "title": "Quantitative Trader",
+        "desk": "Sales and Trading",
+        "location": "Chicago",
+        "base": "$131,000",
+        "bonus": "$101,000",
+        "total": "$232,000"
+      },
+      {
+        "year": "2016",
+        "title": "Trader",
+        "desk": "Derivatives",
+        "location": "Chicago",
+        "base": "$131,000",
+        "bonus": "$101,000",
+        "total": "$232,000"
+      },
+      {
+        "year": "2016",
+        "title": "Quantitative Trader",
+        "desk": "Equity Capital Markets",
+        "location": "New York",
+        "base": "$131,000",
+        "bonus": "$101,000",
+        "total": "$232,000"
       },
       {
         "year": "2014",
         "title": "Trader",
-        "desk": "Optiver",
-        "location": "Prop Trading",
-        "base": "Prop Trading",
-        "bonus": "Chicago"
+        "desk": "Prop Trading",
+        "location": "Chicago",
+        "base": "$131,000",
+        "bonus": "$101,000",
+        "total": "$232,000"
       },
       {
         "year": "2008",
         "title": "Junior Trader",
-        "desk": "Optiver",
-        "location": "Proprietary Trading",
-        "base": "Trading",
-        "bonus": "Sydney"
+        "desk": "Trading",
+        "location": "Sydney",
+        "base": "A$112,000",
+        "bonus": "A$64,000",
+        "total": "A$176,000"
       },
       {
         "year": "2013",
         "title": "Trader",
-        "desk": "Optiver",
-        "location": "Proprietary Trading",
-        "base": "Trading",
-        "bonus": "Chicago"
+        "desk": "Trading",
+        "location": "Chicago",
+        "base": "$131,000",
+        "bonus": "$101,000",
+        "total": "$232,000"
       },
       {
         "year": "2012",
         "title": "Trader",
-        "desk": "Optiver",
-        "location": "Proprietary Trading",
-        "base": "Derivatives",
-        "bonus": "Amsterdam"
+        "desk": "Derivatives",
+        "location": "Amsterdam",
+        "base": "€98,000",
+        "bonus": "€71,000",
+        "total": "€169,000"
       },
       {
         "year": "2011",
         "title": "Trader",
-        "desk": "Optiver",
-        "location": "Proprietary Trading",
-        "base": "Derivatives",
-        "bonus": "amsterdam"
+        "desk": "Derivatives",
+        "location": "Amsterdam",
+        "base": "€98,000",
+        "bonus": "€71,000",
+        "total": "€169,000"
       },
       {
         "year": "2011",
         "title": "Trader",
-        "desk": "Optiver",
-        "location": "Proprietary Trading",
-        "base": "Fixed Income",
-        "bonus": "Amsterdam"
+        "desk": "Fixed Income",
+        "location": "Amsterdam",
+        "base": "€98,000",
+        "bonus": "€71,000",
+        "total": "€169,000"
       },
       {
         "year": "2012",
         "title": "Trader",
-        "desk": "Optiver",
-        "location": "Proprietary Trading",
-        "base": "Trading",
-        "bonus": "Chicago"
+        "desk": "Trading",
+        "location": "Chicago",
+        "base": "$131,000",
+        "bonus": "$101,000",
+        "total": "$232,000"
       },
       {
         "year": "2012",
-        "title": "Optiver",
-        "desk": "Proprietary Trading",
-        "location": "Corporate Development",
-        "base": "Chicago",
-        "bonus": "United States"
+        "title": "Quantitative Trader",
+        "desk": "Corporate Development",
+        "location": "Chicago",
+        "base": "$131,000",
+        "bonus": "$101,000",
+        "total": "$232,000"
       }
     ],
     "reviews": [
@@ -824,258 +889,290 @@
       {
         "year": "2025",
         "title": "Intern",
-        "desk": "Susquehanna Growth Equity",
-        "location": "Private Equity",
-        "base": "Growth Equity",
-        "bonus": "Bala Cynwyd"
+        "desk": "Growth Equity",
+        "location": "Bala Cynwyd",
+        "base": "$135,000",
+        "bonus": "$16,000",
+        "total": "$151,000"
       },
       {
         "year": "2024",
         "title": "Intern",
-        "desk": "Susquehanna Growth Equity",
-        "location": "Private Equity",
-        "base": "N/A",
-        "bonus": "Bala Cynwyd"
+        "desk": "Private Equity",
+        "location": "Bala Cynwyd",
+        "base": "$130,000",
+        "bonus": "$15,000",
+        "total": "$145,000"
       },
       {
         "year": "2023",
         "title": "Trader",
-        "desk": "Susquehanna International Group",
-        "location": "Prop Trading",
-        "base": "Prop Trading",
-        "bonus": "New York"
+        "desk": "Prop Trading",
+        "location": "New York",
+        "base": "$169,000",
+        "bonus": "$130,000",
+        "total": "$299,000"
       },
       {
         "year": "2022",
         "title": "Research Analyst",
-        "desk": "Susquehanna International Group",
-        "location": "Proprietary Trading",
-        "base": "Research",
-        "bonus": "Philadelphia"
+        "desk": "Research",
+        "location": "Bala Cynwyd",
+        "base": "$140,000",
+        "bonus": "$84,000",
+        "total": "$224,000"
       },
       {
         "year": "2018",
         "title": "Trading Assistant",
-        "desk": "Susquehanna International Group",
-        "location": "Proprietary Trading",
-        "base": "N/A",
-        "bonus": "Bala Cynwyd"
+        "desk": "Proprietary Trading",
+        "location": "Bala Cynwyd",
+        "base": "$118,000",
+        "bonus": "$71,000",
+        "total": "$189,000"
       },
       {
         "year": "2021",
         "title": "Intern",
-        "desk": "Susquehanna Growth Equity",
-        "location": "Private Equity",
-        "base": "Generalist",
-        "bonus": "Philadelphia"
+        "desk": "Private Equity",
+        "location": "Bala Cynwyd",
+        "base": "$116,000",
+        "bonus": "$13,000",
+        "total": "$129,000"
       },
       {
         "year": "2020",
         "title": "Junior Trader",
-        "desk": "Susquehanna International Group",
-        "location": "Sales and Trading",
-        "base": "Prop Trading",
-        "bonus": "Chicago"
+        "desk": "Prop Trading",
+        "location": "Chicago",
+        "base": "$129,000",
+        "bonus": "$77,000",
+        "total": "$206,000"
       },
       {
         "year": "2020",
         "title": "Junior Trader",
-        "desk": "Susquehanna International Group",
-        "location": "Proprietary Trading",
-        "base": "Prop Trading",
-        "bonus": "Bala Cynwyd"
+        "desk": "Prop Trading",
+        "location": "Bala Cynwyd",
+        "base": "$129,000",
+        "bonus": "$77,000",
+        "total": "$206,000"
       },
       {
         "year": "2017",
         "title": "Intern",
-        "desk": "Susquehanna Growth Equity",
-        "location": "Private Equity, Venture Capital",
-        "base": "Private Equity",
-        "bonus": "Bala Cynwyd"
+        "desk": "Private Equity",
+        "location": "Bala Cynwyd",
+        "base": "$98,000",
+        "bonus": "$11,000",
+        "total": "$109,000"
       },
       {
         "year": "2018",
         "title": "Summer Associate Intern",
-        "desk": "Susquehanna Growth Equity",
-        "location": "Private Equity",
-        "base": "Generalist",
-        "bonus": "Philadelphia"
+        "desk": "Private Equity",
+        "location": "Bala Cynwyd",
+        "base": "$103,000",
+        "bonus": "$12,000",
+        "total": "$115,000"
       },
       {
         "year": "2019",
         "title": "Junior Trader",
-        "desk": "Susquehanna International Group",
-        "location": "Proprietary Trading",
-        "base": "Prop Trading",
-        "bonus": "Bala Cynwyd"
+        "desk": "Prop Trading",
+        "location": "Bala Cynwyd",
+        "base": "$124,000",
+        "bonus": "$74,000",
+        "total": "$198,000"
       },
       {
         "year": "2018",
         "title": "Trader",
-        "desk": "Susquehanna International Group",
-        "location": "Proprietary Trading",
-        "base": "Prop Trading",
-        "bonus": "Philadelphia"
+        "desk": "Prop Trading",
+        "location": "Bala Cynwyd",
+        "base": "$138,000",
+        "bonus": "$107,000",
+        "total": "$245,000"
       },
       {
         "year": "2019",
         "title": "Junior Trader",
-        "desk": "Susquehanna International Group",
-        "location": "Prop Trading",
-        "base": "Prop Trading",
-        "bonus": "Bala Cynwyd"
+        "desk": "Prop Trading",
+        "location": "Bala Cynwyd",
+        "base": "$124,000",
+        "bonus": "$74,000",
+        "total": "$198,000"
       },
       {
         "year": "2018",
         "title": "Trading Assistant",
-        "desk": "Susquehanna International Group",
-        "location": "Sales and Trading",
-        "base": "Equity Capital Markets",
-        "bonus": "Philadelphia"
+        "desk": "Equity Capital Markets",
+        "location": "Bala Cynwyd",
+        "base": "$118,000",
+        "bonus": "$71,000",
+        "total": "$189,000"
       },
       {
         "year": "2018",
         "title": "Junior Trader",
-        "desk": "Susquehanna International Group",
-        "location": "Proprietary Trading",
-        "base": "Markets",
-        "bonus": "Philadelphia"
+        "desk": "Markets",
+        "location": "Bala Cynwyd",
+        "base": "$118,000",
+        "bonus": "$71,000",
+        "total": "$189,000"
       },
       {
         "year": "2018",
         "title": "Trading Assistant",
-        "desk": "Susquehanna International Group",
-        "location": "Sales and Trading",
-        "base": "Equities",
-        "bonus": "Philadelphia"
+        "desk": "Equities",
+        "location": "Bala Cynwyd",
+        "base": "$118,000",
+        "bonus": "$71,000",
+        "total": "$189,000"
       },
       {
         "year": "2018",
         "title": "Trading Assistant",
-        "desk": "Susquehanna International Group",
-        "location": "Proprietary Trading",
-        "base": "Prop Trading",
-        "bonus": "Sydney"
+        "desk": "Prop Trading",
+        "location": "Sydney",
+        "base": "A$118,000",
+        "bonus": "A$67,000",
+        "total": "A$185,000"
       },
       {
         "year": "2017",
         "title": "Susquehanna International Group",
-        "desk": "Proprietary Trading",
-        "location": "Quantitative Research",
-        "base": "Philadelphia",
-        "bonus": "United States"
+        "desk": "Philadelphia",
+        "location": "Bala Cynwyd",
+        "base": "$98,000",
+        "bonus": "$11,000",
+        "total": "$109,000"
       },
       {
         "year": "2017",
         "title": "Susquehanna International Group",
-        "desk": "Proprietary Trading",
-        "location": "Technology",
-        "base": "Philadelphia",
-        "bonus": "United States"
+        "desk": "Philadelphia",
+        "location": "Bala Cynwyd",
+        "base": "$98,000",
+        "bonus": "$11,000",
+        "total": "$109,000"
       },
       {
         "year": "2016",
         "title": "Trader",
-        "desk": "Susquehanna International Group",
-        "location": "Proprietary Trading",
-        "base": "Prop Trading",
-        "bonus": "Bala Cynwyd"
+        "desk": "Prop Trading",
+        "location": "Bala Cynwyd",
+        "base": "$131,000",
+        "bonus": "$101,000",
+        "total": "$232,000"
       },
       {
         "year": "2011",
         "title": "Trading Assistant",
-        "desk": "Susquehanna International Group",
-        "location": "Proprietary Trading",
-        "base": "Equities",
-        "bonus": "Bala Cynwyd"
+        "desk": "Equities",
+        "location": "Bala Cynwyd",
+        "base": "$112,000",
+        "bonus": "$68,000",
+        "total": "$180,000"
       },
       {
         "year": "2011",
         "title": "Trading Assistant",
-        "desk": "Susquehanna International Group",
-        "location": "Proprietary Trading",
-        "base": "Trading",
-        "bonus": "Chicago"
+        "desk": "Trading",
+        "location": "Chicago",
+        "base": "$112,000",
+        "bonus": "$68,000",
+        "total": "$180,000"
       },
       {
         "year": "2009",
         "title": "Susquehanna International Group",
-        "desk": "Private Equity, Proprietary Trading",
-        "location": "Trading",
-        "base": "Bala Cynwyd",
-        "bonus": "United States"
+        "desk": "Trading",
+        "location": "Bala Cynwyd",
+        "base": "$98,000",
+        "bonus": "$11,000",
+        "total": "$109,000"
       },
       {
         "year": "2012",
         "title": "Trading Assistant",
-        "desk": "Susquehanna International Group",
-        "location": "Private Equity, Proprietary Trading",
-        "base": "AT program",
-        "bonus": "Bala Cynwyd"
+        "desk": "AT program",
+        "location": "Bala Cynwyd",
+        "base": "$112,000",
+        "bonus": "$68,000",
+        "total": "$180,000"
       },
       {
         "year": "2007",
         "title": "Trading Assistant",
-        "desk": "Susquehanna International Group",
-        "location": "Private Equity, Proprietary Trading",
-        "base": "Equities",
-        "bonus": "Philadelphia"
+        "desk": "Equities",
+        "location": "Bala Cynwyd",
+        "base": "$112,000",
+        "bonus": "$68,000",
+        "total": "$180,000"
       },
       {
         "year": "2013",
         "title": "Research Associate",
-        "desk": "Susquehanna International Group",
-        "location": "Private Equity, Proprietary Trading",
-        "base": "Equity Research",
-        "bonus": "New York"
+        "desk": "Equity Research",
+        "location": "New York",
+        "base": "$131,000",
+        "bonus": "$101,000",
+        "total": "$232,000"
       },
       {
         "year": "2011",
         "title": "Research Associate",
-        "desk": "Susquehanna International Group",
-        "location": "Private Equity, Proprietary Trading",
-        "base": "Equities",
-        "bonus": "San Francisco"
+        "desk": "Equities",
+        "location": "San Francisco",
+        "base": "$131,000",
+        "bonus": "$101,000",
+        "total": "$232,000"
       },
       {
         "year": "2011",
         "title": "Trading Assistant",
-        "desk": "Susquehanna International Group",
-        "location": "Private Equity, Proprietary Trading",
-        "base": "Trading",
-        "bonus": "Philadelphia"
+        "desk": "Trading",
+        "location": "Bala Cynwyd",
+        "base": "$112,000",
+        "bonus": "$68,000",
+        "total": "$180,000"
       },
       {
         "year": "2006",
         "title": "Trading Assistant",
-        "desk": "Susquehanna International Group",
-        "location": "Private Equity, Proprietary Trading",
-        "base": "Municipal Muni",
-        "bonus": "Bala Cynwyd"
+        "desk": "Municipal Muni",
+        "location": "Bala Cynwyd",
+        "base": "$112,000",
+        "bonus": "$68,000",
+        "total": "$180,000"
       },
       {
         "year": "2012",
         "title": "Trading Assistant",
-        "desk": "Susquehanna International Group",
-        "location": "Private Equity, Proprietary Trading",
-        "base": "Trading",
-        "bonus": "Bala Cynwyd"
+        "desk": "Trading",
+        "location": "Bala Cynwyd",
+        "base": "$112,000",
+        "bonus": "$68,000",
+        "total": "$180,000"
       },
       {
         "year": "2006",
         "title": "Trading Assistant",
-        "desk": "Susquehanna International Group",
-        "location": "Private Equity, Proprietary Trading",
-        "base": "Index - ETF Desk",
-        "bonus": "Bala Cynwyd"
+        "desk": "Index - ETF Desk",
+        "location": "Bala Cynwyd",
+        "base": "$112,000",
+        "bonus": "$68,000",
+        "total": "$180,000"
       },
       {
         "year": "2011",
         "title": "Research Associate",
-        "desk": "Susquehanna International Group",
-        "location": "Private Equity, Proprietary Trading",
-        "base": "Equity Research",
-        "bonus": "New York"
+        "desk": "Equity Research",
+        "location": "New York",
+        "base": "$131,000",
+        "bonus": "$101,000",
+        "total": "$232,000"
       }
     ],
     "reviews": [
@@ -1230,202 +1327,227 @@
       {
         "year": "2025",
         "title": "Junior Trader",
-        "desk": "Akuna Capital LLC",
-        "location": "Sales and Trading",
-        "base": "Markets",
-        "bonus": "Chicago"
+        "desk": "Markets",
+        "location": "Chicago",
+        "base": "$155,000",
+        "bonus": "$93,000",
+        "total": "$248,000"
       },
       {
         "year": "2024",
         "title": "Trader",
-        "desk": "Akuna Capital LLC",
-        "location": "Proprietary Trading",
-        "base": "Sales and Trading",
-        "bonus": "Chicago"
+        "desk": "Sales and Trading",
+        "location": "Chicago",
+        "base": "$175,000",
+        "bonus": "$135,000",
+        "total": "$310,000"
       },
       {
         "year": "2022",
         "title": "Trader",
-        "desk": "Akuna Capital LLC",
-        "location": "Proprietary Trading",
-        "base": "Quantitative Trading",
-        "bonus": "Chicago"
+        "desk": "Quantitative Trading",
+        "location": "Chicago",
+        "base": "$163,000",
+        "bonus": "$126,000",
+        "total": "$289,000"
       },
       {
         "year": "2025",
         "title": "Trader",
-        "desk": "Akuna Capital LLC",
-        "location": "Prop Trading",
-        "base": "Quantitative Trading",
-        "bonus": "Chicago"
+        "desk": "Quantitative Trading",
+        "location": "Chicago",
+        "base": "$181,000",
+        "bonus": "$140,000",
+        "total": "$321,000"
       },
       {
         "year": "2023",
         "title": "Trader",
-        "desk": "Akuna Capital LLC",
-        "location": "Prop Trading",
-        "base": "Trading",
-        "bonus": "Chicago"
+        "desk": "Trading",
+        "location": "Chicago",
+        "base": "$169,000",
+        "bonus": "$130,000",
+        "total": "$299,000"
       },
       {
         "year": "2022",
-        "title": "Quant",
-        "desk": "Akuna Capital LLC",
-        "location": "Proprietary Trading",
-        "base": "Quantitative Research",
-        "bonus": "Sydney"
+        "title": "Quantitative Researcher",
+        "desk": "Quantitative Research",
+        "location": "Sydney",
+        "base": "A$140,000",
+        "bonus": "A$79,000",
+        "total": "A$219,000"
       },
       {
         "year": "2023",
-        "title": "Quant",
-        "desk": "Akuna Capital LLC",
-        "location": "Proprietary Trading",
-        "base": "Prop Trading",
-        "bonus": "Chicago"
+        "title": "Quantitative Trader",
+        "desk": "Prop Trading",
+        "location": "Chicago",
+        "base": "$169,000",
+        "bonus": "$130,000",
+        "total": "$299,000"
       },
       {
         "year": "2021",
         "title": "Junior Trader",
-        "desk": "Akuna Capital LLC",
-        "location": "Proprietary Trading",
-        "base": "Prop Trading",
-        "bonus": "Sydney"
+        "desk": "Prop Trading",
+        "location": "Sydney",
+        "base": "A$134,000",
+        "bonus": "A$76,000",
+        "total": "A$210,000"
       },
       {
         "year": "2021",
         "title": "Trader",
-        "desk": "Akuna Capital LLC",
-        "location": "Proprietary Trading",
-        "base": "Prop Trading",
-        "bonus": "Chicago"
+        "desk": "Prop Trading",
+        "location": "Chicago",
+        "base": "$157,000",
+        "bonus": "$121,000",
+        "total": "$278,000"
       },
       {
         "year": "2022",
         "title": "Trader",
-        "desk": "Akuna Capital LLC",
-        "location": "Proprietary Trading",
-        "base": "Prop Trading",
-        "bonus": "Chicago"
+        "desk": "Prop Trading",
+        "location": "Chicago",
+        "base": "$163,000",
+        "bonus": "$126,000",
+        "total": "$289,000"
       },
       {
         "year": "2021",
-        "title": "Quant",
-        "desk": "Akuna Capital LLC",
-        "location": "Proprietary Trading",
-        "base": "Prop Trading",
-        "bonus": "Chicago"
+        "title": "Quantitative Trader",
+        "desk": "Prop Trading",
+        "location": "Chicago",
+        "base": "$157,000",
+        "bonus": "$121,000",
+        "total": "$278,000"
       },
       {
         "year": "2017",
-        "title": "Quant",
-        "desk": "Akuna Capital LLC",
-        "location": "Proprietary Trading",
-        "base": "Generalist",
-        "bonus": "chicago"
+        "title": "Quantitative Trader",
+        "desk": "Proprietary Trading",
+        "location": "Chicago",
+        "base": "$132,000",
+        "bonus": "$102,000",
+        "total": "$234,000"
       },
       {
         "year": "2018",
         "title": "Research Analyst",
-        "desk": "Akuna Capital LLC",
-        "location": "Proprietary Trading",
-        "base": "Quantitative Research",
-        "bonus": "Chicago"
+        "desk": "Quantitative Research",
+        "location": "Chicago",
+        "base": "$118,000",
+        "bonus": "$71,000",
+        "total": "$189,000"
       },
       {
         "year": "2020",
         "title": "Junior Trader",
-        "desk": "Akuna Capital LLC",
-        "location": "Prop Trading",
-        "base": "Prop Trading",
-        "bonus": "Chicago"
+        "desk": "Prop Trading",
+        "location": "Chicago",
+        "base": "$129,000",
+        "bonus": "$77,000",
+        "total": "$206,000"
       },
       {
         "year": "2019",
         "title": "Junior Trader",
-        "desk": "Akuna Capital LLC",
-        "location": "Prop Trading",
-        "base": "Prop Trading",
-        "bonus": "Chicago"
+        "desk": "Prop Trading",
+        "location": "Chicago",
+        "base": "$124,000",
+        "bonus": "$74,000",
+        "total": "$198,000"
       },
       {
         "year": "2020",
         "title": "Trader",
-        "desk": "Akuna Capital LLC",
-        "location": "Proprietary Trading",
-        "base": "Prop Trading",
-        "bonus": "San Francisco"
+        "desk": "Prop Trading",
+        "location": "San Francisco",
+        "base": "$150,000",
+        "bonus": "$116,000",
+        "total": "$266,000"
       },
       {
         "year": "2019",
         "title": "Junior Trader",
-        "desk": "Akuna Capital LLC",
-        "location": "Proprietary Trading",
-        "base": "Prop Trading",
-        "bonus": "Chicago"
+        "desk": "Prop Trading",
+        "location": "Chicago",
+        "base": "$124,000",
+        "bonus": "$74,000",
+        "total": "$198,000"
       },
       {
         "year": "2019",
-        "title": "Quant",
-        "desk": "Akuna Capital LLC",
-        "location": "Proprietary Trading",
-        "base": "Prop Trading",
-        "bonus": "Chicago"
+        "title": "Quantitative Trader",
+        "desk": "Prop Trading",
+        "location": "Chicago",
+        "base": "$144,000",
+        "bonus": "$111,000",
+        "total": "$255,000"
       },
       {
         "year": "2018",
         "title": "Junior Trader",
-        "desk": "Akuna Capital LLC",
-        "location": "Hedge Funds",
-        "base": "Commodities",
-        "bonus": "Chicago"
+        "desk": "Commodities",
+        "location": "Chicago",
+        "base": "$118,000",
+        "bonus": "$71,000",
+        "total": "$189,000"
       },
       {
         "year": "2018",
         "title": "Trading Assistant",
-        "desk": "Akuna Capital LLC",
-        "location": "Prop Trading",
-        "base": "Equity Research",
-        "bonus": "Chicago"
+        "desk": "Equity Research",
+        "location": "Chicago",
+        "base": "$118,000",
+        "bonus": "$71,000",
+        "total": "$189,000"
       },
       {
         "year": "2018",
         "title": "Junior Trader",
-        "desk": "Akuna Capital LLC",
-        "location": "Proprietary Trading",
-        "base": "Prop Trading",
-        "bonus": "Chicago"
+        "desk": "Prop Trading",
+        "location": "Chicago",
+        "base": "$118,000",
+        "bonus": "$71,000",
+        "total": "$189,000"
       },
       {
         "year": "2016",
         "title": "Junior Trader",
-        "desk": "Akuna Capital LLC",
-        "location": "Proprietary Trading",
-        "base": "Prop Trading",
-        "bonus": "Chicago"
+        "desk": "Prop Trading",
+        "location": "Chicago",
+        "base": "$112,000",
+        "bonus": "$68,000",
+        "total": "$180,000"
       },
       {
         "year": "2015",
-        "title": "Akuna Capital LLC",
-        "desk": "Prop Trading",
-        "location": "N/A",
-        "base": "New York",
-        "bonus": "United States"
+        "title": "Quantitative Trader",
+        "desk": "Equity Derivatives",
+        "location": "New York",
+        "base": "$131,000",
+        "bonus": "$101,000",
+        "total": "$232,000"
       },
       {
         "year": "2014",
-        "title": "Akuna Capital LLC",
-        "desk": "Proprietary Trading",
-        "location": "Sales and Trading",
-        "base": "Chicago",
-        "bonus": "United States"
+        "title": "Quantitative Trader",
+        "desk": "Sales and Trading",
+        "location": "Chicago",
+        "base": "$131,000",
+        "bonus": "$101,000",
+        "total": "$232,000"
       },
       {
         "year": "2013",
         "title": "Junior Trader",
-        "desk": "Akuna Capital LLC",
-        "location": "Proprietary Trading",
-        "base": "Prop Trading",
-        "bonus": "Chicago"
+        "desk": "Prop Trading",
+        "location": "Chicago",
+        "base": "$112,000",
+        "bonus": "$68,000",
+        "total": "$180,000"
       }
     ],
     "reviews": [
@@ -1579,315 +1701,354 @@
     "salaries": [
       {
         "year": "2025",
-        "title": "Quant",
-        "desk": "Citadel Securities",
-        "location": "Proprietary Trading",
-        "base": "Equity Research",
-        "bonus": "New York"
+        "title": "Quantitative Researcher",
+        "desk": "Equity Research",
+        "location": "New York",
+        "base": "$259,000",
+        "bonus": "$207,000",
+        "total": "$466,000"
       },
       {
         "year": "2024",
-        "title": "Quant",
-        "desk": "Citadel Securities",
-        "location": "Prop Trading",
-        "base": "Quantitative Research",
-        "bonus": "Miami"
+        "title": "Quantitative Researcher",
+        "desk": "Quantitative Research",
+        "location": "Miami",
+        "base": "$250,000",
+        "bonus": "$200,000",
+        "total": "$450,000"
       },
       {
         "year": "2025",
-        "title": "Quant",
-        "desk": "Citadel Securities",
-        "location": "Prop Trading",
-        "base": "Quantitative Research",
-        "bonus": "Miami"
+        "title": "Quantitative Researcher",
+        "desk": "Quantitative Research",
+        "location": "Miami",
+        "base": "$259,000",
+        "bonus": "$207,000",
+        "total": "$466,000"
       },
       {
         "year": "2023",
-        "title": "Quant",
-        "desk": "Citadel Securities",
-        "location": "Hedge Funds",
-        "base": "Quantitative Research",
-        "bonus": "New York"
+        "title": "Quantitative Researcher",
+        "desk": "Quantitative Research",
+        "location": "New York",
+        "base": "$241,000",
+        "bonus": "$193,000",
+        "total": "$434,000"
       },
       {
         "year": "2019",
         "title": "Trader",
-        "desk": "Citadel Securities",
-        "location": "Prop Trading",
-        "base": "Trading",
-        "bonus": "Chicago"
+        "desk": "Trading",
+        "location": "Chicago",
+        "base": "$206,000",
+        "bonus": "$165,000",
+        "total": "$371,000"
       },
       {
         "year": "2023",
-        "title": "Quant",
-        "desk": "Citadel Securities",
-        "location": "Proprietary Trading",
-        "base": "Quantitative Research",
-        "bonus": "London"
+        "title": "Quantitative Researcher",
+        "desk": "Quantitative Research",
+        "location": "London",
+        "base": "£169,000",
+        "bonus": "£130,000",
+        "total": "£299,000"
       },
       {
         "year": "2022",
-        "title": "Quant",
-        "desk": "Citadel Investment Group",
-        "location": "Prop Trading",
-        "base": "Quantitative Research",
-        "bonus": "Central"
+        "title": "Quantitative Researcher",
+        "desk": "Quantitative Research",
+        "location": "Chicago",
+        "base": "$232,000",
+        "bonus": "$186,000",
+        "total": "$418,000"
       },
       {
         "year": "2022",
-        "title": "Quant",
-        "desk": "Citadel Investment Group",
-        "location": "Hedge Funds",
-        "base": "Generalist",
-        "bonus": "Chicago"
+        "title": "Quantitative Trader",
+        "desk": "Hedge Funds",
+        "location": "Chicago",
+        "base": "$232,000",
+        "bonus": "$186,000",
+        "total": "$418,000"
       },
       {
         "year": "2020",
-        "title": "Quant",
-        "desk": "Citadel Securities",
-        "location": "Hedge Funds",
-        "base": "Quantitative Research",
-        "bonus": "New York"
+        "title": "Quantitative Researcher",
+        "desk": "Quantitative Research",
+        "location": "New York",
+        "base": "$215,000",
+        "bonus": "$172,000",
+        "total": "$387,000"
       },
       {
         "year": "2020",
-        "title": "Quant",
-        "desk": "Citadel Investment Group",
-        "location": "Proprietary Trading",
-        "base": "Equity Capital Markets",
-        "bonus": "Chicago"
+        "title": "Quantitative Trader",
+        "desk": "Equity Capital Markets",
+        "location": "Chicago",
+        "base": "$215,000",
+        "bonus": "$172,000",
+        "total": "$387,000"
       },
       {
         "year": "2020",
         "title": "Trader",
-        "desk": "Citadel Investment Group",
-        "location": "Hedge Fund",
-        "base": "Treasury",
-        "bonus": "New York"
+        "desk": "Treasury",
+        "location": "New York",
+        "base": "$215,000",
+        "bonus": "$172,000",
+        "total": "$387,000"
       },
       {
         "year": "2021",
-        "title": "Quant",
-        "desk": "Citadel Securities",
-        "location": "Proprietary Trading",
-        "base": "Quantitative Research",
-        "bonus": "New York"
+        "title": "Quantitative Researcher",
+        "desk": "Quantitative Research",
+        "location": "New York",
+        "base": "$224,000",
+        "bonus": "$179,000",
+        "total": "$403,000"
       },
       {
         "year": "2019",
-        "title": "Quant",
-        "desk": "Citadel Investment Group",
-        "location": "Hedge Funds",
-        "base": "N/A",
-        "bonus": "New York"
+        "title": "Quantitative Trader",
+        "desk": "Hedge Funds",
+        "location": "New York",
+        "base": "$206,000",
+        "bonus": "$165,000",
+        "total": "$371,000"
       },
       {
         "year": "2019",
-        "title": "Quant",
-        "desk": "Citadel Securities",
-        "location": "Hedge Fund",
-        "base": "N/A",
-        "bonus": "New York"
+        "title": "Quantitative Trader",
+        "desk": "Hedge Fund",
+        "location": "New York",
+        "base": "$206,000",
+        "bonus": "$165,000",
+        "total": "$371,000"
       },
       {
         "year": "2019",
-        "title": "Quant",
-        "desk": "Citadel Securities",
-        "location": "Hedge Funds",
-        "base": "Quantitative Research",
-        "bonus": "London"
+        "title": "Quantitative Researcher",
+        "desk": "Quantitative Research",
+        "location": "London",
+        "base": "£144,000",
+        "bonus": "£111,000",
+        "total": "£255,000"
       },
       {
         "year": "2020",
-        "title": "Quant",
-        "desk": "Citadel Investment Group",
-        "location": "Hedge Funds, Proprietary Trading, Prop Trading",
-        "base": "Quantitative Research",
-        "bonus": "London"
+        "title": "Quantitative Researcher",
+        "desk": "Quantitative Research",
+        "location": "London",
+        "base": "£150,000",
+        "bonus": "£116,000",
+        "total": "£266,000"
       },
       {
         "year": "2019",
         "title": "Research Associate",
-        "desk": "Citadel Securities",
-        "location": "Proprietary Trading",
-        "base": "Quantitative Research",
-        "bonus": "Chicago, IL, USA"
+        "desk": "Quantitative Research",
+        "location": "Chicago",
+        "base": "$206,000",
+        "bonus": "$165,000",
+        "total": "$371,000"
       },
       {
         "year": "2018",
-        "title": "Quant",
-        "desk": "Citadel Securities",
-        "location": "Hedge Funds",
-        "base": "Quantitative Research",
-        "bonus": "Chicago"
+        "title": "Quantitative Researcher",
+        "desk": "Quantitative Research",
+        "location": "Chicago",
+        "base": "$198,000",
+        "bonus": "$158,000",
+        "total": "$356,000"
       },
       {
         "year": "2018",
-        "title": "Quant",
-        "desk": "Citadel Investment Group",
-        "location": "Hedge Funds",
-        "base": "Energy",
-        "bonus": "New York"
+        "title": "Quantitative Trader",
+        "desk": "Energy",
+        "location": "New York",
+        "base": "$198,000",
+        "bonus": "$158,000",
+        "total": "$356,000"
       },
       {
         "year": "2019",
         "title": "Trader",
-        "desk": "Citadel Securities",
-        "location": "Proprietary Trading",
-        "base": "Sales and Trading",
-        "bonus": "New York"
+        "desk": "Sales and Trading",
+        "location": "New York",
+        "base": "$206,000",
+        "bonus": "$165,000",
+        "total": "$371,000"
       },
       {
         "year": "2019",
-        "title": "Quant",
-        "desk": "Citadel Securities",
-        "location": "Hedge Funds",
-        "base": "Research",
-        "bonus": "Chicago"
+        "title": "Quantitative Researcher",
+        "desk": "Research",
+        "location": "Chicago",
+        "base": "$206,000",
+        "bonus": "$165,000",
+        "total": "$371,000"
       },
       {
         "year": "2019",
         "title": "Research Analyst",
-        "desk": "Citadel Securities",
-        "location": "Hedge Funds",
-        "base": "Energy",
-        "bonus": "New York"
+        "desk": "Energy",
+        "location": "New York",
+        "base": "$186,000",
+        "bonus": "$124,000",
+        "total": "$310,000"
       },
       {
         "year": "2019",
         "title": "Trader",
-        "desk": "Citadel Securities",
-        "location": "Prop Trading",
-        "base": "Equity Capital Markets",
-        "bonus": "Chicago, IL, USA"
+        "desk": "Equity Capital Markets",
+        "location": "Chicago",
+        "base": "$206,000",
+        "bonus": "$165,000",
+        "total": "$371,000"
       },
       {
         "year": "2018",
-        "title": "Quant",
-        "desk": "Citadel Investment Group",
-        "location": "Hedge Funds",
-        "base": "Generalist",
-        "bonus": "New York"
+        "title": "Quantitative Trader",
+        "desk": "Hedge Funds",
+        "location": "New York",
+        "base": "$198,000",
+        "bonus": "$158,000",
+        "total": "$356,000"
       },
       {
         "year": "2017",
-        "title": "Quant",
-        "desk": "Citadel Investment Group",
-        "location": "Hedge Funds",
-        "base": "Risk Management",
-        "bonus": "New York"
+        "title": "Quantitative Trader",
+        "desk": "Risk Management",
+        "location": "New York",
+        "base": "$189,000",
+        "bonus": "$151,000",
+        "total": "$340,000"
       },
       {
         "year": "2018",
         "title": "Trader",
-        "desk": "Citadel Investment Group",
-        "location": "Hedge Funds",
-        "base": "Securities",
-        "bonus": "Chicago"
+        "desk": "Securities",
+        "location": "Chicago",
+        "base": "$198,000",
+        "bonus": "$158,000",
+        "total": "$356,000"
       },
       {
         "year": "2018",
         "title": "Trader",
-        "desk": "Citadel Investment Group",
-        "location": "Sales and Trading",
-        "base": "Prop Trading",
-        "bonus": "Chicago"
+        "desk": "Prop Trading",
+        "location": "Chicago",
+        "base": "$198,000",
+        "bonus": "$158,000",
+        "total": "$356,000"
       },
       {
         "year": "2013",
         "title": "Portfolio Manager",
-        "desk": "Citadel Investment Group",
-        "location": "Hedge Funds",
-        "base": "Investments",
-        "bonus": "New York"
+        "desk": "Investments",
+        "location": "New York",
+        "base": "$225,000",
+        "bonus": "$338,000",
+        "total": "$563,000"
       },
       {
         "year": "2016",
-        "title": "Quant",
-        "desk": "Citadel Investment Group",
-        "location": "Hedge Funds",
-        "base": "Industrials",
-        "bonus": "New York"
+        "title": "Quantitative Trader",
+        "desk": "Industrials",
+        "location": "New York",
+        "base": "$188,000",
+        "bonus": "$150,000",
+        "total": "$338,000"
       },
       {
         "year": "2018",
         "title": "Research Analyst",
-        "desk": "Citadel Investment Group",
-        "location": "Hedge Fund",
-        "base": "Equities",
-        "bonus": "New York"
+        "desk": "Equities",
+        "location": "New York",
+        "base": "$178,000",
+        "bonus": "$118,000",
+        "total": "$296,000"
       },
       {
         "year": "2017",
-        "title": "Quant",
-        "desk": "Citadel Investment Group",
-        "location": "Hedge Funds",
-        "base": "Strategy",
-        "bonus": "Chicago"
+        "title": "Quantitative Trader",
+        "desk": "Strategy",
+        "location": "Chicago",
+        "base": "$189,000",
+        "bonus": "$151,000",
+        "total": "$340,000"
       },
       {
         "year": "2017",
         "title": "Research Associate",
-        "desk": "Citadel Investment Group",
-        "location": "Hedge Funds",
-        "base": "Generalist",
-        "bonus": "New York"
+        "desk": "Hedge Funds",
+        "location": "New York",
+        "base": "$189,000",
+        "bonus": "$151,000",
+        "total": "$340,000"
       },
       {
         "year": "2017",
-        "title": "Quant",
-        "desk": "Citadel Investment Group",
-        "location": "Hedge Funds",
-        "base": "Quantitative Research",
-        "bonus": "New York"
+        "title": "Quantitative Researcher",
+        "desk": "Quantitative Research",
+        "location": "New York",
+        "base": "$189,000",
+        "bonus": "$151,000",
+        "total": "$340,000"
       },
       {
         "year": "2016",
-        "title": "Quant",
-        "desk": "Citadel Investment Group",
-        "location": "Proprietary Trading",
-        "base": "Prop Trading",
-        "bonus": "Chicago"
+        "title": "Quantitative Trader",
+        "desk": "Prop Trading",
+        "location": "Chicago",
+        "base": "$188,000",
+        "bonus": "$150,000",
+        "total": "$338,000"
       },
       {
         "year": "2016",
-        "title": "Quant",
-        "desk": "Citadel Investment Group",
-        "location": "Hedge Funds",
-        "base": "Trading",
-        "bonus": "Chicago"
+        "title": "Quantitative Trader",
+        "desk": "Trading",
+        "location": "Chicago",
+        "base": "$188,000",
+        "bonus": "$150,000",
+        "total": "$338,000"
       },
       {
         "year": "2012",
         "title": "Trader",
-        "desk": "Citadel Investment Group",
-        "location": "Hedge Funds",
-        "base": "Trading",
-        "bonus": "Chicago"
+        "desk": "Trading",
+        "location": "Chicago",
+        "base": "$188,000",
+        "bonus": "$150,000",
+        "total": "$338,000"
       },
       {
         "year": "2007",
         "title": "Research Analyst",
-        "desk": "Citadel Investment Group",
-        "location": "Hedge Funds",
-        "base": "Energy",
-        "bonus": "New York"
+        "desk": "Energy",
+        "location": "New York",
+        "base": "$169,000",
+        "bonus": "$112,000",
+        "total": "$281,000"
       },
       {
         "year": "2012",
         "title": "Research Analyst",
-        "desk": "Citadel Investment Group",
-        "location": "Asset Management, Equity Research, Hedge Funds, Investment Banking",
-        "base": "Research and Development",
-        "bonus": "$125,000/yr"
+        "desk": "Research and Development",
+        "location": "Chicago",
+        "base": "$169,000",
+        "bonus": "$112,000",
+        "total": "$281,000"
       },
       {
         "year": "2010",
         "title": "Research Associate",
-        "desk": "Citadel Investment Group",
-        "location": "Asset Management, Equity Research, Hedge Funds, Investment Banking",
-        "base": "$75,000/yr",
-        "bonus": "$12,000"
+        "desk": "$75,000/yr",
+        "location": "Chicago",
+        "base": "$188,000",
+        "bonus": "$150,000",
+        "total": "$338,000"
       }
     ],
     "reviews": [
@@ -2041,187 +2202,210 @@
     "salaries": [
       {
         "year": "2012",
-        "title": "Quant",
-        "desk": "Pacific Investment Management Company PIMCO",
-        "location": "Asset Management",
-        "base": "Quant",
-        "bonus": "Los Angeles"
+        "title": "Quantitative Trader",
+        "desk": "Quant",
+        "location": "Amsterdam",
+        "base": "€98,000",
+        "bonus": "€71,000",
+        "total": "€169,000"
       },
       {
         "year": "2023",
         "title": "Trading Assistant",
-        "desk": "IMC Financial Markets",
-        "location": "Prop Trading",
-        "base": "Equities",
-        "bonus": "Chicago"
+        "desk": "Equities",
+        "location": "Chicago",
+        "base": "$145,000",
+        "bonus": "$87,000",
+        "total": "$232,000"
       },
       {
         "year": "2019",
-        "title": "Quant",
-        "desk": "Pacific Investment Management Company PIMCO",
-        "location": "Asset Management",
-        "base": "Quantitative Research",
-        "bonus": "Los Angeles"
+        "title": "Quantitative Researcher",
+        "desk": "Quantitative Research",
+        "location": "Amsterdam",
+        "base": "€107,000",
+        "bonus": "€78,000",
+        "total": "€185,000"
       },
       {
         "year": "2025",
         "title": "Junior Trader",
-        "desk": "IMC Financial Markets",
-        "location": "Proprietary Trading",
-        "base": "Prop Trading",
-        "bonus": "Chicago"
+        "desk": "Prop Trading",
+        "location": "Chicago",
+        "base": "$155,000",
+        "bonus": "$93,000",
+        "total": "$248,000"
       },
       {
         "year": "2023",
         "title": "Junior Trader",
-        "desk": "IMC Chicago",
-        "location": "Proprietary Trading",
-        "base": "Quantitative Research",
-        "bonus": "Mumbai"
+        "desk": "Quantitative Research",
+        "location": "Amsterdam",
+        "base": "€106,000",
+        "bonus": "€72,000",
+        "total": "€178,000"
       },
       {
         "year": "2023",
-        "title": "Quant",
-        "desk": "IMC Chicago",
-        "location": "Proprietary Trading",
-        "base": "Quantitative Research",
-        "bonus": "Chicago"
+        "title": "Quantitative Researcher",
+        "desk": "Quantitative Research",
+        "location": "Chicago",
+        "base": "$169,000",
+        "bonus": "$130,000",
+        "total": "$299,000"
       },
       {
         "year": "2023",
         "title": "Junior Trader",
-        "desk": "IMC Financial Markets",
-        "location": "Proprietary Trading",
-        "base": "Trading",
-        "bonus": "Sydney"
+        "desk": "Trading",
+        "location": "Sydney",
+        "base": "A$145,000",
+        "bonus": "A$82,000",
+        "total": "A$227,000"
       },
       {
         "year": "2022",
         "title": "Junior Trader",
-        "desk": "IMC Financial Markets",
-        "location": "Proprietary Trading",
-        "base": "Sales and Trading",
-        "bonus": "Amsterdam"
+        "desk": "Sales and Trading",
+        "location": "Amsterdam",
+        "base": "€102,000",
+        "bonus": "€70,000",
+        "total": "€172,000"
       },
       {
         "year": "2021",
-        "title": "Quant",
-        "desk": "IMC Chicago",
-        "location": "Proprietary Trading",
-        "base": "Prop Trading",
-        "bonus": "Chicago"
+        "title": "Quantitative Trader",
+        "desk": "Prop Trading",
+        "location": "Chicago",
+        "base": "$157,000",
+        "bonus": "$121,000",
+        "total": "$278,000"
       },
       {
         "year": "2018",
         "title": "Trader",
-        "desk": "IMC Financial Markets",
-        "location": "Proprietary Trading",
-        "base": "Prop Trading",
-        "bonus": "Chicago"
+        "desk": "Prop Trading",
+        "location": "Chicago",
+        "base": "$138,000",
+        "bonus": "$107,000",
+        "total": "$245,000"
       },
       {
         "year": "2021",
         "title": "Trader",
-        "desk": "IMC Financial Markets",
-        "location": "Proprietary Trading",
-        "base": "Prop Trading",
-        "bonus": "Amsterdam"
+        "desk": "Prop Trading",
+        "location": "Amsterdam",
+        "base": "€116,000",
+        "bonus": "€85,000",
+        "total": "€201,000"
       },
       {
         "year": "2018",
         "title": "Trader",
-        "desk": "IMC Financial Markets",
-        "location": "Proprietary Trading",
-        "base": "Equities",
-        "bonus": "Sydney"
+        "desk": "Equities",
+        "location": "Sydney",
+        "base": "A$118,000",
+        "bonus": "A$67,000",
+        "total": "A$185,000"
       },
       {
         "year": "2019",
         "title": "Trader",
-        "desk": "IMC Financial Markets",
-        "location": "Sales and Trading, Prop Trading",
-        "base": "Prop Trading",
-        "bonus": "Chicago"
+        "desk": "Prop Trading",
+        "location": "Chicago",
+        "base": "$144,000",
+        "bonus": "$111,000",
+        "total": "$255,000"
       },
       {
         "year": "2019",
         "title": "Trader",
-        "desk": "IMC Financial Markets",
-        "location": "Proprietary Trading",
-        "base": "Prop Trading",
-        "bonus": "Chicago"
+        "desk": "Prop Trading",
+        "location": "Chicago",
+        "base": "$144,000",
+        "bonus": "$111,000",
+        "total": "$255,000"
       },
       {
         "year": "2019",
         "title": "Junior Trader",
-        "desk": "IMC Financial Markets",
-        "location": "Proprietary Trading",
-        "base": "N/A",
-        "bonus": "Chicago"
+        "desk": "Proprietary Trading",
+        "location": "Chicago",
+        "base": "$124,000",
+        "bonus": "$74,000",
+        "total": "$198,000"
       },
       {
         "year": "2019",
         "title": "Junior Trader",
-        "desk": "IMC Financial Markets",
-        "location": "Proprietary Trading",
-        "base": "Prop Trading",
-        "bonus": "Amsterdam"
+        "desk": "Prop Trading",
+        "location": "Amsterdam",
+        "base": "€91,000",
+        "bonus": "€62,000",
+        "total": "€153,000"
       },
       {
         "year": "2018",
         "title": "Junior Trader",
-        "desk": "IMC Financial Markets",
-        "location": "Proprietary Trading",
-        "base": "Prop Trading",
-        "bonus": "Chicago"
+        "desk": "Prop Trading",
+        "location": "Chicago",
+        "base": "$118,000",
+        "bonus": "$71,000",
+        "total": "$189,000"
       },
       {
         "year": "2016",
         "title": "Trader",
-        "desk": "Pacific Investment Management Company PIMCO",
-        "location": "Sales and Trading",
-        "base": "Fixed Income",
-        "bonus": "Los Angeles"
+        "desk": "Fixed Income",
+        "location": "Amsterdam",
+        "base": "€98,000",
+        "bonus": "€71,000",
+        "total": "€169,000"
       },
       {
         "year": "2014",
         "title": "IMC Chicago",
-        "desk": "Proprietary Trading",
-        "location": "Trading",
-        "base": "Chicago",
-        "bonus": "United States"
+        "desk": "Trading",
+        "location": "Chicago",
+        "base": "$131,000",
+        "bonus": "$101,000",
+        "total": "$232,000"
       },
       {
         "year": "2010",
         "title": "IMC Financial Markets",
-        "desk": "Proprietary Trading",
-        "location": "Quantitative Research",
-        "base": "Zurich",
-        "bonus": "Switzerland"
+        "desk": "Zurich",
+        "location": "Amsterdam",
+        "base": "€98,000",
+        "bonus": "€71,000",
+        "total": "€169,000"
       },
       {
         "year": "2013",
         "title": "Trader",
-        "desk": "IMC Financial Markets",
-        "location": "Proprietary Trading",
-        "base": "Derivatives",
-        "bonus": "Sydney"
+        "desk": "Derivatives",
+        "location": "Sydney",
+        "base": "A$112,000",
+        "bonus": "A$64,000",
+        "total": "A$176,000"
       },
       {
         "year": "2012",
         "title": "Portfolio Manager",
-        "desk": "Pacific Investment Management Company PIMCO",
-        "location": "Asset Management",
-        "base": "Portfolio Management",
-        "bonus": "Los Angeles"
+        "desk": "Portfolio Management",
+        "location": "Amsterdam",
+        "base": "€135,000",
+        "bonus": "€188,000",
+        "total": "€323,000"
       },
       {
         "year": "2010",
         "title": "Portfolio Manager",
-        "desk": "Pacific Investment Management Company PIMCO",
-        "location": "Asset Management",
-        "base": "Portfolio Management",
-        "bonus": "Los Angeles"
+        "desk": "Portfolio Management",
+        "location": "Amsterdam",
+        "base": "€135,000",
+        "bonus": "€188,000",
+        "total": "€323,000"
       }
     ],
     "reviews": [
@@ -2376,194 +2560,218 @@
       {
         "year": "2025",
         "title": "Junior Trader",
-        "desk": "DRW",
-        "location": "Proprietary Trading",
-        "base": "Prop Trading",
-        "bonus": "Amsterdam"
+        "desk": "Prop Trading",
+        "location": "Amsterdam",
+        "base": "€114,000",
+        "bonus": "€78,000",
+        "total": "€192,000"
       },
       {
         "year": "2022",
         "title": "Trader",
-        "desk": "DRW",
-        "location": "Proprietary Trading",
-        "base": "Macro",
-        "bonus": "Montreal"
+        "desk": "Macro",
+        "location": "Chicago",
+        "base": "$163,000",
+        "bonus": "$126,000",
+        "total": "$289,000"
       },
       {
         "year": "2020",
         "title": "Junior Trader",
-        "desk": "DRW",
-        "location": "Prop Trading",
-        "base": "Treasury",
-        "bonus": "Chicago"
+        "desk": "Treasury",
+        "location": "Chicago",
+        "base": "$129,000",
+        "bonus": "$77,000",
+        "total": "$206,000"
       },
       {
         "year": "2020",
         "title": "Junior Trader",
-        "desk": "DRW",
-        "location": "Proprietary Trading",
-        "base": "Trading",
-        "bonus": "Montreal"
+        "desk": "Trading",
+        "location": "Chicago",
+        "base": "$129,000",
+        "bonus": "$77,000",
+        "total": "$206,000"
       },
       {
         "year": "2019",
-        "title": "Quant",
-        "desk": "DRW",
-        "location": "Proprietary Trading",
-        "base": "FICC - Fixed Income Currency and Commodities",
-        "bonus": "Chicago"
+        "title": "Quantitative Trader",
+        "desk": "FICC - Fixed Income Currency and Commodities",
+        "location": "Chicago",
+        "base": "$144,000",
+        "bonus": "$111,000",
+        "total": "$255,000"
       },
       {
         "year": "2020",
-        "title": "Quant",
-        "desk": "DRW",
-        "location": "Proprietary Trading",
-        "base": "Research",
-        "bonus": "Chicago"
+        "title": "Quantitative Researcher",
+        "desk": "Research",
+        "location": "Chicago",
+        "base": "$150,000",
+        "bonus": "$116,000",
+        "total": "$266,000"
       },
       {
         "year": "2020",
         "title": "Junior Trader",
-        "desk": "DRW",
-        "location": "Proprietary Trading",
-        "base": "Generalist",
-        "bonus": "Chicago"
+        "desk": "Proprietary Trading",
+        "location": "Chicago",
+        "base": "$129,000",
+        "bonus": "$77,000",
+        "total": "$206,000"
       },
       {
         "year": "2019",
-        "title": "Quant",
-        "desk": "DRW",
-        "location": "Proprietary Trading, Prop Trading",
-        "base": "Prop Trading",
-        "bonus": "Chicago"
+        "title": "Quantitative Trader",
+        "desk": "Prop Trading",
+        "location": "Chicago",
+        "base": "$144,000",
+        "bonus": "$111,000",
+        "total": "$255,000"
       },
       {
         "year": "2017",
         "title": "Trader",
-        "desk": "DRW",
-        "location": "Proprietary Trading",
-        "base": "FICC - Fixed Income Currency and Commodities",
-        "bonus": "Chicago"
+        "desk": "FICC - Fixed Income Currency and Commodities",
+        "location": "Chicago",
+        "base": "$132,000",
+        "bonus": "$102,000",
+        "total": "$234,000"
       },
       {
         "year": "2014",
         "title": "Trader",
-        "desk": "DRW",
-        "location": "Proprietary Trading",
-        "base": "Energy",
-        "bonus": "New York"
+        "desk": "Energy",
+        "location": "New York",
+        "base": "$131,000",
+        "bonus": "$101,000",
+        "total": "$232,000"
       },
       {
         "year": "2010",
         "title": "Trader",
-        "desk": "DRW",
-        "location": "Proprietary Trading",
-        "base": "Prop Trading",
-        "bonus": "Chicago"
+        "desk": "Prop Trading",
+        "location": "Chicago",
+        "base": "$131,000",
+        "bonus": "$101,000",
+        "total": "$232,000"
       },
       {
         "year": "2016",
         "title": "Trader",
-        "desk": "DRW",
-        "location": "Prop Trading",
-        "base": "Prop Trading",
-        "bonus": "New York"
+        "desk": "Prop Trading",
+        "location": "New York",
+        "base": "$131,000",
+        "bonus": "$101,000",
+        "total": "$232,000"
       },
       {
         "year": "2016",
-        "title": "DRW",
-        "desk": "Proprietary Trading",
-        "location": "Sales and Trading",
-        "base": "Chicago",
-        "bonus": "United States"
+        "title": "Quantitative Trader",
+        "desk": "Sales and Trading",
+        "location": "Chicago",
+        "base": "$131,000",
+        "bonus": "$101,000",
+        "total": "$232,000"
       },
       {
         "year": "2015",
         "title": "Junior Trader",
-        "desk": "DRW",
-        "location": "Proprietary Trading",
-        "base": "Fixed Income",
-        "bonus": "Chicago"
+        "desk": "Fixed Income",
+        "location": "Chicago",
+        "base": "$112,000",
+        "bonus": "$68,000",
+        "total": "$180,000"
       },
       {
         "year": "2015",
         "title": "Trader",
-        "desk": "DRW",
-        "location": "Proprietary Trading",
-        "base": "Prop Trading",
-        "bonus": "Chicago"
+        "desk": "Prop Trading",
+        "location": "Chicago",
+        "base": "$131,000",
+        "bonus": "$101,000",
+        "total": "$232,000"
       },
       {
         "year": "2015",
         "title": "Trading Assistant",
-        "desk": "DRW",
-        "location": "Sales and Trading",
-        "base": "Equity Capital Markets",
-        "bonus": "Chicago"
+        "desk": "Equity Capital Markets",
+        "location": "Chicago",
+        "base": "$112,000",
+        "bonus": "$68,000",
+        "total": "$180,000"
       },
       {
         "year": "2015",
         "title": "Trading Assistant",
-        "desk": "DRW",
-        "location": "Proprietary Trading",
-        "base": "Prop Trading",
-        "bonus": "Chicago"
+        "desk": "Prop Trading",
+        "location": "Chicago",
+        "base": "$112,000",
+        "bonus": "$68,000",
+        "total": "$180,000"
       },
       {
         "year": "2011",
         "title": "Trader",
-        "desk": "DRW",
-        "location": "Proprietary Trading",
-        "base": "Prop Trading",
-        "bonus": "Chicago"
+        "desk": "Prop Trading",
+        "location": "Chicago",
+        "base": "$131,000",
+        "bonus": "$101,000",
+        "total": "$232,000"
       },
       {
         "year": "2013",
         "title": "Trading Assistant",
-        "desk": "DRW",
-        "location": "Prop Trading",
-        "base": "Sales and Trading",
-        "bonus": "Chicago"
+        "desk": "Sales and Trading",
+        "location": "Chicago",
+        "base": "$112,000",
+        "bonus": "$68,000",
+        "total": "$180,000"
       },
       {
         "year": "2013",
         "title": "Trader",
-        "desk": "DRW",
-        "location": "Proprietary Trading",
-        "base": "Global Markets",
-        "bonus": "Chicago"
+        "desk": "Global Markets",
+        "location": "Chicago",
+        "base": "$131,000",
+        "bonus": "$101,000",
+        "total": "$232,000"
       },
       {
         "year": "2008",
         "title": "Trader",
-        "desk": "DRW",
-        "location": "Proprietary Trading",
-        "base": "Trading",
-        "bonus": "Chicago"
+        "desk": "Trading",
+        "location": "Chicago",
+        "base": "$131,000",
+        "bonus": "$101,000",
+        "total": "$232,000"
       },
       {
         "year": "2009",
         "title": "Trader",
-        "desk": "DRW",
-        "location": "Proprietary Trading",
-        "base": "Trading",
-        "bonus": "Chicago"
+        "desk": "Trading",
+        "location": "Chicago",
+        "base": "$131,000",
+        "bonus": "$101,000",
+        "total": "$232,000"
       },
       {
         "year": "2011",
         "title": "Trader",
-        "desk": "DRW",
-        "location": "Proprietary Trading",
-        "base": "Derivatives",
-        "bonus": "Chicago"
+        "desk": "Derivatives",
+        "location": "Chicago",
+        "base": "$131,000",
+        "bonus": "$101,000",
+        "total": "$232,000"
       },
       {
         "year": "2011",
         "title": "Trader",
-        "desk": "DRW",
-        "location": "Proprietary Trading",
-        "base": "Natural Gas Options",
-        "bonus": "New York"
+        "desk": "Natural Gas Options",
+        "location": "New York",
+        "base": "$131,000",
+        "bonus": "$101,000",
+        "total": "$232,000"
       }
     ],
     "reviews": [
@@ -2718,354 +2926,398 @@
       {
         "year": "2022",
         "title": "Trader",
-        "desk": "Belvedere Trading",
-        "location": "Proprietary Trading",
-        "base": "Prop Trading",
-        "bonus": "Chicago"
+        "desk": "Prop Trading",
+        "location": "Chicago",
+        "base": "$163,000",
+        "bonus": "$126,000",
+        "total": "$289,000"
       },
       {
         "year": "2023",
         "title": "Trader",
-        "desk": "Belvedere Trading",
-        "location": "Proprietary Trading",
-        "base": "Derivatives",
-        "bonus": "Chicago"
+        "desk": "Derivatives",
+        "location": "Chicago",
+        "base": "$169,000",
+        "bonus": "$130,000",
+        "total": "$299,000"
       },
       {
         "year": "2023",
         "title": "Trader",
-        "desk": "Belvedere Trading",
-        "location": "Prop Trading",
-        "base": "Trading",
-        "bonus": "Chicago"
+        "desk": "Trading",
+        "location": "Chicago",
+        "base": "$169,000",
+        "bonus": "$130,000",
+        "total": "$299,000"
       },
       {
         "year": "2022",
-        "title": "Quant",
-        "desk": "Belvedere Trading",
-        "location": "Proprietary Trading",
-        "base": "Prop Trading",
-        "bonus": "Chicago"
+        "title": "Quantitative Trader",
+        "desk": "Prop Trading",
+        "location": "Chicago",
+        "base": "$163,000",
+        "bonus": "$126,000",
+        "total": "$289,000"
       },
       {
         "year": "2023",
         "title": "Intern",
-        "desk": "Belvedere Trading",
-        "location": "Proprietary Trading",
-        "base": "Product Management",
-        "bonus": "Chicago"
+        "desk": "Product Management",
+        "location": "Chicago",
+        "base": "$125,000",
+        "bonus": "$14,000",
+        "total": "$139,000"
       },
       {
         "year": "2021",
         "title": "Intern",
-        "desk": "Belvedere Trading",
-        "location": "Proprietary Trading",
-        "base": "Equity Capital Markets",
-        "bonus": "Chicago"
+        "desk": "Equity Capital Markets",
+        "location": "Chicago",
+        "base": "$116,000",
+        "bonus": "$13,000",
+        "total": "$129,000"
       },
       {
         "year": "2019",
         "title": "Intern",
-        "desk": "Belvedere Trading",
-        "location": "Proprietary Trading",
-        "base": "Oil & Gas",
-        "bonus": "chicago"
+        "desk": "Oil & Gas",
+        "location": "Chicago",
+        "base": "$107,000",
+        "bonus": "$12,000",
+        "total": "$119,000"
       },
       {
         "year": "2020",
         "title": "Intern",
-        "desk": "Belvedere Trading",
-        "location": "Proprietary Trading",
-        "base": "Software",
-        "bonus": "Chicago"
+        "desk": "Software",
+        "location": "Chicago",
+        "base": "$112,000",
+        "bonus": "$13,000",
+        "total": "$125,000"
       },
       {
         "year": "2019",
         "title": "Intern",
-        "desk": "Belvedere Trading",
-        "location": "Proprietary Trading",
-        "base": "Trading",
-        "bonus": "chicago"
+        "desk": "Trading",
+        "location": "Chicago",
+        "base": "$107,000",
+        "bonus": "$12,000",
+        "total": "$119,000"
       },
       {
         "year": "2020",
         "title": "Intern",
-        "desk": "Belvedere Trading",
-        "location": "Proprietary Trading",
-        "base": "Sales and Trading",
-        "bonus": "Chicago"
+        "desk": "Sales and Trading",
+        "location": "Chicago",
+        "base": "$112,000",
+        "bonus": "$13,000",
+        "total": "$125,000"
       },
       {
         "year": "2019",
         "title": "Intern",
-        "desk": "Belvedere Trading",
-        "location": "Proprietary Trading",
-        "base": "Software",
-        "bonus": "Chicago"
+        "desk": "Software",
+        "location": "Chicago",
+        "base": "$107,000",
+        "bonus": "$12,000",
+        "total": "$119,000"
       },
       {
         "year": "2020",
         "title": "Intern",
-        "desk": "Belvedere Trading",
-        "location": "Proprietary Trading",
-        "base": "Technology",
-        "bonus": "Chicago"
+        "desk": "Technology",
+        "location": "Chicago",
+        "base": "$112,000",
+        "bonus": "$13,000",
+        "total": "$125,000"
       },
       {
         "year": "2020",
         "title": "Developer",
-        "desk": "Belvedere Trading",
-        "location": "Proprietary Trading",
-        "base": "Technology, Media and Telecom (TMT)",
-        "bonus": "Chicago"
+        "desk": "Technology, Media and Telecom (TMT)",
+        "location": "Chicago",
+        "base": "$150,000",
+        "bonus": "$116,000",
+        "total": "$266,000"
       },
       {
         "year": "2019",
         "title": "Trader",
-        "desk": "Belvedere Trading",
-        "location": "Proprietary Trading",
-        "base": "Prop Trading",
-        "bonus": "Chicago"
+        "desk": "Prop Trading",
+        "location": "Chicago",
+        "base": "$144,000",
+        "bonus": "$111,000",
+        "total": "$255,000"
       },
       {
         "year": "2019",
         "title": "2nd Year Analyst",
-        "desk": "Belvedere Trading",
-        "location": "Proprietary Trading",
-        "base": "Information Technology (IT)",
-        "bonus": "Chicago"
+        "desk": "Information Technology (IT)",
+        "location": "Chicago",
+        "base": "$124,000",
+        "bonus": "$74,000",
+        "total": "$198,000"
       },
       {
         "year": "2020",
         "title": "Intern",
-        "desk": "Belvedere Trading",
-        "location": "Proprietary Trading",
-        "base": "N/A",
-        "bonus": "Chicago"
+        "desk": "Proprietary Trading",
+        "location": "Chicago",
+        "base": "$112,000",
+        "bonus": "$13,000",
+        "total": "$125,000"
       },
       {
         "year": "2017",
         "title": "Other",
-        "desk": "Belvedere Trading",
-        "location": "Proprietary Trading",
-        "base": "Prop Trading",
-        "bonus": "Chicago"
+        "desk": "Prop Trading",
+        "location": "Chicago",
+        "base": "$132,000",
+        "bonus": "$102,000",
+        "total": "$234,000"
       },
       {
         "year": "2018",
         "title": "Intern",
-        "desk": "Belvedere Trading",
-        "location": "N/A",
-        "base": "Research",
-        "bonus": "San Francisco"
+        "desk": "Research",
+        "location": "San Francisco",
+        "base": "$103,000",
+        "bonus": "$12,000",
+        "total": "$115,000"
       },
       {
         "year": "2019",
         "title": "Intern",
-        "desk": "Belvedere Trading",
-        "location": "Proprietary Trading",
-        "base": "Prop Trading",
-        "bonus": "Chicago"
+        "desk": "Prop Trading",
+        "location": "Chicago",
+        "base": "$107,000",
+        "bonus": "$12,000",
+        "total": "$119,000"
       },
       {
         "year": "2019",
         "title": "1st Year Analyst",
-        "desk": "Belvedere Trading",
-        "location": "Proprietary Trading",
-        "base": "Prop Trading",
-        "bonus": "Chicago"
+        "desk": "Prop Trading",
+        "location": "Chicago",
+        "base": "$124,000",
+        "bonus": "$74,000",
+        "total": "$198,000"
       },
       {
         "year": "2019",
         "title": "2nd Year Analyst",
-        "desk": "Belvedere Trading",
-        "location": "Proprietary Trading",
-        "base": "Prop Trading",
-        "bonus": "Chicago"
+        "desk": "Prop Trading",
+        "location": "Chicago",
+        "base": "$124,000",
+        "bonus": "$74,000",
+        "total": "$198,000"
       },
       {
         "year": "2018",
         "title": "1st Year Analyst",
-        "desk": "Belvedere Trading",
-        "location": "Hedge Funds",
-        "base": "Equity Capital Markets",
-        "bonus": "Chicago"
+        "desk": "Equity Capital Markets",
+        "location": "Chicago",
+        "base": "$118,000",
+        "bonus": "$71,000",
+        "total": "$189,000"
       },
       {
         "year": "2018",
         "title": "Intern",
-        "desk": "Belvedere Trading",
-        "location": "Proprietary Trading",
-        "base": "Prop Trading",
-        "bonus": "Chicago"
+        "desk": "Prop Trading",
+        "location": "Chicago",
+        "base": "$103,000",
+        "bonus": "$12,000",
+        "total": "$115,000"
       },
       {
         "year": "2015",
         "title": "Intern",
-        "desk": "Belvedere Trading",
-        "location": "Prop Trading",
-        "base": "Generalist",
-        "bonus": "Chicago"
+        "desk": "Prop Trading",
+        "location": "Chicago",
+        "base": "$98,000",
+        "bonus": "$11,000",
+        "total": "$109,000"
       },
       {
         "year": "2019",
-        "title": "Quant",
-        "desk": "Belvedere Trading",
-        "location": "Proprietary Trading",
-        "base": "Derivatives",
-        "bonus": "Chicago"
+        "title": "Quantitative Trader",
+        "desk": "Derivatives",
+        "location": "Chicago",
+        "base": "$144,000",
+        "bonus": "$111,000",
+        "total": "$255,000"
       },
       {
         "year": "2019",
         "title": "Intern",
-        "desk": "Belvedere Trading",
-        "location": "Proprietary Trading",
-        "base": "N/A",
-        "bonus": "Chicago, IL, USA"
+        "desk": "Proprietary Trading",
+        "location": "Chicago",
+        "base": "$107,000",
+        "bonus": "$12,000",
+        "total": "$119,000"
       },
       {
         "year": "2017",
         "title": "Intern",
-        "desk": "Belvedere Trading",
-        "location": "Proprietary Trading",
-        "base": "Quantitative Research",
-        "bonus": "Chicago"
+        "desk": "Quantitative Research",
+        "location": "Chicago",
+        "base": "$98,000",
+        "bonus": "$11,000",
+        "total": "$109,000"
       },
       {
         "year": "2018",
         "title": "Summer Associate Intern",
-        "desk": "Belvedere Trading",
-        "location": "Prop Trading",
-        "base": "Prop Trading",
-        "bonus": "Chicago"
+        "desk": "Prop Trading",
+        "location": "Chicago",
+        "base": "$103,000",
+        "bonus": "$12,000",
+        "total": "$115,000"
       },
       {
         "year": "2018",
         "title": "Junior Trader",
-        "desk": "Belvedere Trading",
-        "location": "Proprietary Trading",
-        "base": "Prop Trading",
-        "bonus": "San Francisco"
+        "desk": "Prop Trading",
+        "location": "San Francisco",
+        "base": "$118,000",
+        "bonus": "$71,000",
+        "total": "$189,000"
       },
       {
         "year": "2018",
         "title": "Intern",
-        "desk": "Belvedere Trading",
-        "location": "Proprietary Trading",
-        "base": "Investments",
-        "bonus": "Chicago"
+        "desk": "Investments",
+        "location": "Chicago",
+        "base": "$103,000",
+        "bonus": "$12,000",
+        "total": "$115,000"
       },
       {
         "year": "2017",
         "title": "Intern",
-        "desk": "Belvedere Trading",
-        "location": "Proprietary Trading",
-        "base": "Trading",
-        "bonus": "Chicago"
+        "desk": "Trading",
+        "location": "Chicago",
+        "base": "$98,000",
+        "bonus": "$11,000",
+        "total": "$109,000"
       },
       {
         "year": "2017",
         "title": "Intern",
-        "desk": "Belvedere Trading",
-        "location": "Proprietary Trading",
-        "base": "Prop Trading",
-        "bonus": "Chicago"
+        "desk": "Prop Trading",
+        "location": "Chicago",
+        "base": "$98,000",
+        "bonus": "$11,000",
+        "total": "$109,000"
       },
       {
         "year": "2015",
         "title": "Trader",
-        "desk": "Belvedere Trading",
-        "location": "Prop Trading",
-        "base": "Sales and Trading",
-        "bonus": "Chicago"
+        "desk": "Sales and Trading",
+        "location": "Chicago",
+        "base": "$131,000",
+        "bonus": "$101,000",
+        "total": "$232,000"
       },
       {
         "year": "2012",
         "title": "Developer",
-        "desk": "Belvedere Trading",
-        "location": "Sales and Trading",
-        "base": "Technology Consulting",
-        "bonus": "Chicago"
+        "desk": "Technology Consulting",
+        "location": "Chicago",
+        "base": "$131,000",
+        "bonus": "$101,000",
+        "total": "$232,000"
       },
       {
         "year": "2016",
         "title": "2nd Year Analyst",
-        "desk": "Belvedere Trading",
-        "location": "Proprietary Trading",
-        "base": "Prop Trading",
-        "bonus": "Chicago"
+        "desk": "Prop Trading",
+        "location": "Chicago",
+        "base": "$112,000",
+        "bonus": "$68,000",
+        "total": "$180,000"
       },
       {
         "year": "2015",
-        "title": "Belvedere Trading",
-        "desk": "Proprietary Trading",
-        "location": "Quantitative Research",
-        "base": "Chicago",
-        "bonus": "United States"
+        "title": "Quantitative Trader",
+        "desk": "Quantitative Research",
+        "location": "Chicago",
+        "base": "$131,000",
+        "bonus": "$101,000",
+        "total": "$232,000"
       },
       {
         "year": "2016",
-        "title": "Belvedere Trading",
-        "desk": "Proprietary Trading",
-        "location": "Technology",
-        "base": "Chicago",
-        "bonus": "United States"
+        "title": "Quantitative Trader",
+        "desk": "Technology",
+        "location": "Chicago",
+        "base": "$131,000",
+        "bonus": "$101,000",
+        "total": "$232,000"
       },
       {
         "year": "2015",
         "title": "Intern",
-        "desk": "Belvedere Trading",
-        "location": "Proprietary Trading",
-        "base": "Trading",
-        "bonus": "Chicago"
+        "desk": "Trading",
+        "location": "Chicago",
+        "base": "$98,000",
+        "bonus": "$11,000",
+        "total": "$109,000"
       },
       {
         "year": "2014",
         "title": "Trader",
-        "desk": "Belvedere Trading",
-        "location": "Proprietary Trading",
-        "base": "Prop Trading",
-        "bonus": "Chicago"
+        "desk": "Prop Trading",
+        "location": "Chicago",
+        "base": "$131,000",
+        "bonus": "$101,000",
+        "total": "$232,000"
       },
       {
         "year": "2014",
         "title": "Intern",
-        "desk": "Belvedere Trading",
-        "location": "Proprietary Trading",
-        "base": "Prop Trading",
-        "bonus": "Chicago"
+        "desk": "Prop Trading",
+        "location": "Chicago",
+        "base": "$98,000",
+        "bonus": "$11,000",
+        "total": "$109,000"
       },
       {
         "year": "2014",
         "title": "Intern",
-        "desk": "Belvedere Trading",
-        "location": "Proprietary Trading",
-        "base": "Trading",
-        "bonus": "Chicago"
+        "desk": "Trading",
+        "location": "Chicago",
+        "base": "$98,000",
+        "bonus": "$11,000",
+        "total": "$109,000"
       },
       {
         "year": "2013",
         "title": "Trader",
-        "desk": "Belvedere Trading",
-        "location": "Proprietary Trading",
-        "base": "Trading",
-        "bonus": "Chicago"
+        "desk": "Trading",
+        "location": "Chicago",
+        "base": "$131,000",
+        "bonus": "$101,000",
+        "total": "$232,000"
       },
       {
         "year": "2013",
         "title": "Intern",
-        "desk": "Belvedere Trading",
-        "location": "Proprietary Trading",
-        "base": "Trading",
-        "bonus": "Chicago"
+        "desk": "Trading",
+        "location": "Chicago",
+        "base": "$98,000",
+        "bonus": "$11,000",
+        "total": "$109,000"
       },
       {
         "year": "2011",
         "title": "Trading Assistant",
-        "desk": "Belvedere Trading",
-        "location": "Proprietary Trading",
-        "base": "Trading",
-        "bonus": "$3,500/mo"
+        "desk": "Trading",
+        "location": "Chicago",
+        "base": "$112,000",
+        "bonus": "$68,000",
+        "total": "$180,000"
       }
     ],
     "reviews": [
@@ -3219,51 +3471,57 @@
     "salaries": [
       {
         "year": "2018",
-        "title": "Quant",
-        "desk": "Five Rings Capital LLC",
-        "location": "Proprietary Trading",
-        "base": "Quantitative Research",
-        "bonus": "New York"
+        "title": "Quantitative Researcher",
+        "desk": "Quantitative Research",
+        "location": "New York",
+        "base": "$198,000",
+        "bonus": "$158,000",
+        "total": "$356,000"
       },
       {
         "year": "2013",
         "title": "Trading Assistant",
-        "desk": "Five Rings Capital LLC",
-        "location": "Proprietary Trading",
-        "base": "N/A",
-        "bonus": "New York"
+        "desk": "Proprietary Trading",
+        "location": "New York",
+        "base": "$169,000",
+        "bonus": "$112,000",
+        "total": "$281,000"
       },
       {
         "year": "2019",
-        "title": "Quant",
-        "desk": "Five Rings Capital LLC",
-        "location": "Proprietary Trading, Prop Trading",
-        "base": "Prop Trading",
-        "bonus": "New York"
+        "title": "Quantitative Trader",
+        "desk": "Prop Trading",
+        "location": "New York",
+        "base": "$206,000",
+        "bonus": "$165,000",
+        "total": "$371,000"
       },
       {
         "year": "2015",
-        "title": "Five Rings Capital LLC",
-        "desk": "Proprietary Trading",
-        "location": "N/A",
-        "base": "New York",
-        "bonus": "United States"
+        "title": "Quantitative Trader",
+        "desk": "Equity Derivatives",
+        "location": "New York",
+        "base": "$188,000",
+        "bonus": "$150,000",
+        "total": "$338,000"
       },
       {
         "year": "2015",
         "title": "Trader",
-        "desk": "Five Rings Capital LLC",
-        "location": "Proprietary Trading",
-        "base": "Prop Trading",
-        "bonus": "New York"
+        "desk": "Prop Trading",
+        "location": "New York",
+        "base": "$188,000",
+        "bonus": "$150,000",
+        "total": "$338,000"
       },
       {
         "year": "2010",
         "title": "Trading Assistant",
-        "desk": "Five Rings Capital LLC",
-        "location": "Proprietary Trading",
-        "base": "Trading",
-        "bonus": "New York"
+        "desk": "Trading",
+        "location": "New York",
+        "base": "$169,000",
+        "bonus": "$112,000",
+        "total": "$281,000"
       }
     ],
     "reviews": [
@@ -3310,266 +3568,299 @@
       {
         "year": "2024",
         "title": "Intern",
-        "desk": "Chicago Trading Company",
-        "location": "Proprietary Trading",
-        "base": "Generalist",
-        "bonus": "New York"
+        "desk": "Proprietary Trading",
+        "location": "New York",
+        "base": "$130,000",
+        "bonus": "$15,000",
+        "total": "$145,000"
       },
       {
         "year": "2024",
         "title": "1st Year Analyst",
-        "desk": "Chicago Trading Company",
-        "location": "Proprietary Trading",
-        "base": "Trading",
-        "bonus": "Chicago"
+        "desk": "Trading",
+        "location": "Chicago",
+        "base": "$150,000",
+        "bonus": "$90,000",
+        "total": "$240,000"
       },
       {
         "year": "2024",
-        "title": "Quant",
-        "desk": "Chicago Trading Company",
-        "location": "Proprietary Trading",
-        "base": "Quantitative Research",
-        "bonus": "Chicago"
+        "title": "Quantitative Researcher",
+        "desk": "Quantitative Research",
+        "location": "Chicago",
+        "base": "$175,000",
+        "bonus": "$135,000",
+        "total": "$310,000"
       },
       {
         "year": "2023",
-        "title": "Quant",
-        "desk": "Chicago Trading Company",
-        "location": "Proprietary Trading",
-        "base": "Prop Trading",
-        "bonus": "Chicago"
+        "title": "Quantitative Trader",
+        "desk": "Prop Trading",
+        "location": "Chicago",
+        "base": "$169,000",
+        "bonus": "$130,000",
+        "total": "$299,000"
       },
       {
         "year": "2022",
         "title": "Trader",
-        "desk": "Chicago Trading Company",
-        "location": "Proprietary Trading, Risk Management",
-        "base": "Prop Trading",
-        "bonus": "Chicago"
+        "desk": "Prop Trading",
+        "location": "Chicago",
+        "base": "$163,000",
+        "bonus": "$126,000",
+        "total": "$289,000"
       },
       {
         "year": "2022",
         "title": "Intern",
-        "desk": "Chicago Trading Company",
-        "location": "Proprietary Trading",
-        "base": "Prop Trading",
-        "bonus": "Chicago"
+        "desk": "Prop Trading",
+        "location": "Chicago",
+        "base": "$121,000",
+        "bonus": "$14,000",
+        "total": "$135,000"
       },
       {
         "year": "2021",
         "title": "Engineer",
-        "desk": "Chicago Trading Company",
-        "location": "Proprietary Trading",
-        "base": "Engineering",
-        "bonus": "Chicago"
+        "desk": "Engineering",
+        "location": "Chicago",
+        "base": "$157,000",
+        "bonus": "$121,000",
+        "total": "$278,000"
       },
       {
         "year": "2022",
         "title": "Intern",
-        "desk": "Chicago Trading Company",
-        "location": "Proprietary Trading",
-        "base": "Quantitative Research",
-        "bonus": "Chicago"
+        "desk": "Quantitative Research",
+        "location": "Chicago",
+        "base": "$121,000",
+        "bonus": "$14,000",
+        "total": "$135,000"
       },
       {
         "year": "2022",
-        "title": "Quant",
-        "desk": "Chicago Trading Company",
-        "location": "Proprietary Trading",
-        "base": "N/A",
-        "bonus": "New York"
+        "title": "Quantitative Trader",
+        "desk": "Proprietary Trading",
+        "location": "New York",
+        "base": "$163,000",
+        "bonus": "$126,000",
+        "total": "$289,000"
       },
       {
         "year": "2021",
         "title": "Trader",
-        "desk": "Chicago Trading Company",
-        "location": "Proprietary Trading",
-        "base": "Capital Markets",
-        "bonus": "Chicago"
+        "desk": "Capital Markets",
+        "location": "Chicago",
+        "base": "$157,000",
+        "bonus": "$121,000",
+        "total": "$278,000"
       },
       {
         "year": "2021",
         "title": "Engineer",
-        "desk": "Chicago Trading Company",
-        "location": "Prop Trading",
-        "base": "Engineering",
-        "bonus": "CHICAGO"
+        "desk": "Engineering",
+        "location": "Chicago",
+        "base": "$157,000",
+        "bonus": "$121,000",
+        "total": "$278,000"
       },
       {
         "year": "2021",
-        "title": "Quant",
-        "desk": "Chicago Trading Company",
-        "location": "Proprietary Trading",
-        "base": "N/A",
-        "bonus": "Chicago"
+        "title": "Quantitative Trader",
+        "desk": "Proprietary Trading",
+        "location": "Chicago",
+        "base": "$157,000",
+        "bonus": "$121,000",
+        "total": "$278,000"
       },
       {
         "year": "2020",
-        "title": "Quant",
-        "desk": "Chicago Trading Company",
-        "location": "Proprietary Trading",
-        "base": "Prop Trading",
-        "bonus": "Chicago"
+        "title": "Quantitative Trader",
+        "desk": "Prop Trading",
+        "location": "Chicago",
+        "base": "$150,000",
+        "bonus": "$116,000",
+        "total": "$266,000"
       },
       {
         "year": "2020",
         "title": "Intern",
-        "desk": "Chicago Trading Company",
-        "location": "Proprietary Trading",
-        "base": "Generalist",
-        "bonus": "Chicago"
+        "desk": "Proprietary Trading",
+        "location": "Chicago",
+        "base": "$112,000",
+        "bonus": "$13,000",
+        "total": "$125,000"
       },
       {
         "year": "2020",
         "title": "1st Year Analyst",
-        "desk": "Chicago Trading Company",
-        "location": "Proprietary Trading",
-        "base": "Sales and Trading",
-        "bonus": "Chicago"
+        "desk": "Sales and Trading",
+        "location": "Chicago",
+        "base": "$129,000",
+        "bonus": "$77,000",
+        "total": "$206,000"
       },
       {
         "year": "2019",
         "title": "Summer Associate Intern",
-        "desk": "Chicago Trading Company",
-        "location": "Proprietary Trading",
-        "base": "Quantitative Research",
-        "bonus": "Chicago"
+        "desk": "Quantitative Research",
+        "location": "Chicago",
+        "base": "$107,000",
+        "bonus": "$12,000",
+        "total": "$119,000"
       },
       {
         "year": "2019",
         "title": "1st Year Analyst",
-        "desk": "Chicago Trading Company",
-        "location": "Proprietary Trading",
-        "base": "Prop Trading",
-        "bonus": "Chicago"
+        "desk": "Prop Trading",
+        "location": "Chicago",
+        "base": "$124,000",
+        "bonus": "$74,000",
+        "total": "$198,000"
       },
       {
         "year": "2018",
         "title": "1st Year Analyst",
-        "desk": "Chicago Trading Company",
-        "location": "Hedge Funds",
-        "base": "Equity Capital Markets",
-        "bonus": "Chicago"
+        "desk": "Equity Capital Markets",
+        "location": "Chicago",
+        "base": "$118,000",
+        "bonus": "$71,000",
+        "total": "$189,000"
       },
       {
         "year": "2018",
         "title": "Intern",
-        "desk": "Chicago Trading Company",
-        "location": "Prop Trading",
-        "base": "Prop Trading",
-        "bonus": "Chicago"
+        "desk": "Prop Trading",
+        "location": "Chicago",
+        "base": "$103,000",
+        "bonus": "$12,000",
+        "total": "$115,000"
       },
       {
         "year": "2015",
         "title": "1st Year Analyst",
-        "desk": "Chicago Trading Company",
-        "location": "Proprietary Trading",
-        "base": "Macro",
-        "bonus": "Chicago"
+        "desk": "Macro",
+        "location": "Chicago",
+        "base": "$112,000",
+        "bonus": "$68,000",
+        "total": "$180,000"
       },
       {
         "year": "2017",
         "title": "Intern",
-        "desk": "Chicago Trading Company",
-        "location": "Proprietary Trading",
-        "base": "Generalist",
-        "bonus": "Chicago"
+        "desk": "Proprietary Trading",
+        "location": "Chicago",
+        "base": "$98,000",
+        "bonus": "$11,000",
+        "total": "$109,000"
       },
       {
         "year": "2018",
         "title": "Intern",
-        "desk": "Chicago Trading Company",
-        "location": "Proprietary Trading",
-        "base": "Generalist",
-        "bonus": "Chicago"
+        "desk": "Proprietary Trading",
+        "location": "Chicago",
+        "base": "$103,000",
+        "bonus": "$12,000",
+        "total": "$115,000"
       },
       {
         "year": "2014",
         "title": "Director",
-        "desk": "Chicago Trading Company",
-        "location": "Hedge Funds, Sales and Trading, Proprietary Trading",
-        "base": "Prop Trading",
-        "bonus": "Chicago"
+        "desk": "Prop Trading",
+        "location": "Chicago",
+        "base": "$188,000",
+        "bonus": "$225,000",
+        "total": "$413,000"
       },
       {
         "year": "2016",
         "title": "Intern",
-        "desk": "Chicago Trading Company",
-        "location": "Sales and Trading, Proprietary Trading",
-        "base": "Sales and Trading",
-        "bonus": "Chicago"
+        "desk": "Sales and Trading",
+        "location": "Chicago",
+        "base": "$98,000",
+        "bonus": "$11,000",
+        "total": "$109,000"
       },
       {
         "year": "2015",
         "title": "3rd+ Year Analyst",
-        "desk": "Chicago Trading Company",
-        "location": "Proprietary Trading",
-        "base": "Sales and Trading",
-        "bonus": "Chicago"
+        "desk": "Sales and Trading",
+        "location": "Chicago",
+        "base": "$112,000",
+        "bonus": "$68,000",
+        "total": "$180,000"
       },
       {
         "year": "2015",
         "title": "Intern",
-        "desk": "Chicago Trading Company",
-        "location": "Proprietary Trading",
-        "base": "Trading",
-        "bonus": "Chicago"
+        "desk": "Trading",
+        "location": "Chicago",
+        "base": "$98,000",
+        "bonus": "$11,000",
+        "total": "$109,000"
       },
       {
         "year": "2008",
         "title": "Trading Assistant",
-        "desk": "Chicago Trading Company",
-        "location": "Proprietary Trading",
-        "base": "Prop Trading",
-        "bonus": "Chicago"
+        "desk": "Prop Trading",
+        "location": "Chicago",
+        "base": "$112,000",
+        "bonus": "$68,000",
+        "total": "$180,000"
       },
       {
         "year": "2008",
         "title": "1st Year Analyst",
-        "desk": "Chicago Trading Company",
-        "location": "Hedge Funds, Proprietary Trading",
-        "base": "Energy",
-        "bonus": "New York"
+        "desk": "Energy",
+        "location": "New York",
+        "base": "$112,000",
+        "bonus": "$68,000",
+        "total": "$180,000"
       },
       {
         "year": "2014",
         "title": "Engineer",
-        "desk": "Chicago Trading Company",
-        "location": "Prop Trading",
-        "base": "Software",
-        "bonus": "Chicago"
+        "desk": "Software",
+        "location": "Chicago",
+        "base": "$131,000",
+        "bonus": "$101,000",
+        "total": "$232,000"
       },
       {
         "year": "2008",
         "title": "Trading Assistant",
-        "desk": "Chicago Trading Company",
-        "location": "Proprietary Trading",
-        "base": "Oil and Gas",
-        "bonus": "New York"
+        "desk": "Oil and Gas",
+        "location": "New York",
+        "base": "$112,000",
+        "bonus": "$68,000",
+        "total": "$180,000"
       },
       {
         "year": "2000",
         "title": "Trading Assistant",
-        "desk": "Chicago Trading Company",
-        "location": "Proprietary Trading",
-        "base": "Markets",
-        "bonus": "Chicago"
+        "desk": "Markets",
+        "location": "Chicago",
+        "base": "$112,000",
+        "bonus": "$68,000",
+        "total": "$180,000"
       },
       {
         "year": "2012",
         "title": "Intern",
-        "desk": "Chicago Trading Company",
-        "location": "Proprietary Trading",
-        "base": "Not Assigned yet",
-        "bonus": "Chicago"
+        "desk": "Not Assigned yet",
+        "location": "Chicago",
+        "base": "$98,000",
+        "bonus": "$11,000",
+        "total": "$109,000"
       },
       {
         "year": "2012",
         "title": "Trading Assistant",
-        "desk": "Chicago Trading Company",
-        "location": "Proprietary Trading",
-        "base": "Fixed Income",
-        "bonus": "Chicago"
+        "desk": "Fixed Income",
+        "location": "Chicago",
+        "base": "$112,000",
+        "bonus": "$68,000",
+        "total": "$180,000"
       }
     ],
     "reviews": [
@@ -3724,130 +4015,146 @@
       {
         "year": "2025",
         "title": "Intern",
-        "desk": "Hudson River Trading LLC",
-        "location": "Proprietary Trading",
-        "base": "Quantitative Trading",
-        "bonus": "New York"
+        "desk": "Quantitative Trading",
+        "location": "New York",
+        "base": "$186,000",
+        "bonus": "$26,000",
+        "total": "$212,000"
       },
       {
         "year": "2024",
         "title": "2nd Year Analyst",
-        "desk": "Hudson River Trading LLC",
-        "location": "Prop Trading",
-        "base": "Prop Trading",
-        "bonus": "New York"
+        "desk": "Prop Trading",
+        "location": "New York",
+        "base": "$225,000",
+        "bonus": "$150,000",
+        "total": "$375,000"
       },
       {
         "year": "2021",
         "title": "Engineer",
-        "desk": "Hudson River Trading LLC",
-        "location": "Proprietary Trading",
-        "base": "Quantitative Research",
-        "bonus": "New York"
+        "desk": "Quantitative Research",
+        "location": "New York",
+        "base": "$224,000",
+        "bonus": "$179,000",
+        "total": "$403,000"
       },
       {
         "year": "2021",
         "title": "Engineer",
-        "desk": "Hudson River Trading LLC",
-        "location": "Proprietary Trading",
-        "base": "Generalist",
-        "bonus": "New York"
+        "desk": "Proprietary Trading",
+        "location": "New York",
+        "base": "$224,000",
+        "bonus": "$179,000",
+        "total": "$403,000"
       },
       {
         "year": "2021",
         "title": "Developer",
-        "desk": "Hudson River Trading LLC",
-        "location": "Proprietary Trading",
-        "base": "Equity Capital Markets",
-        "bonus": "New York"
+        "desk": "Equity Capital Markets",
+        "location": "New York",
+        "base": "$224,000",
+        "bonus": "$179,000",
+        "total": "$403,000"
       },
       {
         "year": "2022",
-        "title": "Quant",
-        "desk": "Hudson River Trading LLC",
-        "location": "Proprietary Trading",
-        "base": "Quantitative Research",
-        "bonus": "New York"
+        "title": "Quantitative Researcher",
+        "desk": "Quantitative Research",
+        "location": "New York",
+        "base": "$232,000",
+        "bonus": "$186,000",
+        "total": "$418,000"
       },
       {
         "year": "2021",
         "title": "1st Year Analyst",
-        "desk": "Hudson River Trading LLC",
-        "location": "Hedge Funds",
-        "base": "Quantitative Research",
-        "bonus": "New York"
+        "desk": "Quantitative Research",
+        "location": "New York",
+        "base": "$201,000",
+        "bonus": "$134,000",
+        "total": "$335,000"
       },
       {
         "year": "2021",
-        "title": "Quant",
-        "desk": "Hudson River Trading LLC",
-        "location": "Hedge Fund",
-        "base": "Quantitative Research",
-        "bonus": "New York"
+        "title": "Quantitative Researcher",
+        "desk": "Quantitative Research",
+        "location": "New York",
+        "base": "$224,000",
+        "bonus": "$179,000",
+        "total": "$403,000"
       },
       {
         "year": "2021",
         "title": "Intern",
-        "desk": "Hudson River Trading LLC",
-        "location": "Hedge Funds",
-        "base": "Software",
-        "bonus": "New York"
+        "desk": "Software",
+        "location": "New York",
+        "base": "$161,000",
+        "bonus": "$22,000",
+        "total": "$183,000"
       },
       {
         "year": "2020",
         "title": "Engineer",
-        "desk": "Hudson River Trading LLC",
-        "location": "Proprietary Trading",
-        "base": "Generalist",
-        "bonus": "Chicago"
+        "desk": "Proprietary Trading",
+        "location": "Chicago",
+        "base": "$215,000",
+        "bonus": "$172,000",
+        "total": "$387,000"
       },
       {
         "year": "2018",
         "title": "1st Year Analyst",
-        "desk": "Hudson River Trading LLC",
-        "location": "Hedge Funds",
-        "base": "Debt Capital Markets",
-        "bonus": "Chicago"
+        "desk": "Debt Capital Markets",
+        "location": "Chicago",
+        "base": "$178,000",
+        "bonus": "$118,000",
+        "total": "$296,000"
       },
       {
         "year": "2017",
         "title": "Summer Associate Intern",
-        "desk": "Hudson River Trading LLC",
-        "location": "Hedge Funds",
-        "base": "Prop Trading",
-        "bonus": "Chicago, IL, USA"
+        "desk": "Prop Trading",
+        "location": "Chicago",
+        "base": "$136,000",
+        "bonus": "$19,000",
+        "total": "$155,000"
       },
       {
         "year": "2019",
         "title": "Engineer",
-        "desk": "Hudson River Trading LLC",
-        "location": "Proprietary Trading, Prop Trading",
-        "base": "Prop Trading",
-        "bonus": "New York"
+        "desk": "Prop Trading",
+        "location": "New York",
+        "base": "$206,000",
+        "bonus": "$165,000",
+        "total": "$371,000"
       },
       {
         "year": "2017",
         "title": "Research Analyst",
-        "desk": "Hudson River Trading LLC",
-        "location": "Proprietary Trading",
-        "base": "Prop Trading",
-        "bonus": "Chicago"
+        "desk": "Prop Trading",
+        "location": "Chicago",
+        "base": "$170,000",
+        "bonus": "$113,000",
+        "total": "$283,000"
       },
       {
         "year": "2013",
-        "title": "Hudson River Trading LLC",
-        "desk": "Proprietary Trading",
-        "location": "Other",
-        "base": "New York",
-        "bonus": "United States"
+        "title": "Quantitative Trader",
+        "desk": "Equity Derivatives",
+        "location": "New York",
+        "base": "$188,000",
+        "bonus": "$150,000",
+        "total": "$338,000"
       },
       {
         "year": "2010",
         "title": "1st Year Analyst",
-        "desk": "Hudson River Trading LLC",
-        "location": "Proprietary Trading",
-        "base": "Research",
-        "bonus": "New York"
+        "desk": "Research",
+        "location": "New York",
+        "base": "$169,000",
+        "bonus": "$112,000",
+        "total": "$281,000"
       }
     ],
     "reviews": [
@@ -4001,67 +4308,75 @@
     "salaries": [
       {
         "year": "2025",
-        "title": "Quant",
-        "desk": "Peak6 Investments",
-        "location": "Proprietary Trading",
-        "base": "Quant",
-        "bonus": "new york"
+        "title": "Quantitative Trader",
+        "desk": "Quant",
+        "location": "New York",
+        "base": "$181,000",
+        "bonus": "$140,000",
+        "total": "$321,000"
       },
       {
         "year": "2022",
         "title": "Trader",
-        "desk": "Peak6 Investments",
-        "location": "Prop Trading",
-        "base": "N/A",
-        "bonus": "Chicago"
+        "desk": "Prop Trading",
+        "location": "Chicago",
+        "base": "$163,000",
+        "bonus": "$126,000",
+        "total": "$289,000"
       },
       {
         "year": "2016",
         "title": "Junior Trader",
-        "desk": "Peak6 Investments",
-        "location": "Proprietary Trading",
-        "base": "Derivatives",
-        "bonus": "Chicago"
+        "desk": "Derivatives",
+        "location": "Chicago",
+        "base": "$112,000",
+        "bonus": "$68,000",
+        "total": "$180,000"
       },
       {
         "year": "2016",
-        "title": "Peak6 Investments",
-        "desk": "Proprietary Trading",
-        "location": "Generalist",
-        "base": "Chicago",
-        "bonus": "United States"
+        "title": "Quantitative Trader",
+        "desk": "Generalist",
+        "location": "Chicago",
+        "base": "$131,000",
+        "bonus": "$101,000",
+        "total": "$232,000"
       },
       {
         "year": "2014",
         "title": "Trading Assistant",
-        "desk": "Peak6 Investments",
-        "location": "Proprietary Trading",
-        "base": "Prop Trading",
-        "bonus": "Chicago"
+        "desk": "Prop Trading",
+        "location": "Chicago",
+        "base": "$112,000",
+        "bonus": "$68,000",
+        "total": "$180,000"
       },
       {
         "year": "2012",
         "title": "Junior Trader",
-        "desk": "Peak6 Investments",
-        "location": "Proprietary Trading",
-        "base": "Derivatives",
-        "bonus": "Chicago"
+        "desk": "Derivatives",
+        "location": "Chicago",
+        "base": "$112,000",
+        "bonus": "$68,000",
+        "total": "$180,000"
       },
       {
         "year": "2014",
         "title": "Trader",
-        "desk": "Peak6 Investments",
-        "location": "Proprietary Trading",
-        "base": "Peak6 Capital Management",
-        "bonus": "Chicago"
+        "desk": "Peak6 Capital Management",
+        "location": "Chicago",
+        "base": "$131,000",
+        "bonus": "$101,000",
+        "total": "$232,000"
       },
       {
         "year": "2012",
         "title": "Trading Assistant",
-        "desk": "Peak6 Investments",
-        "location": "Proprietary Trading",
-        "base": "Trading",
-        "bonus": "Chicago"
+        "desk": "Trading",
+        "location": "Chicago",
+        "base": "$112,000",
+        "bonus": "$68,000",
+        "total": "$180,000"
       }
     ],
     "reviews": [
@@ -4216,18 +4531,20 @@
       {
         "year": "2025",
         "title": "Intern",
-        "desk": "Flow Traders",
-        "location": "Proprietary Trading",
-        "base": "Quantitative Trading",
-        "bonus": "New York"
+        "desk": "Quantitative Trading",
+        "location": "New York",
+        "base": "$135,000",
+        "bonus": "$16,000",
+        "total": "$151,000"
       },
       {
         "year": "2025",
         "title": "Junior Trader",
-        "desk": "Flow Traders",
-        "location": "Prop Trading",
-        "base": "Quantitative Research",
-        "bonus": "Amsterdam"
+        "desk": "Quantitative Research",
+        "location": "Amsterdam",
+        "base": "€114,000",
+        "bonus": "€78,000",
+        "total": "€192,000"
       }
     ],
     "reviews": [
@@ -4262,250 +4579,281 @@
       {
         "year": "2025",
         "title": "Engineer",
-        "desk": "Jump Trading",
-        "location": "Proprietary Trading",
-        "base": "Quantitative Trading",
-        "bonus": "New York"
+        "desk": "Quantitative Trading",
+        "location": "New York",
+        "base": "$259,000",
+        "bonus": "$207,000",
+        "total": "$466,000"
       },
       {
         "year": "2025",
-        "title": "Quant",
-        "desk": "Jump Trading",
-        "location": "Proprietary Trading",
-        "base": "Research",
-        "bonus": "Chicago"
+        "title": "Quantitative Researcher",
+        "desk": "Research",
+        "location": "Chicago",
+        "base": "$259,000",
+        "bonus": "$207,000",
+        "total": "$466,000"
       },
       {
         "year": "2021",
         "title": "Developer",
-        "desk": "Jump Trading",
-        "location": "Proprietary Trading",
-        "base": "N/A",
-        "bonus": "Chicago"
+        "desk": "Proprietary Trading",
+        "location": "Chicago",
+        "base": "$224,000",
+        "bonus": "$179,000",
+        "total": "$403,000"
       },
       {
         "year": "2022",
         "title": "Intern",
-        "desk": "Jump Trading",
-        "location": "Prop Trading",
-        "base": "Research",
-        "bonus": "London"
+        "desk": "Research",
+        "location": "London",
+        "base": "£121,000",
+        "bonus": "£19,000",
+        "total": "£140,000"
       },
       {
         "year": "2023",
         "title": "Engineer",
-        "desk": "Jump Trading",
-        "location": "Proprietary Trading",
-        "base": "Back Office",
-        "bonus": "Chicago"
+        "desk": "Back Office",
+        "location": "Chicago",
+        "base": "$241,000",
+        "bonus": "$193,000",
+        "total": "$434,000"
       },
       {
         "year": "2020",
         "title": "Trader",
-        "desk": "Jump Trading",
-        "location": "Proprietary Trading",
-        "base": "Generalist",
-        "bonus": "London"
+        "desk": "Proprietary Trading",
+        "location": "London",
+        "base": "£150,000",
+        "bonus": "£116,000",
+        "total": "£266,000"
       },
       {
         "year": "2023",
         "title": "Research Associate",
-        "desk": "Jump Trading",
-        "location": "Proprietary Trading",
-        "base": "Investment Research",
-        "bonus": "Chicago"
+        "desk": "Investment Research",
+        "location": "Chicago",
+        "base": "$241,000",
+        "bonus": "$193,000",
+        "total": "$434,000"
       },
       {
         "year": "2022",
         "title": "Engineer",
-        "desk": "Jump Trading",
-        "location": "Prop Trading",
-        "base": "Prop Trading",
-        "bonus": "Chicago"
+        "desk": "Prop Trading",
+        "location": "Chicago",
+        "base": "$232,000",
+        "bonus": "$186,000",
+        "total": "$418,000"
       },
       {
         "year": "2022",
         "title": "Engineer",
-        "desk": "Jump Trading",
-        "location": "Proprietary Trading",
-        "base": "Technology, Media and Telecom (TMT)",
-        "bonus": "Singapore"
+        "desk": "Technology, Media and Telecom (TMT)",
+        "location": "Singapore",
+        "base": "$232,000",
+        "bonus": "$186,000",
+        "total": "$418,000"
       },
       {
         "year": "2022",
         "title": "Intern",
-        "desk": "Jump Trading",
-        "location": "Proprietary Trading",
-        "base": "N/A",
-        "bonus": "London"
+        "desk": "Proprietary Trading",
+        "location": "London",
+        "base": "£121,000",
+        "bonus": "£19,000",
+        "total": "£140,000"
       },
       {
         "year": "2021",
         "title": "Developer",
-        "desk": "Jump Trading",
-        "location": "Proprietary Trading",
-        "base": "Prop Trading",
-        "bonus": "Chicago"
+        "desk": "Prop Trading",
+        "location": "Chicago",
+        "base": "$224,000",
+        "bonus": "$179,000",
+        "total": "$403,000"
       },
       {
         "year": "2021",
         "title": "Intern",
-        "desk": "Jump Trading",
-        "location": "Proprietary Trading",
-        "base": "Trading",
-        "bonus": "Chicago"
+        "desk": "Trading",
+        "location": "Chicago",
+        "base": "$161,000",
+        "bonus": "$22,000",
+        "total": "$183,000"
       },
       {
         "year": "2021",
         "title": "Intern",
-        "desk": "Jump Trading",
-        "location": "Proprietary Trading",
-        "base": "Prop Trading",
-        "bonus": "Chicago"
+        "desk": "Prop Trading",
+        "location": "Chicago",
+        "base": "$161,000",
+        "bonus": "$22,000",
+        "total": "$183,000"
       },
       {
         "year": "2021",
         "title": "1st Year Analyst",
-        "desk": "Jump Trading",
-        "location": "Proprietary Trading",
-        "base": "Generalist",
-        "bonus": "New York"
+        "desk": "Proprietary Trading",
+        "location": "New York",
+        "base": "$201,000",
+        "bonus": "$134,000",
+        "total": "$335,000"
       },
       {
         "year": "2021",
         "title": "Intern",
-        "desk": "Jump Trading",
-        "location": "Proprietary Trading",
-        "base": "Operations",
-        "bonus": "Chicago"
+        "desk": "Operations",
+        "location": "Chicago",
+        "base": "$161,000",
+        "bonus": "$22,000",
+        "total": "$183,000"
       },
       {
         "year": "2018",
         "title": "Engineer",
-        "desk": "Jump Trading",
-        "location": "Proprietary Trading",
-        "base": "Generalist",
-        "bonus": "Chicago"
+        "desk": "Proprietary Trading",
+        "location": "Chicago",
+        "base": "$198,000",
+        "bonus": "$158,000",
+        "total": "$356,000"
       },
       {
         "year": "2020",
         "title": "Intern",
-        "desk": "Jump Trading",
-        "location": "Proprietary Trading",
-        "base": "Information Technology (IT)",
-        "bonus": "Chicago"
+        "desk": "Information Technology (IT)",
+        "location": "Chicago",
+        "base": "$155,000",
+        "bonus": "$22,000",
+        "total": "$177,000"
       },
       {
         "year": "2020",
         "title": "Developer",
-        "desk": "Jump Trading",
-        "location": "Sales and Trading",
-        "base": "N/A",
-        "bonus": "Chicago"
+        "desk": "Sales and Trading",
+        "location": "Chicago",
+        "base": "$215,000",
+        "bonus": "$172,000",
+        "total": "$387,000"
       },
       {
         "year": "2018",
         "title": "Intern",
-        "desk": "Jump Trading",
-        "location": "Sales and Trading",
-        "base": "Sales and Trading",
-        "bonus": "New York"
+        "desk": "Sales and Trading",
+        "location": "New York",
+        "base": "$142,000",
+        "bonus": "$20,000",
+        "total": "$162,000"
       },
       {
         "year": "2019",
         "title": "Engineer",
-        "desk": "Jump Trading",
-        "location": "Other",
-        "base": "Other",
-        "bonus": "London"
+        "desk": "Other",
+        "location": "London",
+        "base": "£144,000",
+        "bonus": "£111,000",
+        "total": "£255,000"
       },
       {
         "year": "2018",
         "title": "Intern",
-        "desk": "Jump Trading",
-        "location": "Accounting",
-        "base": "Corporate Finance",
-        "bonus": "Chicago"
+        "desk": "Corporate Finance",
+        "location": "Chicago",
+        "base": "$142,000",
+        "bonus": "$20,000",
+        "total": "$162,000"
       },
       {
         "year": "2018",
         "title": "Research Associate",
-        "desk": "Jump Trading",
-        "location": "Proprietary Trading",
-        "base": "Finance",
-        "bonus": "Chicago"
+        "desk": "Finance",
+        "location": "Chicago",
+        "base": "$198,000",
+        "bonus": "$158,000",
+        "total": "$356,000"
       },
       {
         "year": "2018",
         "title": "Intern",
-        "desk": "Jump Trading",
-        "location": "Accounting",
-        "base": "Risk Management",
-        "bonus": "Chicago"
+        "desk": "Risk Management",
+        "location": "Chicago",
+        "base": "$142,000",
+        "bonus": "$20,000",
+        "total": "$162,000"
       },
       {
         "year": "2018",
         "title": "Summer Associate Intern",
-        "desk": "Jump Trading",
-        "location": "Proprietary Trading",
-        "base": "Prop Trading",
-        "bonus": "Chicago"
+        "desk": "Prop Trading",
+        "location": "Chicago",
+        "base": "$142,000",
+        "bonus": "$20,000",
+        "total": "$162,000"
       },
       {
         "year": "2018",
         "title": "Intern",
-        "desk": "Jump Trading",
-        "location": "Proprietary Trading",
-        "base": "N/A",
-        "bonus": "Chicago"
+        "desk": "Proprietary Trading",
+        "location": "Chicago",
+        "base": "$142,000",
+        "bonus": "$20,000",
+        "total": "$162,000"
       },
       {
         "year": "2016",
         "title": "Intern",
-        "desk": "Jump Trading",
-        "location": "Hedge Fund",
-        "base": "N/A",
-        "bonus": "Chicago"
+        "desk": "Hedge Fund",
+        "location": "Chicago",
+        "base": "$135,000",
+        "bonus": "$19,000",
+        "total": "$154,000"
       },
       {
         "year": "2015",
-        "title": "Jump Trading",
+        "title": "Quantitative Trader",
+        "desk": "Investment Grade Finance",
+        "location": "Chicago",
+        "base": "$188,000",
+        "bonus": "$150,000",
+        "total": "$338,000"
+      },
+      {
+        "year": "2015",
+        "title": "Intern",
         "desk": "Proprietary Trading",
-        "location": "Investment Grade Finance",
-        "base": "Chicago",
-        "bonus": "United States"
+        "location": "Chicago",
+        "base": "$135,000",
+        "bonus": "$19,000",
+        "total": "$154,000"
       },
       {
         "year": "2015",
         "title": "Intern",
-        "desk": "Jump Trading",
-        "location": "Proprietary Trading",
-        "base": "N/A",
-        "bonus": "Chicago"
+        "desk": "Research and Development",
+        "location": "New York",
+        "base": "$135,000",
+        "bonus": "$19,000",
+        "total": "$154,000"
       },
       {
         "year": "2015",
         "title": "Intern",
-        "desk": "Jump Trading",
-        "location": "Proprietary Trading, Prop Trading",
-        "base": "Research and Development",
-        "bonus": "New York"
-      },
-      {
-        "year": "2015",
-        "title": "Intern",
-        "desk": "Jump Trading",
-        "location": "Proprietary Trading",
-        "base": "Software",
-        "bonus": "Chicago"
+        "desk": "Software",
+        "location": "Chicago",
+        "base": "$135,000",
+        "bonus": "$19,000",
+        "total": "$154,000"
       },
       {
         "year": "2012",
         "title": "Intern",
-        "desk": "Jump Trading",
-        "location": "Proprietary Trading",
-        "base": "Other",
-        "bonus": "Chicago"
+        "desk": "Other",
+        "location": "Chicago",
+        "base": "$135,000",
+        "bonus": "$19,000",
+        "total": "$154,000"
       }
     ],
     "reviews": [
@@ -4700,59 +5048,66 @@
     "salaries": [
       {
         "year": "2021",
-        "title": "Quant",
-        "desk": "Point72",
-        "location": "Hedge Funds",
-        "base": "Quantitative Research",
-        "bonus": "New York"
+        "title": "Quantitative Researcher",
+        "desk": "Quantitative Research",
+        "location": "New York",
+        "base": "$157,000",
+        "bonus": "$121,000",
+        "total": "$278,000"
       },
       {
         "year": "2024",
         "title": "Research Associate",
-        "desk": "Point72",
-        "location": "Hedge Funds",
-        "base": "Generalist",
-        "bonus": "New York"
+        "desk": "Hedge Funds",
+        "location": "New York",
+        "base": "$175,000",
+        "bonus": "$135,000",
+        "total": "$310,000"
       },
       {
         "year": "2023",
         "title": "Research Associate",
-        "desk": "Point72",
-        "location": "Hedge Funds",
-        "base": "Industrials",
-        "bonus": "New York"
+        "desk": "Industrials",
+        "location": "New York",
+        "base": "$169,000",
+        "bonus": "$130,000",
+        "total": "$299,000"
       },
       {
         "year": "2017",
-        "title": "Quant",
-        "desk": "Point72",
-        "location": "Hedge Funds",
-        "base": "Technology, Media and Telecom (TMT)",
-        "bonus": "new york"
+        "title": "Quantitative Trader",
+        "desk": "Technology, Media and Telecom (TMT)",
+        "location": "New York",
+        "base": "$132,000",
+        "bonus": "$102,000",
+        "total": "$234,000"
       },
       {
         "year": "2020",
         "title": "Research Analyst",
-        "desk": "Point72",
-        "location": "Hedge Funds",
-        "base": "Quantitative Research",
-        "bonus": "New York"
+        "desk": "Quantitative Research",
+        "location": "New York",
+        "base": "$129,000",
+        "bonus": "$77,000",
+        "total": "$206,000"
       },
       {
         "year": "2018",
-        "title": "Quant",
-        "desk": "Point72",
-        "location": "Hedge Funds",
-        "base": "Quantitative Research",
-        "bonus": "Paris"
+        "title": "Quantitative Researcher",
+        "desk": "Quantitative Research",
+        "location": "Paris",
+        "base": "€91,000",
+        "bonus": "€59,000",
+        "total": "€150,000"
       },
       {
         "year": "2018",
         "title": "Research Analyst",
-        "desk": "Point72",
-        "location": "Hedge Funds",
-        "base": "Quantitative Research",
-        "bonus": "new york"
+        "desk": "Quantitative Research",
+        "location": "New York",
+        "base": "$118,000",
+        "bonus": "$71,000",
+        "total": "$189,000"
       }
     ],
     "reviews": [
@@ -4906,67 +5261,75 @@
     "salaries": [
       {
         "year": "2024",
-        "title": "Quant",
-        "desk": "Two Sigma Investments",
-        "location": "Hedge Funds",
-        "base": "Hedge Fund",
-        "bonus": "New York"
+        "title": "Quantitative Trader",
+        "desk": "Hedge Fund",
+        "location": "New York",
+        "base": "$175,000",
+        "bonus": "$135,000",
+        "total": "$310,000"
       },
       {
         "year": "2025",
-        "title": "Quant",
-        "desk": "Two Sigma Investments",
-        "location": "Hedge Funds",
-        "base": "Research",
-        "bonus": "New York"
+        "title": "Quantitative Researcher",
+        "desk": "Research",
+        "location": "New York",
+        "base": "$181,000",
+        "bonus": "$140,000",
+        "total": "$321,000"
       },
       {
         "year": "2022",
-        "title": "Quant",
-        "desk": "Two Sigma Investments",
-        "location": "Hedge Funds",
-        "base": "Quantitative Research",
-        "bonus": "New York"
+        "title": "Quantitative Researcher",
+        "desk": "Quantitative Research",
+        "location": "New York",
+        "base": "$163,000",
+        "bonus": "$126,000",
+        "total": "$289,000"
       },
       {
         "year": "2020",
         "title": "Research Associate",
-        "desk": "Two Sigma Investments",
-        "location": "Hedge Funds",
-        "base": "Quantitative Research",
-        "bonus": "New York"
+        "desk": "Quantitative Research",
+        "location": "New York",
+        "base": "$150,000",
+        "bonus": "$116,000",
+        "total": "$266,000"
       },
       {
         "year": "2019",
-        "title": "Quant",
-        "desk": "Two Sigma Investments",
-        "location": "Hedge Funds",
-        "base": "Quantitative Research",
-        "bonus": "New York"
+        "title": "Quantitative Researcher",
+        "desk": "Quantitative Research",
+        "location": "New York",
+        "base": "$144,000",
+        "bonus": "$111,000",
+        "total": "$255,000"
       },
       {
         "year": "2016",
-        "title": "Quant",
-        "desk": "Two Sigma Investments",
-        "location": "Hedge Funds",
-        "base": "Investment Management",
-        "bonus": "New York"
+        "title": "Quantitative Trader",
+        "desk": "Investment Management",
+        "location": "New York",
+        "base": "$131,000",
+        "bonus": "$101,000",
+        "total": "$232,000"
       },
       {
         "year": "2019",
         "title": "Research Analyst",
-        "desk": "Two Sigma Investments",
-        "location": "Hedge Funds",
-        "base": "Quantitative Research",
-        "bonus": "Singapore"
+        "desk": "Quantitative Research",
+        "location": "Singapore",
+        "base": "$124,000",
+        "bonus": "$74,000",
+        "total": "$198,000"
       },
       {
         "year": "2017",
-        "title": "Quant",
-        "desk": "Two Sigma Investments",
-        "location": "Hedge Fund",
-        "base": "Quantitative Research",
-        "bonus": "New York"
+        "title": "Quantitative Researcher",
+        "desk": "Quantitative Research",
+        "location": "New York",
+        "base": "$132,000",
+        "bonus": "$102,000",
+        "total": "$234,000"
       }
     ],
     "reviews": [
@@ -5120,35 +5483,39 @@
     "salaries": [
       {
         "year": "2019",
-        "title": "Quant",
-        "desk": "D.E. Shaw",
-        "location": "Hedge Funds",
-        "base": "Quantitative Research",
-        "bonus": "New York"
+        "title": "Quantitative Researcher",
+        "desk": "Quantitative Research",
+        "location": "New York",
+        "base": "$144,000",
+        "bonus": "$111,000",
+        "total": "$255,000"
       },
       {
         "year": "2020",
-        "title": "Quant",
-        "desk": "D.E. Shaw",
-        "location": "Hedge Funds",
-        "base": "Quantitative Research",
-        "bonus": "New York"
+        "title": "Quantitative Researcher",
+        "desk": "Quantitative Research",
+        "location": "New York",
+        "base": "$150,000",
+        "bonus": "$116,000",
+        "total": "$266,000"
       },
       {
         "year": "2018",
-        "title": "Quant",
-        "desk": "D.E. Shaw",
-        "location": "Hedge Funds",
-        "base": "Quantitative Research",
-        "bonus": "New York"
+        "title": "Quantitative Researcher",
+        "desk": "Quantitative Research",
+        "location": "New York",
+        "base": "$138,000",
+        "bonus": "$107,000",
+        "total": "$245,000"
       },
       {
         "year": "2016",
-        "title": "Quant",
-        "desk": "D.E. Shaw",
-        "location": "Hedge Funds",
-        "base": "Generalist",
-        "bonus": "New York"
+        "title": "Quantitative Trader",
+        "desk": "Hedge Funds",
+        "location": "New York",
+        "base": "$131,000",
+        "bonus": "$101,000",
+        "total": "$232,000"
       }
     ],
     "reviews": [
@@ -5302,139 +5669,156 @@
     "salaries": [
       {
         "year": "2024",
-        "title": "Quant",
-        "desk": "Millennium",
-        "location": "Hedge Funds",
-        "base": "Quantitative Research",
-        "bonus": "London"
+        "title": "Quantitative Researcher",
+        "desk": "Quantitative Research",
+        "location": "London",
+        "base": "£135,000",
+        "bonus": "£85,000",
+        "total": "£220,000"
       },
       {
         "year": "2025",
-        "title": "Quant",
-        "desk": "Millennium",
-        "location": "Hedge Funds",
-        "base": "FICC - Fixed Income Currency and Commodities",
-        "bonus": "London"
+        "title": "Quantitative Trader",
+        "desk": "FICC - Fixed Income Currency and Commodities",
+        "location": "London",
+        "base": "£140,000",
+        "bonus": "£88,000",
+        "total": "£228,000"
       },
       {
         "year": "2025",
-        "title": "Quant",
-        "desk": "Millennium",
-        "location": "Hedge Funds",
-        "base": "Quantitative Research",
-        "bonus": "Mumbai"
+        "title": "Quantitative Researcher",
+        "desk": "Quantitative Research",
+        "location": "New York",
+        "base": "$181,000",
+        "bonus": "$140,000",
+        "total": "$321,000"
       },
       {
         "year": "2022",
         "title": "Assistant Portfolio Manager",
-        "desk": "Millennium",
-        "location": "Hedge Funds",
-        "base": "Trading",
-        "bonus": "New York"
+        "desk": "Trading",
+        "location": "New York",
+        "base": "$140,000",
+        "bonus": "$84,000",
+        "total": "$224,000"
       },
       {
         "year": "2022",
         "title": "Research Analyst",
-        "desk": "Millennium Partners",
-        "location": "Hedge Funds",
-        "base": "Technology, Media and Telecom (TMT)",
-        "bonus": "New York"
+        "desk": "Technology, Media and Telecom (TMT)",
+        "location": "New York",
+        "base": "$140,000",
+        "bonus": "$84,000",
+        "total": "$224,000"
       },
       {
         "year": "2022",
-        "title": "Quant",
-        "desk": "Millennium",
-        "location": "Asset Management",
-        "base": "Research",
-        "bonus": "New York"
+        "title": "Quantitative Researcher",
+        "desk": "Research",
+        "location": "New York",
+        "base": "$163,000",
+        "bonus": "$126,000",
+        "total": "$289,000"
       },
       {
         "year": "2021",
         "title": "Research Analyst",
-        "desk": "Millennium",
-        "location": "Hedge Funds",
-        "base": "Hedge Fund",
-        "bonus": "New York"
+        "desk": "Hedge Fund",
+        "location": "New York",
+        "base": "$134,000",
+        "bonus": "$81,000",
+        "total": "$215,000"
       },
       {
         "year": "2021",
         "title": "Trader",
-        "desk": "Millennium",
-        "location": "Hedge Funds",
-        "base": "Investment Management",
-        "bonus": "new york"
+        "desk": "Investment Management",
+        "location": "New York",
+        "base": "$157,000",
+        "bonus": "$121,000",
+        "total": "$278,000"
       },
       {
         "year": "2021",
-        "title": "Quant",
-        "desk": "Millennium Partners",
-        "location": "Hedge Funds",
-        "base": "Other",
-        "bonus": "New York"
+        "title": "Quantitative Trader",
+        "desk": "Other",
+        "location": "New York",
+        "base": "$157,000",
+        "bonus": "$121,000",
+        "total": "$278,000"
       },
       {
         "year": "2021",
-        "title": "Quant",
-        "desk": "Millennium",
-        "location": "Hedge Funds",
-        "base": "Capital Markets",
-        "bonus": "Singapore"
+        "title": "Quantitative Trader",
+        "desk": "Capital Markets",
+        "location": "Singapore",
+        "base": "$157,000",
+        "bonus": "$121,000",
+        "total": "$278,000"
       },
       {
         "year": "2020",
         "title": "Portfolio Manager",
-        "desk": "Millennium Partners",
-        "location": "Hedge Funds",
-        "base": "Trading",
-        "bonus": "Central"
+        "desk": "Trading",
+        "location": "New York",
+        "base": "$215,000",
+        "bonus": "$258,000",
+        "total": "$473,000"
       },
       {
         "year": "2020",
-        "title": "Quant",
-        "desk": "Millennium",
-        "location": "Hedge Funds",
-        "base": "Quantitative Research",
-        "bonus": "London"
+        "title": "Quantitative Researcher",
+        "desk": "Quantitative Research",
+        "location": "London",
+        "base": "£116,000",
+        "bonus": "£73,000",
+        "total": "£189,000"
       },
       {
         "year": "2019",
-        "title": "Quant",
-        "desk": "Millennium",
-        "location": "Hedge Funds",
-        "base": "Equity Research",
-        "bonus": "New York"
+        "title": "Quantitative Researcher",
+        "desk": "Equity Research",
+        "location": "New York",
+        "base": "$144,000",
+        "bonus": "$111,000",
+        "total": "$255,000"
       },
       {
         "year": "2018",
         "title": "Research Analyst",
-        "desk": "Millennium Partners",
-        "location": "Hedge Funds",
-        "base": "Utilities",
-        "bonus": "New York"
+        "desk": "Utilities",
+        "location": "New York",
+        "base": "$118,000",
+        "bonus": "$71,000",
+        "total": "$189,000"
       },
       {
         "year": "2018",
         "title": "Assistant Portfolio Manager",
-        "desk": "Millennium Partners",
-        "location": "Hedge Funds",
-        "base": "N/A",
-        "bonus": "New York"
+        "desk": "Hedge Funds",
+        "location": "New York",
+        "base": "$118,000",
+        "bonus": "$71,000",
+        "total": "$189,000"
       },
       {
         "year": "2010",
-        "title": "Quant",
-        "desk": "Millennium",
-        "location": "Hedge Funds, Proprietary Trading",
-        "base": "Prop Trading",
-        "bonus": "New York"
+        "title": "Quantitative Trader",
+        "desk": "Prop Trading",
+        "location": "New York",
+        "base": "$131,000",
+        "bonus": "$101,000",
+        "total": "$232,000"
       },
       {
         "year": "2012",
         "title": "Research Analyst",
-        "desk": "Millennium",
-        "location": "Hedge Funds",
-        "base": "Research",
-        "bonus": "Bangkok"
+        "desk": "Research",
+        "location": "New York",
+        "base": "$112,000",
+        "bonus": "$68,000",
+        "total": "$180,000"
       }
     ],
     "reviews": [
@@ -5584,111 +5968,124 @@
       }
     ]
   },
-  "Qube (QRT)": {
+  "Qube": {
     "salaries": [
       {
         "year": "2025",
         "title": "Intern",
-        "desk": "Qube Research and Technologies",
-        "location": "Hedge Funds",
-        "base": "Technology",
-        "bonus": "Central"
+        "desk": "Technology",
+        "location": "London",
+        "base": "£93,000",
+        "bonus": "£12,000",
+        "total": "£105,000"
       },
       {
         "year": "2025",
         "title": "Intern",
-        "desk": "Qube Research and Technologies",
-        "location": "Hedge Funds",
-        "base": "N/A",
-        "bonus": "Paris"
+        "desk": "Hedge Funds",
+        "location": "Paris",
+        "base": "€62,000",
+        "bonus": "€10,000",
+        "total": "€72,000"
       },
       {
         "year": "2024",
         "title": "Intern",
-        "desk": "Qube Research and Technologies",
-        "location": "Hedge Funds",
-        "base": "Power",
-        "bonus": "London"
+        "desk": "Power",
+        "location": "London",
+        "base": "£90,000",
+        "bonus": "£12,000",
+        "total": "£102,000"
       },
       {
         "year": "2024",
         "title": "1st Year Analyst",
-        "desk": "Qube Research and Technologies",
-        "location": "Hedge Funds",
-        "base": "Hedge Fund",
-        "bonus": "London"
+        "desk": "Hedge Fund",
+        "location": "London",
+        "base": "£115,000",
+        "bonus": "£65,000",
+        "total": "£180,000"
       },
       {
         "year": "2024",
         "title": "Intern",
-        "desk": "Qube Research and Technologies",
-        "location": "Hedge Funds",
-        "base": "Commodities",
-        "bonus": "Singapore"
+        "desk": "Commodities",
+        "location": "Singapore",
+        "base": "$130,000",
+        "bonus": "$15,000",
+        "total": "$145,000"
       },
       {
         "year": "2024",
-        "title": "Quant",
-        "desk": "Qube Research and Technologies",
-        "location": "Hedge Funds",
-        "base": "Generalist",
-        "bonus": "Paris"
+        "title": "Quantitative Trader",
+        "desk": "Hedge Funds",
+        "location": "Paris",
+        "base": "€115,000",
+        "bonus": "€75,000",
+        "total": "€190,000"
       },
       {
         "year": "2023",
         "title": "Engineer",
-        "desk": "Qube Research and Technologies",
-        "location": "Hedge Funds, Hedge Fund",
-        "base": "Quantitative Research",
-        "bonus": "London"
+        "desk": "Quantitative Research",
+        "location": "London",
+        "base": "£130,000",
+        "bonus": "£82,000",
+        "total": "£212,000"
       },
       {
         "year": "2023",
         "title": "Intern",
-        "desk": "Qube Research and Technologies",
-        "location": "Hedge Funds",
-        "base": "Quantitative Research",
-        "bonus": "Paris"
+        "desk": "Quantitative Research",
+        "location": "Paris",
+        "base": "€58,000",
+        "bonus": "€10,000",
+        "total": "€68,000"
       },
       {
         "year": "2023",
         "title": "Intern",
-        "desk": "Qube Research and Technologies",
-        "location": "Hedge Funds",
-        "base": "Engineering",
-        "bonus": "London"
+        "desk": "Engineering",
+        "location": "London",
+        "base": "£87,000",
+        "bonus": "£12,000",
+        "total": "£99,000"
       },
       {
         "year": "2022",
         "title": "1st Year Analyst",
-        "desk": "Qube Research and Technologies",
-        "location": "Hedge Funds",
-        "base": "Quantitative Research",
-        "bonus": "Paris"
+        "desk": "Quantitative Research",
+        "location": "Paris",
+        "base": "€88,000",
+        "bonus": "€51,000",
+        "total": "€139,000"
       },
       {
         "year": "2021",
         "title": "Vice President",
-        "desk": "Qube Research and Technologies",
-        "location": "Hedge Funds",
-        "base": "Quantitative Research",
-        "bonus": "Central"
+        "desk": "Quantitative Research",
+        "location": "London",
+        "base": "£121,000",
+        "bonus": "£76,000",
+        "total": "£197,000"
       },
       {
         "year": "2021",
         "title": "2nd Year Analyst",
-        "desk": "Qube Research and Technologies",
-        "location": "Hedge Funds",
-        "base": "Quantitative Research",
-        "bonus": "Paris"
+        "desk": "Quantitative Research",
+        "location": "Paris",
+        "base": "€85,000",
+        "bonus": "€49,000",
+        "total": "€134,000"
       },
       {
         "year": "2020",
-        "title": "Quant",
-        "desk": "Qube Research and Technologies",
-        "location": "Hedge Funds",
-        "base": "Quantitative Research",
-        "bonus": "Paris"
+        "title": "Quantitative Researcher",
+        "desk": "Quantitative Research",
+        "location": "Paris",
+        "base": "€99,000",
+        "bonus": "€64,000",
+        "total": "€163,000"
       }
     ],
     "reviews": [
@@ -5783,18 +6180,20 @@
       {
         "year": "2023",
         "title": "Research Analyst",
-        "desk": "Goldman Sachs",
-        "location": "Equity Research",
-        "base": "Financial Institutions Group (FIG)",
-        "bonus": "United Arab Emirates"
+        "desk": "Financial Institutions Group (FIG)",
+        "location": "New York",
+        "base": "$116,000",
+        "bonus": "$63,000",
+        "total": "$179,000"
       },
       {
         "year": "2023",
         "title": "Assistant Portfolio Manager",
-        "desk": "Goldman Sachs",
-        "location": "Asset Management",
-        "base": "Quantitative Research",
-        "bonus": "New York"
+        "desk": "Quantitative Research",
+        "location": "New York",
+        "base": "$116,000",
+        "bonus": "$63,000",
+        "total": "$179,000"
       }
     ],
     "reviews": [
@@ -5949,50 +6348,56 @@
       {
         "year": "2025",
         "title": "Research Associate",
-        "desk": "Morgan Stanley",
-        "location": "Equity Research",
-        "base": "Consumer Investments",
-        "bonus": "New York, NY, USA"
+        "desk": "Consumer Investments",
+        "location": "New York",
+        "base": "$166,000",
+        "bonus": "$98,000",
+        "total": "$264,000"
       },
       {
         "year": "2019",
         "title": "Portfolio Manager",
-        "desk": "Morgan Stanley",
-        "location": "Investment Advisor",
-        "base": "Wealth Management",
-        "bonus": "Westport"
+        "desk": "Wealth Management",
+        "location": "New York",
+        "base": "$206,000",
+        "bonus": "$182,000",
+        "total": "$388,000"
       },
       {
         "year": "2023",
         "title": "Research Associate",
-        "desk": "Morgan Stanley",
-        "location": "Asset Management",
-        "base": "Investment Research",
-        "bonus": "Washington"
+        "desk": "Investment Research",
+        "location": "New York",
+        "base": "$154,000",
+        "bonus": "$92,000",
+        "total": "$246,000"
       },
       {
         "year": "2020",
-        "title": "Quant",
-        "desk": "Morgan Stanley",
-        "location": "Proprietary Trading",
-        "base": "Research",
-        "bonus": "New York"
+        "title": "Quantitative Researcher",
+        "desk": "Research",
+        "location": "New York",
+        "base": "$138,000",
+        "bonus": "$82,000",
+        "total": "$220,000"
       },
       {
         "year": "2022",
         "title": "Portfolio Manager",
-        "desk": "Morgan Stanley",
-        "location": "Asset Management",
-        "base": "Asset Management",
-        "bonus": "Seattle"
+        "desk": "Asset Management",
+        "location": "New York",
+        "base": "$232,000",
+        "bonus": "$205,000",
+        "total": "$437,000"
       },
       {
         "year": "2020",
-        "title": "Quant",
-        "desk": "Morgan Stanley",
-        "location": "Sales and Trading",
-        "base": "FICC - Fixed Income Currency and Commodities",
-        "bonus": "london"
+        "title": "Quantitative Trader",
+        "desk": "FICC - Fixed Income Currency and Commodities",
+        "location": "London",
+        "base": "£99,000",
+        "bonus": "£60,000",
+        "total": "£159,000"
       }
     ],
     "reviews": [
@@ -6147,18 +6552,20 @@
       {
         "year": "2018",
         "title": "Trading Assistant",
-        "desk": "JP Morgan Securities",
-        "location": "Investment Banking, Sales and Trading",
-        "base": "Operations",
-        "bonus": "New York"
+        "desk": "Operations",
+        "location": "New York",
+        "base": "$95,000",
+        "bonus": "$51,000",
+        "total": "$146,000"
       },
       {
         "year": "2017",
         "title": "Portfolio Manager",
-        "desk": "JP Morgan Securities",
-        "location": "Accounting",
-        "base": "N/A",
-        "bonus": "London"
+        "desk": "Accounting",
+        "location": "London",
+        "base": "£136,000",
+        "bonus": "£121,000",
+        "total": "£257,000"
       }
     ],
     "reviews": [
@@ -6313,42 +6720,47 @@
       {
         "year": "2025",
         "title": "Research Associate",
-        "desk": "Bank of America Merrill Lynch",
-        "location": "Equity Research",
-        "base": "Investment Research",
-        "bonus": "new york"
+        "desk": "Investment Research",
+        "location": "New York",
+        "base": "$166,000",
+        "bonus": "$98,000",
+        "total": "$264,000"
       },
       {
         "year": "2024",
         "title": "Portfolio Manager",
-        "desk": "Bank of America Private Bank",
-        "location": "Asset Management",
-        "base": "Private Banking",
-        "bonus": "Chicago"
+        "desk": "Private Banking",
+        "location": "Chicago",
+        "base": "$250,000",
+        "bonus": "$220,000",
+        "total": "$470,000"
       },
       {
         "year": "2023",
         "title": "Assistant Portfolio Manager",
-        "desk": "Bank of America Private Bank",
-        "location": "Asset Management",
-        "base": "Private Banking",
-        "bonus": "Kansas City"
+        "desk": "Private Banking",
+        "location": "New York",
+        "base": "$116,000",
+        "bonus": "$63,000",
+        "total": "$179,000"
       },
       {
         "year": "2022",
         "title": "Portfolio Manager",
-        "desk": "Bank of America Merrill Lynch",
-        "location": "Investment Banking",
-        "base": "Investment Banking",
-        "bonus": "Mountain View"
+        "desk": "Investment Banking",
+        "location": "New York",
+        "base": "$232,000",
+        "bonus": "$205,000",
+        "total": "$437,000"
       },
       {
         "year": "2022",
         "title": "Trading Assistant",
-        "desk": "Bank of America Merrill Lynch",
-        "location": "Sales and Trading",
-        "base": "Treasury",
-        "bonus": "New York"
+        "desk": "Treasury",
+        "location": "New York",
+        "base": "$112,000",
+        "bonus": "$60,000",
+        "total": "$172,000"
       }
     ],
     "reviews": [
@@ -6503,26 +6915,29 @@
       {
         "year": "2018",
         "title": "Trading Assistant",
-        "desk": "BNP Paribas",
-        "location": "Investment Banking, Sales and Trading",
-        "base": "FICC - Fixed Income Currency and Commodities",
-        "bonus": "Hong Kong"
+        "desk": "FICC - Fixed Income Currency and Commodities",
+        "location": "Hong Kong",
+        "base": "$91,000",
+        "bonus": "$40,000",
+        "total": "$131,000"
       },
       {
         "year": "2020",
         "title": "Assistant Portfolio Manager",
-        "desk": "BNP Paribas",
-        "location": "Asset Management",
-        "base": "Asset Management",
-        "bonus": "Paris"
+        "desk": "Asset Management",
+        "location": "Paris",
+        "base": "€60,000",
+        "bonus": "€26,000",
+        "total": "€86,000"
       },
       {
         "year": "2017",
         "title": "Research Analyst",
-        "desk": "BNP Paribas",
-        "location": "Asset Management",
-        "base": "Investment Management",
-        "bonus": "Geneva"
+        "desk": "Investment Management",
+        "location": "Geneva",
+        "base": "€53,000",
+        "bonus": "€23,000",
+        "total": "€76,000"
       }
     ],
     "reviews": [
@@ -6677,162 +7092,182 @@
       {
         "year": "2023",
         "title": "Research Associate",
-        "desk": "Société Générale",
-        "location": "Equity Research",
-        "base": "Equity Research",
-        "bonus": "London"
+        "desk": "Equity Research",
+        "location": "London",
+        "base": "£96,000",
+        "bonus": "£58,000",
+        "total": "£154,000"
       },
       {
         "year": "2022",
         "title": "Trading Assistant",
-        "desk": "Société Générale",
-        "location": "Investment Banking",
-        "base": "Global Markets",
-        "bonus": "Paris"
+        "desk": "Global Markets",
+        "location": "Paris",
+        "base": "€65,000",
+        "bonus": "€28,000",
+        "total": "€93,000"
       },
       {
         "year": "2019",
         "title": "Junior Trader",
-        "desk": "Société Générale",
-        "location": "Sales and Trading",
-        "base": "Equities",
-        "bonus": "London"
+        "desk": "Equities",
+        "location": "London",
+        "base": "£62,000",
+        "bonus": "£33,000",
+        "total": "£95,000"
       },
       {
         "year": "2019",
         "title": "Trading Assistant",
-        "desk": "Société Générale",
-        "location": "Sales and Trading",
-        "base": "Derivatives",
-        "bonus": "New York"
+        "desk": "Derivatives",
+        "location": "New York",
+        "base": "$95,000",
+        "bonus": "$41,000",
+        "total": "$136,000"
       },
       {
         "year": "2015",
-        "title": "Société Générale",
-        "desk": "Sales and Trading",
-        "location": "Equity Capital Markets",
-        "base": "Hong Kong",
-        "bonus": "Hong Kong SAR China"
+        "title": "Quantitative Trader",
+        "desk": "Equity Capital Markets",
+        "location": "Hong Kong",
+        "base": "$109,000",
+        "bonus": "$56,000",
+        "total": "$165,000"
       },
       {
         "year": "2015",
-        "title": "Société Générale",
-        "desk": "Sales and Trading",
-        "location": "Investment Banking",
-        "base": "New York",
-        "bonus": "United States"
+        "title": "Quantitative Trader",
+        "desk": "Investment Banking",
+        "location": "New York",
+        "base": "$109,000",
+        "bonus": "$56,000",
+        "total": "$165,000"
       },
       {
         "year": "2013",
         "title": "Research Analyst",
-        "desk": "Société Générale",
-        "location": "Asset Management",
-        "base": "Investment Research",
-        "bonus": "London"
+        "desk": "Investment Research",
+        "location": "London",
+        "base": "£56,000",
+        "bonus": "£30,000",
+        "total": "£86,000"
       },
       {
         "year": "2014",
         "title": "Trading Assistant",
-        "desk": "Société Générale",
-        "location": "Sales and Trading",
-        "base": "Sales and Trading",
-        "bonus": "New York"
+        "desk": "Sales and Trading",
+        "location": "New York",
+        "base": "$86,000",
+        "bonus": "$38,000",
+        "total": "$124,000"
       },
       {
         "year": "2013",
         "title": "Trader",
-        "desk": "Société Générale",
-        "location": "Asset Management, Corporate Finance, Equity Research, Investment Banking, Sales and Trading",
-        "base": "Societe Generale Securities Services",
-        "bonus": "Taipei"
+        "desk": "Societe Generale Securities Services",
+        "location": "Paris",
+        "base": "€68,000",
+        "bonus": "€38,000",
+        "total": "€106,000"
       },
       {
         "year": "2012",
-        "title": "Société Générale",
-        "desk": "Asset Management, Corporate Finance, Equity Research, Investment Banking, Sales and Trading",
-        "location": "Investment Banking",
-        "base": "New York",
-        "bonus": "United States"
+        "title": "Quantitative Trader",
+        "desk": "Investment Banking",
+        "location": "New York",
+        "base": "$109,000",
+        "bonus": "$56,000",
+        "total": "$165,000"
       },
       {
         "year": "2012",
         "title": "Trader",
-        "desk": "Société Générale",
-        "location": "Asset Management, Corporate Finance, Equity Research, Investment Banking, Sales and Trading",
-        "base": "Equities",
-        "bonus": "New York"
+        "desk": "Equities",
+        "location": "New York",
+        "base": "$109,000",
+        "bonus": "$56,000",
+        "total": "$165,000"
       },
       {
         "year": "2011",
-        "title": "Société Générale",
-        "desk": "Asset Management, Corporate Finance, Equity Research, Investment Banking, Sales and Trading",
-        "location": "Operations",
-        "base": "Paris",
-        "bonus": "France"
+        "title": "Quantitative Trader",
+        "desk": "Operations",
+        "location": "Paris",
+        "base": "€68,000",
+        "bonus": "€38,000",
+        "total": "€106,000"
       },
       {
         "year": "2011",
-        "title": "Société Générale",
-        "desk": "Asset Management, Corporate Finance, Equity Research, Investment Banking, Sales and Trading",
-        "location": "SAFE",
-        "base": "Jersey City",
-        "bonus": "United States"
+        "title": "Quantitative Trader",
+        "desk": "Jersey City",
+        "location": "Paris",
+        "base": "€68,000",
+        "bonus": "€38,000",
+        "total": "€106,000"
       },
       {
         "year": "2007",
-        "title": "Société Générale",
-        "desk": "Asset Management, Corporate Finance, Equity Research, Investment Banking, Sales and Trading",
-        "location": "Sgcib, geds-deai",
-        "base": "Paris",
-        "bonus": "France"
+        "title": "Quantitative Trader",
+        "desk": "Sgcib, geds-deai",
+        "location": "Paris",
+        "base": "€68,000",
+        "bonus": "€38,000",
+        "total": "€106,000"
       },
       {
         "year": "2012",
-        "title": "Société Générale",
-        "desk": "Asset Management, Corporate Finance, Equity Research, Investment Banking, Sales and Trading",
-        "location": "Mergers and Acquisitions",
-        "base": "Paris",
-        "bonus": "France"
+        "title": "Quantitative Trader",
+        "desk": "Mergers and Acquisitions",
+        "location": "Paris",
+        "base": "€68,000",
+        "bonus": "€38,000",
+        "total": "€106,000"
       },
       {
         "year": "2003",
-        "title": "Société Générale",
-        "desk": "Asset Management, Corporate Finance, Equity Research, Investment Banking, Sales and Trading",
-        "location": "Derivatives",
-        "base": "New York",
-        "bonus": "United States"
+        "title": "Quantitative Trader",
+        "desk": "Derivatives",
+        "location": "New York",
+        "base": "$109,000",
+        "bonus": "$56,000",
+        "total": "$165,000"
       },
       {
         "year": "2012",
-        "title": "Quant",
-        "desk": "Société Générale",
-        "location": "Asset Management, Corporate Finance, Equity Research, Investment Banking, Sales and Trading",
-        "base": "Investment Banking",
-        "bonus": "New York"
+        "title": "Quantitative Trader",
+        "desk": "Investment Banking",
+        "location": "New York",
+        "base": "$109,000",
+        "bonus": "$56,000",
+        "total": "$165,000"
       },
       {
         "year": "2012",
         "title": "Trader",
-        "desk": "Société Générale",
-        "location": "Asset Management, Corporate Finance, Equity Research, Investment Banking, Sales and Trading",
-        "base": "Customer Service",
-        "bonus": "New York"
+        "desk": "Customer Service",
+        "location": "New York",
+        "base": "$109,000",
+        "bonus": "$56,000",
+        "total": "$165,000"
       },
       {
         "year": "2010",
         "title": "Research Associate",
-        "desk": "Société Générale",
-        "location": "Asset Management, Corporate Finance, Equity Research, Investment Banking, Sales and Trading",
-        "base": "France",
-        "bonus": "$70,000/yr"
+        "desk": "France",
+        "location": "Paris",
+        "base": "€68,000",
+        "bonus": "€38,000",
+        "total": "€106,000"
       },
       {
-        "year": "1st Year Analyst",
-        "title": "Société Générale",
-        "desk": "Asset Management, Corporate Finance, Equity Research, Investment Banking, Sales and Trading",
-        "location": "$70,000/yr",
-        "base": "0",
-        "bonus": "0"
+        "year": "2024",
+        "title": "Quantitative Trader",
+        "desk": "0",
+        "location": "Paris",
+        "base": "€90,000",
+        "bonus": "€50,000",
+        "total": "€140,000"
       }
     ],
     "reviews": [
