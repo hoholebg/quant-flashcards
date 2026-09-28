@@ -18,6 +18,8 @@ let currentDifficulty = 'ALL';
 let searchQuery = '';
 let onlyFavorites = false;
 let onlyReview = false;
+let isShuffled = false;
+let toastTimeout;
 
 // DOM Elements
 const cardScene = document.getElementById('card-scene');
@@ -41,14 +43,20 @@ const flipBtn = document.getElementById('flip-btn');
 const masteredBtn = document.getElementById('mastered-btn');
 const reviewBtn = document.getElementById('review-btn');
 const shuffleBtn = document.getElementById('shuffle-btn');
+const bottomShuffleBtn = document.getElementById('bottom-shuffle-btn');
+const toggleFiltersBtn = document.getElementById('toggle-filters-btn');
+const cardsFilterBar = document.getElementById('cards-filter-bar');
+const filterActiveDot = document.getElementById('filter-active-dot');
 const favFilterBtn = document.getElementById('fav-filter-btn');
 
 const companyFilter = document.getElementById('company-filter');
 const difficultyFilter = document.getElementById('difficulty-filter');
 const searchInput = document.getElementById('search-input');
 const tagsChips = document.getElementById('tags-chips');
+const decksSearchInput = document.getElementById('decks-search-input');
 
 const cardIndexIndicator = document.getElementById('card-index-indicator');
+const shuffleIndicator = document.getElementById('shuffle-indicator');
 const progressFill = document.getElementById('progress-fill');
 const progressPct = document.getElementById('progress-pct');
 const masteredCountEl = document.getElementById('mastered-count');
@@ -174,11 +182,11 @@ function populateCompanyFilter() {
 }
 
 // Render Decks Hub Grid
-function renderDecksHub() {
-  renderDeckGroup('grid-math', FIRM_GROUPS.math);
-  renderDeckGroup('grid-prop', FIRM_GROUPS.prop);
-  renderDeckGroup('grid-banks', FIRM_GROUPS.banks);
-  renderDeckGroup('grid-funds', FIRM_GROUPS.funds);
+function renderDecksHub(searchFilter = '') {
+  renderDeckGroup('grid-math', FIRM_GROUPS.math, searchFilter);
+  renderDeckGroup('grid-prop', FIRM_GROUPS.prop, searchFilter);
+  renderDeckGroup('grid-banks', FIRM_GROUPS.banks, searchFilter);
+  renderDeckGroup('grid-funds', FIRM_GROUPS.funds, searchFilter);
 
   const countMath = document.getElementById('count-math-decks');
   const countProp = document.getElementById('count-prop-decks');
@@ -193,11 +201,27 @@ function renderDecksHub() {
   if (totalDecksBadge) totalDecksBadge.innerText = FIRM_GROUPS.math.length + FIRM_GROUPS.prop.length + FIRM_GROUPS.banks.length + FIRM_GROUPS.funds.length;
 }
 
-function renderDeckGroup(gridId, firmsList) {
+function renderDeckGroup(gridId, firmsList, searchFilter = '') {
   const container = document.getElementById(gridId);
   if (!container) return;
 
-  const html = firmsList.map(comp => {
+  const filteredFirms = firmsList.filter(comp => {
+    if (!searchFilter) return true;
+    const q = searchFilter.toLowerCase();
+    const compCards = allCards.filter(c => c.company === comp);
+    const matchName = comp.toLowerCase().includes(q);
+    const matchTag = compCards.some(c => (c.tags || []).some(t => t.toLowerCase().includes(q)));
+    return matchName || matchTag;
+  });
+
+  const sectionParent = container.closest('div');
+  if (sectionParent && searchFilter) {
+    sectionParent.style.display = filteredFirms.length > 0 ? 'block' : 'none';
+  } else if (sectionParent) {
+    sectionParent.style.display = 'block';
+  }
+
+  const html = filteredFirms.map(comp => {
     const compCards = allCards.filter(c => c.company === comp);
     const count = compCards.length;
     if (count === 0) return '';
@@ -234,8 +258,10 @@ function renderDeckGroup(gridId, firmsList) {
           </div>
         </div>
         <div class="deck-card-footer">
-          <span>Ouvrir ce paquet</span>
-          <span>→</span>
+          <span class="deck-open-text">Ouvrir ce paquet →</span>
+          <button class="deck-card-shuffle-btn" title="Lancer ce paquet en mode aléatoire" onclick="event.stopPropagation(); launchDeckShuffled('${escapeJsString(comp)}')">
+            <span>🔀</span> <span class="quick-shuffle-label">Mélanger</span>
+          </button>
         </div>
       </div>
     `;
@@ -254,6 +280,62 @@ function escapeJsString(str) {
   return str.replace(/\\/g, '\\\\').replace(/'/g, "\\'");
 }
 
+// Toast Notification
+function showToast(msg) {
+  const toast = document.getElementById('toast');
+  if (!toast) return;
+  toast.innerHTML = msg;
+  toast.classList.add('show');
+  clearTimeout(toastTimeout);
+  toastTimeout = setTimeout(() => {
+    toast.classList.remove('show');
+  }, 2200);
+}
+
+// Shuffle Indicator & State
+function updateShuffleIndicator() {
+  if (shuffleIndicator) {
+    shuffleIndicator.style.display = isShuffled ? 'inline-flex' : 'none';
+  }
+}
+
+function updateFilterDot() {
+  if (filterActiveDot) {
+    const hasActiveFilters = (currentDifficulty !== 'ALL') || 
+                             (currentTag !== 'ALL') || 
+                             (searchQuery.length > 0) || 
+                             onlyFavorites || 
+                             onlyReview;
+    filterActiveDot.style.display = hasActiveFilters ? 'inline-block' : 'none';
+  }
+}
+
+// Global Shuffle Function
+function shuffleCards(notify = true) {
+  if (filteredCards.length <= 1) return;
+  for (let i = filteredCards.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [filteredCards[i], filteredCards[j]] = [filteredCards[j], filteredCards[i]];
+  }
+  isShuffled = true;
+  currentIndex = 0;
+  resetFlip();
+  updateShuffleIndicator();
+
+  // Visual card animation on cardScene wrapper
+  if (cardScene) {
+    cardScene.classList.remove('card-shuffled');
+    void cardScene.offsetWidth; // Trigger reflow
+    cardScene.classList.add('card-shuffled');
+  }
+
+  if (navigator.vibrate) navigator.vibrate([25, 30, 25]);
+
+  if (notify) {
+    showToast(`🔀 ${filteredCards.length} cartes mélangées aléatoirement !`);
+  }
+}
+
 // Launch Deck Action
 window.launchDeck = function(company) {
   currentCompany = company;
@@ -262,6 +344,7 @@ window.launchDeck = function(company) {
   currentTag = 'ALL';
   currentDifficulty = 'ALL';
   searchQuery = '';
+  isShuffled = false;
   if (searchInput) searchInput.value = '';
 
   // Update company dropdown
@@ -284,7 +367,7 @@ window.launchDeck = function(company) {
   const activeDeckTitle = document.getElementById('active-deck-title');
   const activeDeckBadge = document.getElementById('active-deck-badge');
   if (activeDeckTitle) {
-    activeDeckTitle.innerText = company === 'ALL' ? 'Grand Chelem (26 Boîtes)' : company;
+    activeDeckTitle.innerText = company === 'ALL' ? 'Grand Chelem (28 Boîtes)' : company;
   }
   if (activeDeckBadge) {
     const count = company === 'ALL' ? allCards.length : allCards.filter(c => c.company === company).length;
@@ -293,6 +376,14 @@ window.launchDeck = function(company) {
 
   switchTab('cards');
   applyFilters();
+};
+
+// Launch Deck in Shuffled Mode
+window.launchDeckShuffled = function(company) {
+  window.launchDeck(company);
+  shuffleCards(false);
+  const name = company === 'ALL' ? 'Grand Chelem' : company;
+  showToast(`🔀 <strong>${escapeHtml(name)}</strong> ouvert en mode aléatoire (${filteredCards.length} cartes) !`);
 };
 
 // Open Favorites Deck
@@ -391,6 +482,9 @@ function applyFilters() {
 
   currentIndex = 0;
   isFlipped = false;
+  isShuffled = false;
+  updateShuffleIndicator();
+  updateFilterDot();
   if (activeCard) activeCard.classList.remove('flipped');
   updateStats();
   renderCurrentCard();
@@ -621,15 +715,30 @@ function setupEventListeners() {
     });
   }
 
-  // Shuffle Cards
+  // Shuffle Cards (Top and Bottom buttons)
   if (shuffleBtn) {
-    shuffleBtn.addEventListener('click', () => {
-      for (let i = filteredCards.length - 1; i > 0; i--) {
-        const j = Math.floor(Math.random() * (i + 1));
-        [filteredCards[i], filteredCards[j]] = [filteredCards[j], filteredCards[i]];
-      }
-      currentIndex = 0;
-      resetFlip();
+    shuffleBtn.addEventListener('click', () => shuffleCards(true));
+  }
+  if (bottomShuffleBtn) {
+    bottomShuffleBtn.addEventListener('click', () => shuffleCards(true));
+  }
+
+  // Toggle Filters Drawer on Mobile
+  if (toggleFiltersBtn && cardsFilterBar) {
+    toggleFiltersBtn.addEventListener('click', () => {
+      cardsFilterBar.classList.toggle('expanded');
+      toggleFiltersBtn.classList.toggle('active', cardsFilterBar.classList.contains('expanded'));
+    });
+  }
+
+  // Decks Hub Search Input
+  if (decksSearchInput) {
+    let decksSearchTimeout;
+    decksSearchInput.addEventListener('input', (e) => {
+      clearTimeout(decksSearchTimeout);
+      decksSearchTimeout = setTimeout(() => {
+        renderDecksHub(e.target.value.trim());
+      }, 150);
     });
   }
 
@@ -640,7 +749,7 @@ function setupEventListeners() {
       const activeDeckTitle = document.getElementById('active-deck-title');
       const activeDeckBadge = document.getElementById('active-deck-badge');
       if (activeDeckTitle) {
-        activeDeckTitle.innerText = currentCompany === 'ALL' ? 'Grand Chelem (26 Boîtes)' : currentCompany;
+        activeDeckTitle.innerText = currentCompany === 'ALL' ? 'Grand Chelem (28 Boîtes)' : currentCompany;
       }
       if (activeDeckBadge) {
         const count = currentCompany === 'ALL' ? allCards.length : allCards.filter(c => c.company === currentCompany).length;
@@ -698,6 +807,8 @@ function setupEventListeners() {
       if (masteredBtn) masteredBtn.click();
     } else if (e.key === 'r' || e.key === 'R') {
       if (reviewBtn) reviewBtn.click();
+    } else if (e.key === 's' || e.key === 'S') {
+      shuffleCards(true);
     }
   });
 

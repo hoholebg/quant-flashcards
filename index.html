@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
-  <title>QuantCards — 2 607 Flashcards d'Entretiens Quant & S&T (WSO)</title>
-  <meta name="description" content="L'application d'entraînement ultime pour les entretiens de Quant Trading, Quant Research et Sales & Trading. 2 607 questions mot-pour-mot extraites de Wall Street Oasis.">
+  <title>QuantCards — 3 886 Flashcards d'Entretiens Quant & S&T (WSO)</title>
+  <meta name="description" content="L'application d'entraînement ultime pour les entretiens de Quant Trading, Quant Research et Sales & Trading. 3 886 questions réelles de Wall Street Oasis et tests de calcul mental 80-in-8.">
   <meta name="theme-color" content="#090d16">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
@@ -36,12 +36,12 @@
         <button class="nav-tab-btn active" id="tab-decks" onclick="switchTab('decks')">
           <span class="tab-emoji">📦</span>
           <span class="tab-label">Paquets</span>
-          <span class="tab-badge" id="total-decks-badge">26</span>
+          <span class="tab-badge" id="total-decks-badge">28</span>
         </button>
         <button class="nav-tab-btn" id="tab-cards" onclick="switchTab('cards')">
           <span class="tab-emoji">🃏</span>
           <span class="tab-label">Cartes</span>
-          <span class="tab-badge" id="total-cards-badge">2607</span>
+          <span class="tab-badge" id="total-cards-badge">3886</span>
         </button>
         <button class="nav-tab-btn" id="tab-salaries" onclick="switchTab('salaries')">
           <span class="tab-emoji">💰</span>
@@ -70,7 +70,10 @@
         
         <div class="hero-actions">
           <button class="btn-primary-action" onclick="launchDeck('ALL')">
-            <span>🃏</span> Lancer le Grand Chelem (Toutes les 2 607 cartes)
+            <span>🃏</span> Grand Chelem (3 886 cartes)
+          </button>
+          <button class="btn-primary-action btn-shuffle-hero" onclick="launchDeckShuffled('ALL')">
+            <span>🔀</span> Mode Aléatoire (Tout mélanger)
           </button>
           <button class="btn-secondary-action" onclick="openFavoritesDeck()">
             <span>⭐</span> Mes Cartes Favorites (<span id="banner-fav-count">0</span>)
@@ -78,6 +81,14 @@
           <button class="btn-secondary-action" onclick="openReviewDeck()">
             <span>❌</span> À Revoir (<span id="banner-review-count">0</span>)
           </button>
+        </div>
+      </div>
+
+      <!-- Decks Hub Quick Filter Bar -->
+      <div class="decks-search-bar">
+        <div class="search-box">
+          <svg class="search-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path></svg>
+          <input type="text" id="decks-search-input" placeholder="Filtrer un paquet par nom ou catégorie (ex: Jane Street, Optiver, Carrés, Citadel)...">
         </div>
       </div>
 
@@ -132,9 +143,9 @@
 
       <!-- Deck Top Navigation Bar -->
       <div class="deck-navigation-bar">
-        <button class="btn-back-decks" onclick="switchTab('decks')">
+        <button class="btn-back-decks" onclick="switchTab('decks')" title="Retourner aux paquets">
           <svg width="15" height="15" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M15 19l-7-7 7-7"></path></svg>
-          <span>Paquets</span>
+          <span class="back-label">Paquets</span>
         </button>
 
         <div class="current-deck-info">
@@ -142,17 +153,23 @@
           <span class="deck-badge-count" id="active-deck-badge">339 cartes</span>
         </div>
 
-        <button class="btn-shuffle-deck" id="shuffle-btn" title="Mélanger le paquet">
-          <span>🔀</span> <span class="shuffle-label">Mélanger</span>
-        </button>
+        <div class="deck-nav-actions">
+          <button class="btn-toggle-filters" id="toggle-filters-btn" title="Afficher ou masquer les filtres">
+            <span>🔍</span> <span class="filter-btn-label">Filtres</span>
+            <span class="filter-active-dot" id="filter-active-dot" style="display:none;"></span>
+          </button>
+          <button class="btn-shuffle-deck" id="shuffle-btn" title="Mélanger le paquet aléatoirement">
+            <span>🔀</span> <span class="shuffle-label">Mélanger</span>
+          </button>
+        </div>
       </div>
 
-      <!-- Filters & Search -->
-      <div class="filter-bar">
+      <!-- Filters & Search (Collapsible / Compact) -->
+      <div class="filter-bar cards-filter-bar" id="cards-filter-bar">
         <div class="search-row">
           <div class="search-box">
             <svg class="search-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path></svg>
-            <input type="text" id="search-input" placeholder="Rechercher dans ce paquet (ex: dice, Bayes, Greeks, straddle)...">
+            <input type="text" id="search-input" placeholder="Rechercher (ex: dice, Bayes, Greeks, straddle)...">
           </div>
           <button class="ctrl-btn ctrl-btn-nav" id="fav-filter-btn" title="Afficher uniquement les favoris de ce paquet">
             ⭐
@@ -161,7 +178,7 @@
 
         <div class="filter-selects">
           <select id="company-filter">
-            <option value="ALL">🏢 Toutes les institutions (26 boîtes)</option>
+            <option value="ALL">🏢 Toutes les institutions (28 boîtes)</option>
           </select>
 
           <select id="difficulty-filter">
@@ -188,9 +205,12 @@
         </div>
       </div>
 
-      <!-- Progress Bar -->
+      <!-- Progress Bar with Shuffle Indicator -->
       <div class="progress-container">
-        <span id="card-index-indicator">Carte 1 sur 339</span>
+        <div class="progress-left-info">
+          <span id="card-index-indicator">Carte 1 sur 339</span>
+          <span id="shuffle-indicator" class="shuffle-status-badge" style="display:none;" title="Ordre aléatoire actif">🔀 Aléatoire</span>
+        </div>
         <div class="progress-bar-bg">
           <div class="progress-bar-fill" id="progress-fill"></div>
         </div>
@@ -234,9 +254,9 @@
               <div class="card-footer" style="margin-top:0.85rem;">
                 <span class="flip-hint">
                   <svg width="14" height="14" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15"></path></svg>
-                  Toucher / Cliquer pour voir la réponse
+                  <span>Toucher pour voir la réponse</span>
                 </span>
-                <span style="font-size:0.7rem; color:var(--text-muted);">(Espace ou Clic)</span>
+                <span class="desktop-hint" style="font-size:0.7rem; color:var(--text-muted);">(Espace ou Clic)</span>
               </div>
             </div>
           </div>
@@ -264,7 +284,7 @@
               <div class="process-context" id="card-process-full" style="display:none;"></div>
               <div class="card-footer" style="margin-top:0.85rem;">
                 <span class="flip-hint" style="color:#94a3b8;">
-                  ↻ Cliquer pour retourner à la question
+                  ↻ Toucher pour retourner à la question
                 </span>
                 <span id="card-outcome" style="font-weight:600; color:#38bdf8;"></span>
               </div>
@@ -274,23 +294,38 @@
         </div>
       </div>
 
-      <!-- Controls Row -->
-      <div class="controls-row">
-        <button class="ctrl-btn ctrl-btn-nav" id="prev-btn" title="Carte précédente (Flèche Gauche)">
-          ⬅️
-        </button>
-        <button class="ctrl-btn ctrl-btn-review" id="review-btn" title="Marquer à revoir">
-          ❌ À revoir
-        </button>
-        <button class="ctrl-btn ctrl-btn-flip" id="flip-btn">
-          🔄 Retourner
-        </button>
-        <button class="ctrl-btn ctrl-btn-mastered" id="mastered-btn" title="Marquer comme maîtrisé">
-          ✅ Je sais
-        </button>
-        <button class="ctrl-btn ctrl-btn-nav" id="next-btn" title="Carte suivante (Flèche Droite)">
-          ➡️
-        </button>
+      <!-- Controls Container -->
+      <div class="controls-container">
+        <!-- Navigation & Shuffle Row -->
+        <div class="controls-nav-row">
+          <button class="ctrl-btn ctrl-btn-nav" id="prev-btn" title="Carte précédente (Flèche Gauche)">
+            <svg width="15" height="15" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M15 19l-7-7 7-7"></path></svg>
+            <span class="ctrl-text">Précédente</span>
+          </button>
+          
+          <button class="ctrl-btn ctrl-btn-shuffle" id="bottom-shuffle-btn" title="Mélanger les cartes (Ordre aléatoire)">
+            <span>🔀</span>
+            <span class="ctrl-text">Mélanger</span>
+          </button>
+
+          <button class="ctrl-btn ctrl-btn-nav" id="next-btn" title="Carte suivante (Flèche Droite)">
+            <span class="ctrl-text">Suivante</span>
+            <svg width="15" height="15" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M9 5l7 7-7 7"></path></svg>
+          </button>
+        </div>
+
+        <!-- Primary Study Actions Row -->
+        <div class="controls-study-row">
+          <button class="ctrl-btn ctrl-btn-review" id="review-btn" title="Marquer à revoir (R)">
+            <span>❌</span> <span>À revoir</span>
+          </button>
+          <button class="ctrl-btn ctrl-btn-flip" id="flip-btn" title="Retourner la carte (Espace)">
+            <span>🔄</span> <span>Retourner</span>
+          </button>
+          <button class="ctrl-btn ctrl-btn-mastered" id="mastered-btn" title="Marquer comme maîtrisé (M)">
+            <span>✅</span> <span>Je sais</span>
+          </button>
+        </div>
       </div>
 
     </section>
@@ -344,6 +379,9 @@
     </section>
 
   </main>
+
+  <!-- Toast Notification -->
+  <div id="toast" class="toast-notification"></div>
 
   <script src="app.js"></script>
 </body>
