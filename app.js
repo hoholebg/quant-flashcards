@@ -81,11 +81,17 @@ const BADGE_COLORS = {
   'CTC': 'badge-ctc',
   'Peak6': 'badge-peak6',
   'Maven': 'badge-maven',
-  'Qube': 'badge-qube'
+  'Qube': 'badge-qube',
+  'Carrés Parfaits (1 à 99)': 'badge-math-squares',
+  'Tables de Multiplication (jusqu\'à 50)': 'badge-math-tables'
 };
 
 // Firm Groupings for Decks Hub
 const FIRM_GROUPS = {
+  math: [
+    'Carrés Parfaits (1 à 99)',
+    'Tables de Multiplication (jusqu\'à 50)'
+  ],
   prop: [
     'Jane Street',
     'Optiver',
@@ -169,19 +175,22 @@ function populateCompanyFilter() {
 
 // Render Decks Hub Grid
 function renderDecksHub() {
+  renderDeckGroup('grid-math', FIRM_GROUPS.math);
   renderDeckGroup('grid-prop', FIRM_GROUPS.prop);
   renderDeckGroup('grid-banks', FIRM_GROUPS.banks);
   renderDeckGroup('grid-funds', FIRM_GROUPS.funds);
 
+  const countMath = document.getElementById('count-math-decks');
   const countProp = document.getElementById('count-prop-decks');
   const countBanks = document.getElementById('count-banks-decks');
   const countFunds = document.getElementById('count-funds-decks');
   const totalDecksBadge = document.getElementById('total-decks-badge');
 
+  if (countMath) countMath.innerText = `${FIRM_GROUPS.math.length} Paquets Spéciaux`;
   if (countProp) countProp.innerText = `${FIRM_GROUPS.prop.length} Paquets`;
   if (countBanks) countBanks.innerText = `${FIRM_GROUPS.banks.length} Paquets`;
   if (countFunds) countFunds.innerText = `${FIRM_GROUPS.funds.length} Paquets`;
-  if (totalDecksBadge) totalDecksBadge.innerText = FIRM_GROUPS.prop.length + FIRM_GROUPS.banks.length + FIRM_GROUPS.funds.length;
+  if (totalDecksBadge) totalDecksBadge.innerText = FIRM_GROUPS.math.length + FIRM_GROUPS.prop.length + FIRM_GROUPS.banks.length + FIRM_GROUPS.funds.length;
 }
 
 function renderDeckGroup(gridId, firmsList) {
